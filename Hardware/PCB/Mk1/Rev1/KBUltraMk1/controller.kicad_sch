@@ -9508,7 +9508,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "87a94ca7-6c3a-4d03-962d-e7d778a3a2b0")
-		(property "Reference" "J?"
+		(property "Reference" "J101"
 			(at 264.16 20.32 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9615,7 +9615,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/aecb405b-8b8b-4d2e-ac62-4bd044d58a6c"
-					(reference "J?")
+					(reference "J101")
 					(unit 1)
 				)
 			)
@@ -11109,7 +11109,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD:L_0805_2012Metric"
 			(at 43.18 41.91 0)
 			(hide yes)
 			(show_name no)
