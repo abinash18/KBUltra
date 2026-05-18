@@ -3,10 +3,60 @@
 	(generator "eeschema")
 	(generator_version "10.0")
 	(uuid "b5c66110-c4bc-44b7-b74f-0bc521af7455")
-	(paper "A3")
+	(paper "A4")
 	(lib_symbols)
+	(wire
+		(pts
+			(xy 228.6 86.36) (xy 86.36 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2976fa41-b88b-4085-85dd-8d73116a7d2a")
+	)
+	(wire
+		(pts
+			(xy 78.74 35.56) (xy 86.36 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2c4cd1cd-dcc4-487c-884b-9a2695f7c897")
+	)
+	(bus
+		(pts
+			(xy 76.2 30.48) (xy 228.6 30.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3bd68362-b957-41ee-925c-84c8666570d5")
+	)
+	(bus
+		(pts
+			(xy 76.2 27.94) (xy 228.6 27.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aa0ed20a-f557-4844-bf47-e44e618682e9")
+	)
+	(wire
+		(pts
+			(xy 86.36 86.36) (xy 86.36 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d52c091e-5352-4cc1-b9da-4ec19b8237d1")
+	)
 	(sheet
-		(at 177.8 76.2)
+		(at 228.6 25.4)
 		(size 25.4 50.8)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -22,7 +72,7 @@
 		)
 		(uuid "0bd22731-92ed-4664-9973-f6bba0bd1b6d")
 		(property "Sheetname" "Key Matrix"
-			(at 177.8 75.4884 0)
+			(at 228.6 24.6884 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -33,7 +83,73 @@
 			)
 		)
 		(property "Sheetfile" "key_matrix.kicad_sch"
-			(at 177.8 127.5846 0)
+			(at 228.6 76.7846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "COL[0..14]" input
+			(at 228.6 27.94 180)
+			(uuid "2e4fe35d-7012-47ab-b52c-e48b325f49fa")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "ROW[0..4]" input
+			(at 228.6 30.48 180)
+			(uuid "d6b4b4e7-5c6a-445d-81b1-dc168a946443")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "KBUltraMk1"
+				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 50.8 101.6)
+		(size 25.4 50.8)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 255 194 1)
+		)
+		(uuid "37a2e385-e742-4cdf-beae-5de0108665d5")
+		(property "Sheetname" "Extras"
+			(at 50.8 100.8884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "extras.kicad_sch"
+			(at 50.8 152.9846 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -46,13 +162,13 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455"
-					(page "2")
+					(page "5")
 				)
 			)
 		)
 	)
 	(sheet
-		(at 228.6 76.2)
+		(at 228.6 83.82)
 		(size 25.4 50.8)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -68,7 +184,7 @@
 		)
 		(uuid "3929dec5-d955-4ff8-bed6-10346a8e437b")
 		(property "Sheetname" "Lighting"
-			(at 228.6 75.4884 0)
+			(at 228.6 83.1084 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -79,7 +195,7 @@
 			)
 		)
 		(property "Sheetfile" "lighting.kicad_sch"
-			(at 228.6 127.5846 0)
+			(at 228.6 135.2046 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -89,10 +205,96 @@
 				(justify left top)
 			)
 		)
+		(pin "LED_DIN" input
+			(at 228.6 86.36 180)
+			(uuid "b36d5976-48da-4505-bd16-691e29ce6347")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "LED_DOUT" input
+			(at 228.6 88.9 180)
+			(uuid "4c56ffe0-1fe8-4607-af7c-7f67c0987cc6")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455"
 					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 50.8 25.4)
+		(size 25.4 50.8)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 255 194 1)
+		)
+		(uuid "aecb405b-8b8b-4d2e-ac62-4bd044d58a6c")
+		(property "Sheetname" "Controller"
+			(at 50.8 24.6884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "controller.kicad_sch"
+			(at 50.8 76.7846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "COL[0..14]" input
+			(at 76.2 27.94 0)
+			(uuid "18de0fd9-c7a3-4331-88c0-1c9c8ef41eb4")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "ROW[0..4]" input
+			(at 76.2 30.48 0)
+			(uuid "4927a03b-6595-4c99-a73f-541be1de2782")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "KBUltraMk1"
+				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455"
+					(page "4")
 				)
 			)
 		)

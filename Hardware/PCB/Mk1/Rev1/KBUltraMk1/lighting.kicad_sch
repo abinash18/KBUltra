@@ -3,7 +3,7 @@
 	(generator "eeschema")
 	(generator_version "10.0")
 	(uuid "ae7238f9-8e5b-40a0-b5f3-568832afd6e5")
-	(paper "A3")
+	(paper "A4")
 	(lib_symbols
 		(symbol "Device:C"
 			(pin_numbers
@@ -2376,6 +2376,16 @@
 	)
 	(wire
 		(pts
+			(xy 297.18 279.4) (xy 297.18 281.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "00528a50-4613-4408-8d27-6d65a85085b5")
+	)
+	(wire
+		(pts
 			(xy 318.77 251.46) (xy 313.69 251.46)
 		)
 		(stroke
@@ -2423,6 +2433,16 @@
 			(type default)
 		)
 		(uuid "00c013a0-89b8-4bc3-9111-a1f58e914133")
+	)
+	(wire
+		(pts
+			(xy 297.18 269.24) (xy 297.18 271.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0167934d-2d97-45f3-b29d-ac08a0422d9a")
 	)
 	(wire
 		(pts
@@ -3726,16 +3746,6 @@
 	)
 	(wire
 		(pts
-			(xy 298.45 269.24) (xy 290.83 269.24)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "274888f1-8a1f-4c54-8496-28b34d5a217e")
-	)
-	(wire
-		(pts
 			(xy 207.01 27.94) (xy 219.71 27.94)
 		)
 		(stroke
@@ -4163,16 +4173,6 @@
 			(type default)
 		)
 		(uuid "338d6459-2311-4325-8f86-57ff132a01aa")
-	)
-	(wire
-		(pts
-			(xy 298.45 276.86) (xy 298.45 269.24)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "33bd89c1-b724-4e9b-afe4-8043f605dd43")
 	)
 	(wire
 		(pts
@@ -7276,6 +7276,16 @@
 	)
 	(wire
 		(pts
+			(xy 297.18 269.24) (xy 290.83 269.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "97883033-19ad-41c7-960b-4db7e9d326c8")
+	)
+	(wire
+		(pts
 			(xy 299.72 233.68) (xy 299.72 231.14)
 		)
 		(stroke
@@ -8286,7 +8296,7 @@
 	)
 	(wire
 		(pts
-			(xy 295.91 276.86) (xy 298.45 276.86)
+			(xy 294.64 281.94) (xy 297.18 281.94)
 		)
 		(stroke
 			(width 0)
@@ -10716,7 +10726,7 @@
 	)
 	(hierarchical_label "LED_DOUT"
 		(shape input)
-		(at 295.91 276.86 180)
+		(at 294.64 281.94 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10747,7 +10757,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "03ceedab-50f1-47e5-8c7f-d095e3e71718")
-		(property "Reference" "C316"
+		(property "Reference" "C216"
 			(at 208.28 51.816 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10809,7 +10819,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "C316")
+					(reference "C216")
 					(unit 1)
 				)
 			)
@@ -10826,7 +10836,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "05adc9bb-a973-4f45-92ab-d4a490abfac5")
-		(property "Reference" "C343"
+		(property "Reference" "C243"
 			(at 121.92 143.256 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10888,7 +10898,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "C343")
+					(reference "C243")
 					(unit 1)
 				)
 			)
@@ -10906,7 +10916,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "07175ab2-1668-4406-a04b-9e60f31109a8")
-		(property "Reference" "D376"
+		(property "Reference" "LED276"
 			(at 184.658 242.57 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10976,7 +10986,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "D376")
+					(reference "LED276")
 					(unit 1)
 				)
 			)
@@ -10993,7 +11003,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "077fd877-f060-46cf-b557-54d811539d5a")
-		(property "Reference" "D388"
+		(property "Reference" "LED288"
 			(at 240.03 270.764 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11063,7 +11073,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "D388")
+					(reference "LED288")
 					(unit 1)
 				)
 			)
@@ -11081,7 +11091,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "08a93a74-7288-4264-b1d6-f0aa4606ca67")
-		(property "Reference" "#PWR0338"
+		(property "Reference" "#PWR0238"
 			(at 71.12 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -11141,7 +11151,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0338")
+					(reference "#PWR0238")
 					(unit 1)
 				)
 			)
@@ -11158,7 +11168,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "090240f4-a29f-4077-8a79-78a75628ff1e")
-		(property "Reference" "C319"
+		(property "Reference" "C219"
 			(at 293.37 51.816 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11220,7 +11230,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "C319")
+					(reference "C219")
 					(unit 1)
 				)
 			)
@@ -11237,7 +11247,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "09765e84-d3de-4173-bc97-c08edef1a106")
-		(property "Reference" "D369"
+		(property "Reference" "LED269"
 			(at 299.212 212.09 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11307,7 +11317,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "D369")
+					(reference "LED269")
 					(unit 1)
 				)
 			)
@@ -11325,7 +11335,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0982ace9-5c87-44a5-9afc-d36cfa752aa5")
-		(property "Reference" "D358"
+		(property "Reference" "LED258"
 			(at 242.57 181.864 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11395,7 +11405,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "D358")
+					(reference "LED258")
 					(unit 1)
 				)
 			)
@@ -11413,7 +11423,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "09c4345b-6b07-4326-a06b-eae3b53eac69")
-		(property "Reference" "#PWR0337"
+		(property "Reference" "#PWR0237"
 			(at 54.61 106.68 0)
 			(hide yes)
 			(show_name no)
@@ -11474,7 +11484,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0337")
+					(reference "#PWR0237")
 					(unit 1)
 				)
 			)
@@ -11492,7 +11502,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0a98c00d-ea87-474b-918a-070e9a5e663c")
-		(property "Reference" "#PWR0356"
+		(property "Reference" "#PWR0256"
 			(at 242.57 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -11552,7 +11562,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0356")
+					(reference "#PWR0256")
 					(unit 1)
 				)
 			)
@@ -11570,7 +11580,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0aca2d24-f294-4dbf-874d-a1f3c99bf535")
-		(property "Reference" "D354"
+		(property "Reference" "LED254"
 			(at 126.238 181.61 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11640,7 +11650,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "D354")
+					(reference "LED254")
 					(unit 1)
 				)
 			)
@@ -11658,7 +11668,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0aeffb55-ec8e-475d-84fa-ba72c7b352a4")
-		(property "Reference" "D371"
+		(property "Reference" "LED271"
 			(at 41.148 242.57 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11728,7 +11738,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "D371")
+					(reference "LED271")
 					(unit 1)
 				)
 			)
@@ -11746,7 +11756,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0b4b1e3f-9313-44a7-9d81-14ac01930896")
-		(property "Reference" "#PWR0342"
+		(property "Reference" "#PWR0242"
 			(at 185.42 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -11806,7 +11816,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0342")
+					(reference "#PWR0242")
 					(unit 1)
 				)
 			)
@@ -11823,7 +11833,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0bc8d381-f5aa-4bf3-be9f-8955b9e04202")
-		(property "Reference" "C303"
+		(property "Reference" "C203"
 			(at 121.92 21.336 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11885,7 +11895,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "C303")
+					(reference "C203")
 					(unit 1)
 				)
 			)
@@ -11902,7 +11912,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0bf1c226-f764-4021-95a3-168de5b43cf0")
-		(property "Reference" "C342"
+		(property "Reference" "C242"
 			(at 92.71 143.256 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11964,7 +11974,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "C342")
+					(reference "C242")
 					(unit 1)
 				)
 			)
@@ -11981,7 +11991,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0c01251f-2c16-4126-81f2-d830465ad7ac")
-		(property "Reference" "C318"
+		(property "Reference" "C218"
 			(at 265.43 51.816 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12043,7 +12053,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "C318")
+					(reference "C218")
 					(unit 1)
 				)
 			)
@@ -12061,7 +12071,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0c50439d-e59f-4ffa-9543-a552a9defce1")
-		(property "Reference" "#PWR0321"
+		(property "Reference" "#PWR0221"
 			(at 271.78 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -12121,7 +12131,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0321")
+					(reference "#PWR0221")
 					(unit 1)
 				)
 			)
@@ -12139,7 +12149,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0c9f5c2b-a55f-4281-ae0e-56af38127c11")
-		(property "Reference" "#PWR0385"
+		(property "Reference" "#PWR0285"
 			(at 54.61 228.6 0)
 			(hide yes)
 			(show_name no)
@@ -12200,7 +12210,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0385")
+					(reference "#PWR0285")
 					(unit 1)
 				)
 			)
@@ -12218,7 +12228,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0ccab73b-b123-4cb3-b691-c191d3b44198")
-		(property "Reference" "#PWR0407"
+		(property "Reference" "#PWR0307"
 			(at 298.45 267.97 0)
 			(hide yes)
 			(show_name no)
@@ -12278,7 +12288,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0407")
+					(reference "#PWR0307")
 					(unit 1)
 				)
 			)
@@ -12296,7 +12306,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0de05771-a590-4f66-8361-450d79f4810f")
-		(property "Reference" "#PWR0388"
+		(property "Reference" "#PWR0288"
 			(at 128.27 240.03 0)
 			(hide yes)
 			(show_name no)
@@ -12356,7 +12366,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0388")
+					(reference "#PWR0288")
 					(unit 1)
 				)
 			)
@@ -12374,7 +12384,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "10aff429-4738-4afd-90ca-02a8d1b66476")
-		(property "Reference" "#PWR0360"
+		(property "Reference" "#PWR0260"
 			(at 44.45 160.02 0)
 			(hide yes)
 			(show_name no)
@@ -12435,7 +12445,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0360")
+					(reference "#PWR0260")
 					(unit 1)
 				)
 			)
@@ -12452,7 +12462,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "11252282-399d-4134-bb63-99eb75213a73")
-		(property "Reference" "D323"
+		(property "Reference" "LED223"
 			(at 127 90.424 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12522,7 +12532,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "D323")
+					(reference "LED223")
 					(unit 1)
 				)
 			)
@@ -12540,7 +12550,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "11323042-30b2-4e64-9af7-855f651ef680")
-		(property "Reference" "D337"
+		(property "Reference" "LED237"
 			(at 212.598 120.65 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12610,7 +12620,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "D337")
+					(reference "LED237")
 					(unit 1)
 				)
 			)
@@ -12627,7 +12637,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "119b6ef3-deec-4e40-8750-4b3f55d773f0")
-		(property "Reference" "C373"
+		(property "Reference" "C273"
 			(at 121.92 234.696 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12689,7 +12699,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "C373")
+					(reference "C273")
 					(unit 1)
 				)
 			)
@@ -12707,7 +12717,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "11e034f6-3630-4f17-9016-f793c0a8b2bb")
-		(property "Reference" "#PWR0402"
+		(property "Reference" "#PWR0302"
 			(at 154.94 267.97 0)
 			(hide yes)
 			(show_name no)
@@ -12767,7 +12777,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0402")
+					(reference "#PWR0302")
 					(unit 1)
 				)
 			)
@@ -12785,7 +12795,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "11ecdf9e-e232-4e7c-9f61-ecd89968a034")
-		(property "Reference" "#PWR0309"
+		(property "Reference" "#PWR0209"
 			(at 271.78 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -12845,7 +12855,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0309")
+					(reference "#PWR0209")
 					(unit 1)
 				)
 			)
@@ -12862,7 +12872,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1213df94-de4f-4995-a3bc-0d926599873a")
-		(property "Reference" "C326"
+		(property "Reference" "C226"
 			(at 208.28 82.296 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12924,7 +12934,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "C326")
+					(reference "C226")
 					(unit 1)
 				)
 			)
@@ -12941,7 +12951,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "13d3c16c-7d0d-4779-9a9e-7649d9dccd0c")
-		(property "Reference" "C348"
+		(property "Reference" "C248"
 			(at 265.43 143.256 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13003,7 +13013,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "C348")
+					(reference "C248")
 					(unit 1)
 				)
 			)
@@ -13020,7 +13030,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "155f8782-0eee-4a55-8a21-670d6abfe424")
-		(property "Reference" "D301"
+		(property "Reference" "LED201"
 			(at 69.85 29.464 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13090,7 +13100,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "D301")
+					(reference "LED201")
 					(unit 1)
 				)
 			)
@@ -13108,7 +13118,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "15c17b63-93e9-4c29-acfd-da042792f10e")
-		(property "Reference" "#PWR0320"
+		(property "Reference" "#PWR0220"
 			(at 242.57 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -13168,7 +13178,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0320")
+					(reference "#PWR0220")
 					(unit 1)
 				)
 			)
@@ -13185,7 +13195,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "170cea03-dcf2-487f-b092-b721a77e61ee")
-		(property "Reference" "D302"
+		(property "Reference" "LED202"
 			(at 98.552 29.21 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13255,7 +13265,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "D302")
+					(reference "LED202")
 					(unit 1)
 				)
 			)
@@ -13272,7 +13282,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1719a0a1-af98-494e-86c9-989c47d2ecda")
-		(property "Reference" "D303"
+		(property "Reference" "LED203"
 			(at 127 29.464 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13342,7 +13352,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "D303")
+					(reference "LED203")
 					(unit 1)
 				)
 			)
@@ -13359,7 +13369,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "173cb416-18fb-4a5f-a1fc-e76c04423499")
-		(property "Reference" "D346"
+		(property "Reference" "LED246"
 			(at 213.36 151.384 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13429,7 +13439,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "D346")
+					(reference "LED246")
 					(unit 1)
 				)
 			)
@@ -13446,7 +13456,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "19698fd8-d57e-4929-bcea-c1946d82a66a")
-		(property "Reference" "C350"
+		(property "Reference" "C250"
 			(at 322.58 143.256 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13508,7 +13518,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "C350")
+					(reference "C250")
 					(unit 1)
 				)
 			)
@@ -13525,7 +13535,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1972bd1c-2c1a-46b1-b0fa-0583c452278b")
-		(property "Reference" "D368"
+		(property "Reference" "LED268"
 			(at 270.51 212.344 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13595,7 +13605,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "D368")
+					(reference "LED268")
 					(unit 1)
 				)
 			)
@@ -13613,7 +13623,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1bb4a2eb-ca6a-41af-8eaa-d72fa0a0d6e6")
-		(property "Reference" "#PWR0396"
+		(property "Reference" "#PWR0296"
 			(at 325.12 251.46 0)
 			(hide yes)
 			(show_name no)
@@ -13674,7 +13684,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0396")
+					(reference "#PWR0296")
 					(unit 1)
 				)
 			)
@@ -13692,7 +13702,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1c6d41cb-fc12-44a4-9fca-da20141a1ed4")
-		(property "Reference" "D331"
+		(property "Reference" "LED231"
 			(at 41.148 120.65 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13762,7 +13772,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "D331")
+					(reference "LED231")
 					(unit 1)
 				)
 			)
@@ -13779,7 +13789,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1d7fa66a-8f2e-41fa-8da0-7df872606b4a")
-		(property "Reference" "C312"
+		(property "Reference" "C212"
 			(at 92.71 51.816 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13841,7 +13851,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "C312")
+					(reference "C212")
 					(unit 1)
 				)
 			)
@@ -13858,7 +13868,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1dd3edb9-583c-4b2e-968f-a6da0430aef6")
-		(property "Reference" "D367"
+		(property "Reference" "LED267"
 			(at 242.062 212.09 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13928,7 +13938,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "D367")
+					(reference "LED267")
 					(unit 1)
 				)
 			)
@@ -13946,7 +13956,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "20a10a81-d7fb-4451-bb21-afa309506ff5")
-		(property "Reference" "#PWR0375"
+		(property "Reference" "#PWR0275"
 			(at 99.06 209.55 0)
 			(hide yes)
 			(show_name no)
@@ -14006,7 +14016,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0375")
+					(reference "#PWR0275")
 					(unit 1)
 				)
 			)
@@ -14023,7 +14033,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2154ca01-b002-4414-811e-9f7f277e082e")
-		(property "Reference" "C365"
+		(property "Reference" "C265"
 			(at 179.07 204.216 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14085,7 +14095,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "C365")
+					(reference "C265")
 					(unit 1)
 				)
 			)
@@ -14102,7 +14112,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "21a7b462-50b8-4d00-9875-512043dd5dfe")
-		(property "Reference" "C371"
+		(property "Reference" "C271"
 			(at 64.77 234.696 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14164,7 +14174,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "C371")
+					(reference "C271")
 					(unit 1)
 				)
 			)
@@ -14182,7 +14192,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "221d2563-5b64-4e03-b5d4-8a2ebc910325")
-		(property "Reference" "#PWR0301"
+		(property "Reference" "#PWR0201"
 			(at 44.45 15.24 0)
 			(hide yes)
 			(show_name no)
@@ -14243,7 +14253,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0301")
+					(reference "#PWR0201")
 					(unit 1)
 				)
 			)
@@ -14260,7 +14270,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "22c3e714-5f9e-4d50-9bf1-e151cfd52f04")
-		(property "Reference" "C363"
+		(property "Reference" "C263"
 			(at 121.92 204.216 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14322,7 +14332,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "C363")
+					(reference "C263")
 					(unit 1)
 				)
 			)
@@ -14340,7 +14350,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "235e3bdb-9697-4744-acad-e9e7d3339951")
-		(property "Reference" "D313"
+		(property "Reference" "LED213"
 			(at 99.06 59.944 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14410,7 +14420,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "D313")
+					(reference "LED213")
 					(unit 1)
 				)
 			)
@@ -14428,7 +14438,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "23c209c9-df33-4c8e-acfd-d5912d2d261c")
-		(property "Reference" "#PWR0387"
+		(property "Reference" "#PWR0287"
 			(at 99.06 240.03 0)
 			(hide yes)
 			(show_name no)
@@ -14488,7 +14498,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0387")
+					(reference "#PWR0287")
 					(unit 1)
 				)
 			)
@@ -14506,7 +14516,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "23e144b7-ac34-4542-81f5-4315f8106620")
-		(property "Reference" "#PWR0339"
+		(property "Reference" "#PWR0239"
 			(at 99.06 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -14566,7 +14576,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0339")
+					(reference "#PWR0239")
 					(unit 1)
 				)
 			)
@@ -14583,7 +14593,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "247b910b-0d98-48e2-aabe-c3653d3d4d76")
-		(property "Reference" "C359"
+		(property "Reference" "C259"
 			(at 293.37 173.736 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14645,7 +14655,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "C359")
+					(reference "C259")
 					(unit 1)
 				)
 			)
@@ -14663,7 +14673,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "249fd632-df45-468d-8a52-19077bb1dc2d")
-		(property "Reference" "#PWR0324"
+		(property "Reference" "#PWR0224"
 			(at 44.45 68.58 0)
 			(hide yes)
 			(show_name no)
@@ -14724,7 +14734,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0324")
+					(reference "#PWR0224")
 					(unit 1)
 				)
 			)
@@ -14742,7 +14752,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "25ab91c4-9505-40cb-94ee-79ace078e33f")
-		(property "Reference" "#PWR0390"
+		(property "Reference" "#PWR0290"
 			(at 185.42 240.03 0)
 			(hide yes)
 			(show_name no)
@@ -14802,7 +14812,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0390")
+					(reference "#PWR0290")
 					(unit 1)
 				)
 			)
@@ -14820,7 +14830,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "26e514e0-4b53-47c6-a383-c56406860b7e")
-		(property "Reference" "D317"
+		(property "Reference" "LED217"
 			(at 212.598 59.69 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14890,7 +14900,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "D317")
+					(reference "LED217")
 					(unit 1)
 				)
 			)
@@ -14907,7 +14917,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "28246e12-a3e5-45d3-8ee7-384acd21161d")
-		(property "Reference" "D344"
+		(property "Reference" "LED244"
 			(at 155.702 151.13 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14977,7 +14987,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "D344")
+					(reference "LED244")
 					(unit 1)
 				)
 			)
@@ -14994,7 +15004,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2aaab8bc-8ab9-46f8-96d8-297cc7910cf3")
-		(property "Reference" "C304"
+		(property "Reference" "C204"
 			(at 149.86 21.336 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15056,7 +15066,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "C304")
+					(reference "C204")
 					(unit 1)
 				)
 			)
@@ -15074,7 +15084,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2b10732d-b138-4884-8a96-ff0567179c5d")
-		(property "Reference" "#PWR0362"
+		(property "Reference" "#PWR0262"
 			(at 71.12 179.07 0)
 			(hide yes)
 			(show_name no)
@@ -15134,7 +15144,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0362")
+					(reference "#PWR0262")
 					(unit 1)
 				)
 			)
@@ -15151,7 +15161,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2bb5b160-fa84-4f19-8fb3-511575c895e9")
-		(property "Reference" "C322"
+		(property "Reference" "C222"
 			(at 92.71 82.296 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15213,7 +15223,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "C322")
+					(reference "C222")
 					(unit 1)
 				)
 			)
@@ -15230,7 +15240,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2bde2e2f-b8d1-49e6-8541-156039d30c8b")
-		(property "Reference" "D330"
+		(property "Reference" "LED230"
 			(at 328.422 90.17 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15300,7 +15310,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "D330")
+					(reference "LED230")
 					(unit 1)
 				)
 			)
@@ -15318,7 +15328,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2cdb0a15-eb0a-4136-a8a7-49b2c76eec81")
-		(property "Reference" "D336"
+		(property "Reference" "LED236"
 			(at 184.658 120.65 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15388,7 +15398,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "D336")
+					(reference "LED236")
 					(unit 1)
 				)
 			)
@@ -15406,7 +15416,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2e855a0e-dfc0-44b2-bf63-860aa74f9084")
-		(property "Reference" "#PWR0314"
+		(property "Reference" "#PWR0214"
 			(at 71.12 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -15466,7 +15476,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0314")
+					(reference "#PWR0214")
 					(unit 1)
 				)
 			)
@@ -15484,7 +15494,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2eccfbb1-f6ff-445c-91db-d04923154cac")
-		(property "Reference" "#PWR0348"
+		(property "Reference" "#PWR0248"
 			(at 44.45 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -15545,7 +15555,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0348")
+					(reference "#PWR0248")
 					(unit 1)
 				)
 			)
@@ -15563,7 +15573,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2f6c4b4e-bc9a-492b-a5d4-7a525d3593af")
-		(property "Reference" "#PWR0381"
+		(property "Reference" "#PWR0281"
 			(at 271.78 209.55 0)
 			(hide yes)
 			(show_name no)
@@ -15623,7 +15633,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0381")
+					(reference "#PWR0281")
 					(unit 1)
 				)
 			)
@@ -15640,7 +15650,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3011e361-a427-4457-80d3-f4433f817b13")
-		(property "Reference" "C379"
+		(property "Reference" "C279"
 			(at 293.37 234.696 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15702,7 +15712,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "C379")
+					(reference "C279")
 					(unit 1)
 				)
 			)
@@ -15719,7 +15729,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "308e8e4d-7312-40b1-9857-58b016650fa5")
-		(property "Reference" "D347"
+		(property "Reference" "LED247"
 			(at 242.062 151.13 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15789,7 +15799,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "D347")
+					(reference "LED247")
 					(unit 1)
 				)
 			)
@@ -15807,7 +15817,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "30cc88ce-b06d-4cfb-b87a-a0b54ee51f8c")
-		(property "Reference" "#PWR0330"
+		(property "Reference" "#PWR0230"
 			(at 185.42 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -15867,7 +15877,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0330")
+					(reference "#PWR0230")
 					(unit 1)
 				)
 			)
@@ -15885,7 +15895,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "311e54e2-80c2-401b-8013-9967910301e4")
-		(property "Reference" "D351"
+		(property "Reference" "LED251"
 			(at 41.148 181.61 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15955,7 +15965,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "D351")
+					(reference "LED251")
 					(unit 1)
 				)
 			)
@@ -15973,7 +15983,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "314fd63d-0a2e-4d35-bc2a-0af1a1554123")
-		(property "Reference" "D359"
+		(property "Reference" "LED259"
 			(at 269.748 181.61 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16043,7 +16053,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "D359")
+					(reference "LED259")
 					(unit 1)
 				)
 			)
@@ -16060,7 +16070,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "32478fc6-93de-4bcb-957b-37b422e13ea3")
-		(property "Reference" "D324"
+		(property "Reference" "LED224"
 			(at 155.702 90.17 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16130,7 +16140,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "D324")
+					(reference "LED224")
 					(unit 1)
 				)
 			)
@@ -16148,7 +16158,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "32fef40a-9ea1-4ce0-9fbf-49805cb39547")
-		(property "Reference" "#PWR0350"
+		(property "Reference" "#PWR0250"
 			(at 71.12 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -16208,7 +16218,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0350")
+					(reference "#PWR0250")
 					(unit 1)
 				)
 			)
@@ -16226,7 +16236,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "340864e5-457b-4e3c-bf40-90a4538218a6")
-		(property "Reference" "#PWR0377"
+		(property "Reference" "#PWR0277"
 			(at 156.21 209.55 0)
 			(hide yes)
 			(show_name no)
@@ -16286,7 +16296,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0377")
+					(reference "#PWR0277")
 					(unit 1)
 				)
 			)
@@ -16304,7 +16314,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3434fa69-f27e-45bb-bdcb-ff89a955b060")
-		(property "Reference" "#PWR0304"
+		(property "Reference" "#PWR0204"
 			(at 128.27 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -16364,7 +16374,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0304")
+					(reference "#PWR0204")
 					(unit 1)
 				)
 			)
@@ -16381,7 +16391,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "348be220-f9a1-43fe-84f4-bedfbf682cab")
-		(property "Reference" "D361"
+		(property "Reference" "LED261"
 			(at 69.85 212.344 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16451,7 +16461,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "D361")
+					(reference "LED261")
 					(unit 1)
 				)
 			)
@@ -16468,7 +16478,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "36439490-fdcf-48b9-9c1c-431fa7f93306")
-		(property "Reference" "C334"
+		(property "Reference" "C234"
 			(at 149.86 112.776 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16530,7 +16540,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "C334")
+					(reference "C234")
 					(unit 1)
 				)
 			)
@@ -16548,7 +16558,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "37bcf5d3-8f0d-439c-8fa3-59ea0175cf26")
-		(property "Reference" "#PWR0354"
+		(property "Reference" "#PWR0254"
 			(at 185.42 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -16608,7 +16618,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0354")
+					(reference "#PWR0254")
 					(unit 1)
 				)
 			)
@@ -16626,7 +16636,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "38c4293c-5277-4a4a-b1b7-c970dcdf14bc")
-		(property "Reference" "#PWR0327"
+		(property "Reference" "#PWR0227"
 			(at 99.06 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -16686,7 +16696,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0327")
+					(reference "#PWR0227")
 					(unit 1)
 				)
 			)
@@ -16703,7 +16713,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3a05042b-edb7-4fb8-8834-874edc1e9b05")
-		(property "Reference" "D370"
+		(property "Reference" "LED270"
 			(at 328.422 212.09 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16773,7 +16783,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "D370")
+					(reference "LED270")
 					(unit 1)
 				)
 			)
@@ -16790,7 +16800,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3a98740f-b4b3-4554-a609-25837f7b35b5")
-		(property "Reference" "C351"
+		(property "Reference" "C251"
 			(at 64.77 173.736 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16852,7 +16862,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "C351")
+					(reference "C251")
 					(unit 1)
 				)
 			)
@@ -16869,7 +16879,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3b89b222-e1c3-431f-82dc-6d7bb56b5944")
-		(property "Reference" "D329"
+		(property "Reference" "LED229"
 			(at 299.212 90.17 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16939,7 +16949,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "D329")
+					(reference "LED229")
 					(unit 1)
 				)
 			)
@@ -16957,7 +16967,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3e24d5c4-c728-47e8-84b6-39553fa32cf6")
-		(property "Reference" "D339"
+		(property "Reference" "LED239"
 			(at 269.748 120.65 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17027,7 +17037,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "D339")
+					(reference "LED239")
 					(unit 1)
 				)
 			)
@@ -17045,7 +17055,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3f25be05-5a65-4a65-a958-03dd588318c4")
-		(property "Reference" "#PWR0392"
+		(property "Reference" "#PWR0292"
 			(at 242.57 240.03 0)
 			(hide yes)
 			(show_name no)
@@ -17105,7 +17115,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0392")
+					(reference "#PWR0292")
 					(unit 1)
 				)
 			)
@@ -17122,7 +17132,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3f67d52b-5adb-42fc-aecb-abc4663466ba")
-		(property "Reference" "D342"
+		(property "Reference" "LED242"
 			(at 98.552 151.13 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17192,7 +17202,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "D342")
+					(reference "LED242")
 					(unit 1)
 				)
 			)
@@ -17210,7 +17220,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4007252a-4dae-4377-bdd8-fce391a71a41")
-		(property "Reference" "#PWR0368"
+		(property "Reference" "#PWR0268"
 			(at 242.57 179.07 0)
 			(hide yes)
 			(show_name no)
@@ -17270,7 +17280,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0368")
+					(reference "#PWR0268")
 					(unit 1)
 				)
 			)
@@ -17287,7 +17297,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "41355864-be65-4cdb-bd7a-111b58a8fd2a")
-		(property "Reference" "C323"
+		(property "Reference" "C223"
 			(at 121.92 82.296 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17349,7 +17359,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "C323")
+					(reference "C223")
 					(unit 1)
 				)
 			)
@@ -17367,7 +17377,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "43d20394-c077-45f5-a3e2-1709bc4eb860")
-		(property "Reference" "#PWR0310"
+		(property "Reference" "#PWR0210"
 			(at 299.72 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -17427,7 +17437,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0310")
+					(reference "#PWR0210")
 					(unit 1)
 				)
 			)
@@ -17445,7 +17455,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "457ead37-14af-4cab-81c0-57290b5c3574")
-		(property "Reference" "#PWR0313"
+		(property "Reference" "#PWR0213"
 			(at 57.15 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -17506,7 +17516,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0313")
+					(reference "#PWR0213")
 					(unit 1)
 				)
 			)
@@ -17523,7 +17533,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "46556bbc-dc15-4142-b683-fdc67bcd383f")
-		(property "Reference" "C376"
+		(property "Reference" "C276"
 			(at 208.28 234.696 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17585,7 +17595,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "C376")
+					(reference "C276")
 					(unit 1)
 				)
 			)
@@ -17603,7 +17613,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "47158038-15e8-4fcb-9132-d6afc74590a5")
-		(property "Reference" "D335"
+		(property "Reference" "LED235"
 			(at 156.21 120.904 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17673,7 +17683,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "D335")
+					(reference "LED235")
 					(unit 1)
 				)
 			)
@@ -17690,7 +17700,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "47c7d387-dbc9-48e9-9af7-962a27a7cb84")
-		(property "Reference" "C302"
+		(property "Reference" "C202"
 			(at 92.71 21.336 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17752,7 +17762,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "C302")
+					(reference "C202")
 					(unit 1)
 				)
 			)
@@ -17769,7 +17779,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4930cb8a-f19c-4588-830c-061817acbcc7")
-		(property "Reference" "C385"
+		(property "Reference" "C285"
 			(at 148.59 262.636 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17831,7 +17841,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "C385")
+					(reference "C285")
 					(unit 1)
 				)
 			)
@@ -17849,7 +17859,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4962025c-f81f-4459-ab20-76423afbbd79")
-		(property "Reference" "D340"
+		(property "Reference" "LED240"
 			(at 299.72 120.904 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17919,7 +17929,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "D340")
+					(reference "LED240")
 					(unit 1)
 				)
 			)
@@ -17937,7 +17947,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "49cc2b94-52c9-441e-8f7c-d40c6126e02f")
-		(property "Reference" "D312"
+		(property "Reference" "LED212"
 			(at 69.088 59.69 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18007,7 +18017,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "D312")
+					(reference "LED212")
 					(unit 1)
 				)
 			)
@@ -18024,7 +18034,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4a08be10-b059-4a22-8ed2-dbc4aff44d80")
-		(property "Reference" "C357"
+		(property "Reference" "C257"
 			(at 236.22 173.736 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18086,7 +18096,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "C357")
+					(reference "C257")
 					(unit 1)
 				)
 			)
@@ -18104,7 +18114,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4af00f8c-f84d-4511-8f34-719a88d900e8")
-		(property "Reference" "#PWR0376"
+		(property "Reference" "#PWR0276"
 			(at 128.27 209.55 0)
 			(hide yes)
 			(show_name no)
@@ -18164,7 +18174,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0376")
+					(reference "#PWR0276")
 					(unit 1)
 				)
 			)
@@ -18182,7 +18192,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4c8e0aee-ca00-4822-a378-4fff519c9ea4")
-		(property "Reference" "#PWR0405"
+		(property "Reference" "#PWR0305"
 			(at 241.3 267.97 0)
 			(hide yes)
 			(show_name no)
@@ -18242,7 +18252,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0405")
+					(reference "#PWR0305")
 					(unit 1)
 				)
 			)
@@ -18260,7 +18270,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4c8f5edd-f76b-416a-ba8b-546011afdd0b")
-		(property "Reference" "#PWR0353"
+		(property "Reference" "#PWR0253"
 			(at 156.21 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -18320,7 +18330,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0353")
+					(reference "#PWR0253")
 					(unit 1)
 				)
 			)
@@ -18338,7 +18348,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4f459378-7439-4839-b0e8-e738902e46ee")
-		(property "Reference" "#PWR0366"
+		(property "Reference" "#PWR0266"
 			(at 185.42 179.07 0)
 			(hide yes)
 			(show_name no)
@@ -18398,7 +18408,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0366")
+					(reference "#PWR0266")
 					(unit 1)
 				)
 			)
@@ -18415,7 +18425,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "5238d490-571d-42bb-ae9b-4564dfccf799")
-		(property "Reference" "C336"
+		(property "Reference" "C236"
 			(at 208.28 112.776 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18477,7 +18487,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "C336")
+					(reference "C236")
 					(unit 1)
 				)
 			)
@@ -18494,7 +18504,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "523c22f2-d3e6-45f1-b5ae-30aa79d90647")
-		(property "Reference" "C329"
+		(property "Reference" "C229"
 			(at 293.37 82.296 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18556,7 +18566,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "C329")
+					(reference "C229")
 					(unit 1)
 				)
 			)
@@ -18574,7 +18584,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "541ff471-5d8d-47a3-a5d8-287e8a94f756")
-		(property "Reference" "#PWR0322"
+		(property "Reference" "#PWR0222"
 			(at 299.72 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -18634,7 +18644,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0322")
+					(reference "#PWR0222")
 					(unit 1)
 				)
 			)
@@ -18652,7 +18662,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "547df0d3-1569-4518-a95e-83f2d21d944e")
-		(property "Reference" "#PWR0329"
+		(property "Reference" "#PWR0229"
 			(at 156.21 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -18712,7 +18722,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0329")
+					(reference "#PWR0229")
 					(unit 1)
 				)
 			)
@@ -18730,7 +18740,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "54c4494e-0ea1-4521-8bb4-f55d200b0b3a")
-		(property "Reference" "#PWR0315"
+		(property "Reference" "#PWR0215"
 			(at 99.06 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -18790,7 +18800,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0315")
+					(reference "#PWR0215")
 					(unit 1)
 				)
 			)
@@ -18807,7 +18817,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "54c92796-6af2-4e9a-8248-d5604909afa9")
-		(property "Reference" "C380"
+		(property "Reference" "C280"
 			(at 322.58 234.696 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18869,7 +18879,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "C380")
+					(reference "C280")
 					(unit 1)
 				)
 			)
@@ -18887,7 +18897,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "556cc699-25ea-42b5-870e-539bf07a8d3c")
-		(property "Reference" "#PWR0408"
+		(property "Reference" "#PWR0308"
 			(at 13.97 279.4 0)
 			(hide yes)
 			(show_name no)
@@ -18948,7 +18958,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0408")
+					(reference "#PWR0308")
 					(unit 1)
 				)
 			)
@@ -18966,7 +18976,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "571bd8bb-7713-4472-933b-86aa63629635")
-		(property "Reference" "D378"
+		(property "Reference" "LED278"
 			(at 242.57 242.824 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19036,7 +19046,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "D378")
+					(reference "LED278")
 					(unit 1)
 				)
 			)
@@ -19054,7 +19064,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "589af0be-1b18-4b86-8951-9450c677825f")
-		(property "Reference" "#PWR0400"
+		(property "Reference" "#PWR0300"
 			(at 97.79 267.97 0)
 			(hide yes)
 			(show_name no)
@@ -19114,7 +19124,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0400")
+					(reference "#PWR0300")
 					(unit 1)
 				)
 			)
@@ -19132,7 +19142,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "5aae9c3a-0c68-4aee-a923-167a624b1653")
-		(property "Reference" "D379"
+		(property "Reference" "LED279"
 			(at 269.748 242.57 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19202,7 +19212,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "D379")
+					(reference "LED279")
 					(unit 1)
 				)
 			)
@@ -19220,7 +19230,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "5b8f1ee8-d409-4351-9e95-605e7c4c97be")
-		(property "Reference" "D353"
+		(property "Reference" "LED253"
 			(at 99.06 181.864 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19290,7 +19300,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "D353")
+					(reference "LED253")
 					(unit 1)
 				)
 			)
@@ -19307,7 +19317,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "5bb7916d-a443-4e5e-8de7-0b7af0311be9")
-		(property "Reference" "C337"
+		(property "Reference" "C237"
 			(at 236.22 112.776 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19369,7 +19379,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "C337")
+					(reference "C237")
 					(unit 1)
 				)
 			)
@@ -19386,7 +19396,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "5c68f195-e249-4855-8db1-a5e91687b39a")
-		(property "Reference" "C377"
+		(property "Reference" "C277"
 			(at 236.22 234.696 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19448,7 +19458,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "C377")
+					(reference "C277")
 					(unit 1)
 				)
 			)
@@ -19465,7 +19475,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "5e351e44-e9b3-4d6f-b175-de93c9708202")
-		(property "Reference" "C327"
+		(property "Reference" "C227"
 			(at 236.22 82.296 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19527,7 +19537,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "C327")
+					(reference "C227")
 					(unit 1)
 				)
 			)
@@ -19545,7 +19555,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5f616681-119a-49fb-8e5b-fc8a91d81dab")
-		(property "Reference" "#PWR0404"
+		(property "Reference" "#PWR0304"
 			(at 212.09 267.97 0)
 			(hide yes)
 			(show_name no)
@@ -19605,7 +19615,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0404")
+					(reference "#PWR0304")
 					(unit 1)
 				)
 			)
@@ -19623,7 +19633,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6104bbda-a1a1-4e2c-b494-3128aeacdb51")
-		(property "Reference" "#PWR0325"
+		(property "Reference" "#PWR0225"
 			(at 54.61 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -19684,7 +19694,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0325")
+					(reference "#PWR0225")
 					(unit 1)
 				)
 			)
@@ -19702,7 +19712,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "613f0059-5aba-4673-9666-6b19ef0ba14d")
-		(property "Reference" "#PWR0332"
+		(property "Reference" "#PWR0232"
 			(at 242.57 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -19762,7 +19772,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0332")
+					(reference "#PWR0232")
 					(unit 1)
 				)
 			)
@@ -19780,7 +19790,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "620a445f-21d7-4ee6-ad06-04aa4ec743ab")
-		(property "Reference" "#PWR0378"
+		(property "Reference" "#PWR0278"
 			(at 185.42 209.55 0)
 			(hide yes)
 			(show_name no)
@@ -19840,7 +19850,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0378")
+					(reference "#PWR0278")
 					(unit 1)
 				)
 			)
@@ -19857,7 +19867,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "62924d16-d279-4df1-bf23-80a3a6e008ea")
-		(property "Reference" "D385"
+		(property "Reference" "LED285"
 			(at 154.432 270.51 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19927,7 +19937,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "D385")
+					(reference "LED285")
 					(unit 1)
 				)
 			)
@@ -19945,7 +19955,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "63bfa995-5186-497b-8db6-ca6e1ffc8c71")
-		(property "Reference" "D333"
+		(property "Reference" "LED233"
 			(at 99.06 120.904 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20015,7 +20025,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "D333")
+					(reference "LED233")
 					(unit 1)
 				)
 			)
@@ -20032,7 +20042,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "655371b3-9be7-4992-9d6f-53c7777094ce")
-		(property "Reference" "C378"
+		(property "Reference" "C278"
 			(at 265.43 234.696 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20094,7 +20104,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "C378")
+					(reference "C278")
 					(unit 1)
 				)
 			)
@@ -20111,7 +20121,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "661ed6e6-21ba-4ad6-aa67-c533eaac7500")
-		(property "Reference" "C341"
+		(property "Reference" "C241"
 			(at 64.77 143.256 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20173,7 +20183,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "C341")
+					(reference "C241")
 					(unit 1)
 				)
 			)
@@ -20191,7 +20201,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "66b9a461-993b-4a6b-a763-e31fefe0583b")
-		(property "Reference" "#PWR0358"
+		(property "Reference" "#PWR0258"
 			(at 299.72 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -20251,7 +20261,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0358")
+					(reference "#PWR0258")
 					(unit 1)
 				)
 			)
@@ -20269,7 +20279,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "675ca6a0-bcaf-4c4e-b502-1247b7b8be72")
-		(property "Reference" "#PWR0312"
+		(property "Reference" "#PWR0212"
 			(at 40.64 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -20329,7 +20339,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0312")
+					(reference "#PWR0212")
 					(unit 1)
 				)
 			)
@@ -20347,7 +20357,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "682f534a-72b4-480b-98cb-83ba0f17d92f")
-		(property "Reference" "D315"
+		(property "Reference" "LED215"
 			(at 156.21 59.944 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20417,7 +20427,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "D315")
+					(reference "LED215")
 					(unit 1)
 				)
 			)
@@ -20435,7 +20445,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "6890713f-0807-4004-951c-707c4fa3a879")
-		(property "Reference" "D373"
+		(property "Reference" "LED273"
 			(at 99.06 242.824 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20505,7 +20515,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "D373")
+					(reference "LED273")
 					(unit 1)
 				)
 			)
@@ -20523,7 +20533,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6b7d7d9e-b0f7-479a-a121-d92a0473a631")
-		(property "Reference" "#PWR0303"
+		(property "Reference" "#PWR0203"
 			(at 99.06 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -20583,7 +20593,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0303")
+					(reference "#PWR0203")
 					(unit 1)
 				)
 			)
@@ -20600,7 +20610,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "71500522-806f-4460-a364-132d7c41b9e6")
-		(property "Reference" "C388"
+		(property "Reference" "C288"
 			(at 234.95 262.636 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20662,7 +20672,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "C388")
+					(reference "C288")
 					(unit 1)
 				)
 			)
@@ -20680,7 +20690,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "73e7c229-92a2-419b-9178-9251e0c82344")
-		(property "Reference" "#PWR0319"
+		(property "Reference" "#PWR0219"
 			(at 214.63 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -20740,7 +20750,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0319")
+					(reference "#PWR0219")
 					(unit 1)
 				)
 			)
@@ -20757,7 +20767,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "73f119f5-c928-49e1-95b1-4761692adcfe")
-		(property "Reference" "D381"
+		(property "Reference" "LED281"
 			(at 39.37 270.764 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20827,7 +20837,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "D381")
+					(reference "LED281")
 					(unit 1)
 				)
 			)
@@ -20845,7 +20855,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "747569a6-aa14-4f01-b8ee-e3a8f60ad40c")
-		(property "Reference" "#PWR0341"
+		(property "Reference" "#PWR0241"
 			(at 156.21 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -20905,7 +20915,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0341")
+					(reference "#PWR0241")
 					(unit 1)
 				)
 			)
@@ -20923,7 +20933,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "75de1fd1-1dea-4525-afb0-d297480d05ac")
-		(property "Reference" "#PWR0316"
+		(property "Reference" "#PWR0216"
 			(at 128.27 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -20983,7 +20993,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0316")
+					(reference "#PWR0216")
 					(unit 1)
 				)
 			)
@@ -21000,7 +21010,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "77ab117b-a244-46c9-902f-1e7c55c2e31c")
-		(property "Reference" "C386"
+		(property "Reference" "C286"
 			(at 177.8 262.636 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21062,7 +21072,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "C386")
+					(reference "C286")
 					(unit 1)
 				)
 			)
@@ -21080,7 +21090,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "79f1c1d2-3cee-4cd0-861e-d93c1c991491")
-		(property "Reference" "D356"
+		(property "Reference" "LED256"
 			(at 184.658 181.61 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21150,7 +21160,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "D356")
+					(reference "LED256")
 					(unit 1)
 				)
 			)
@@ -21167,7 +21177,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7a2a46c3-9d8a-4561-9455-8240be274a2b")
-		(property "Reference" "C310"
+		(property "Reference" "C210"
 			(at 322.58 21.336 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21229,7 +21239,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "C310")
+					(reference "C210")
 					(unit 1)
 				)
 			)
@@ -21246,7 +21256,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7afc126d-9a9c-4023-803f-64d175a95957")
-		(property "Reference" "C352"
+		(property "Reference" "C252"
 			(at 92.71 173.736 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21308,7 +21318,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "C352")
+					(reference "C252")
 					(unit 1)
 				)
 			)
@@ -21326,7 +21336,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7b476e8f-5e10-435b-83ed-82b0ea2c98f6")
-		(property "Reference" "#PWR0365"
+		(property "Reference" "#PWR0265"
 			(at 156.21 179.07 0)
 			(hide yes)
 			(show_name no)
@@ -21386,7 +21396,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0365")
+					(reference "#PWR0265")
 					(unit 1)
 				)
 			)
@@ -21404,7 +21414,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7b968184-df12-40cd-ae8e-4dd1607a98e3")
-		(property "Reference" "#PWR0406"
+		(property "Reference" "#PWR0306"
 			(at 269.24 267.97 0)
 			(hide yes)
 			(show_name no)
@@ -21464,7 +21474,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0406")
+					(reference "#PWR0306")
 					(unit 1)
 				)
 			)
@@ -21481,7 +21491,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7ba31640-9489-4dbf-8492-b26b8a7771bd")
-		(property "Reference" "C307"
+		(property "Reference" "C207"
 			(at 236.22 21.336 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21543,7 +21553,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "C307")
+					(reference "C207")
 					(unit 1)
 				)
 			)
@@ -21560,7 +21570,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7bd20aaa-feed-4d2b-8901-4f8d69263206")
-		(property "Reference" "C358"
+		(property "Reference" "C258"
 			(at 265.43 173.736 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21622,7 +21632,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "C358")
+					(reference "C258")
 					(unit 1)
 				)
 			)
@@ -21639,7 +21649,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7c2ffcc1-e6b8-482f-8866-b183402d9443")
-		(property "Reference" "D310"
+		(property "Reference" "LED210"
 			(at 328.422 29.21 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21709,7 +21719,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "D310")
+					(reference "LED210")
 					(unit 1)
 				)
 			)
@@ -21727,7 +21737,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7d2fc249-91ec-41e3-8d4d-ea8ff79fb5d3")
-		(property "Reference" "#PWR0340"
+		(property "Reference" "#PWR0240"
 			(at 128.27 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -21787,7 +21797,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0340")
+					(reference "#PWR0240")
 					(unit 1)
 				)
 			)
@@ -21805,7 +21815,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7e9857a0-b073-431b-a3f6-b39e98d2d938")
-		(property "Reference" "#PWR0399"
+		(property "Reference" "#PWR0299"
 			(at 68.58 267.97 0)
 			(hide yes)
 			(show_name no)
@@ -21865,7 +21875,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0399")
+					(reference "#PWR0299")
 					(unit 1)
 				)
 			)
@@ -21883,7 +21893,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7faa519b-d832-4ecc-a397-84eb5d2f135d")
-		(property "Reference" "#PWR0379"
+		(property "Reference" "#PWR0279"
 			(at 214.63 209.55 0)
 			(hide yes)
 			(show_name no)
@@ -21943,7 +21953,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0379")
+					(reference "#PWR0279")
 					(unit 1)
 				)
 			)
@@ -21960,7 +21970,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7fc1301f-3eef-4cae-b2a3-df6c50928f39")
-		(property "Reference" "C346"
+		(property "Reference" "C246"
 			(at 208.28 143.256 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22022,7 +22032,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "C346")
+					(reference "C246")
 					(unit 1)
 				)
 			)
@@ -22039,7 +22049,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "8088c137-f9c1-48ed-a2fe-5ed11f4bc219")
-		(property "Reference" "D365"
+		(property "Reference" "LED265"
 			(at 184.912 212.09 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22109,7 +22119,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "D365")
+					(reference "LED265")
 					(unit 1)
 				)
 			)
@@ -22126,7 +22136,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "80bce5e8-7092-4673-8b28-c3dc590a8478")
-		(property "Reference" "C324"
+		(property "Reference" "C224"
 			(at 149.86 82.296 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22188,7 +22198,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "C324")
+					(reference "C224")
 					(unit 1)
 				)
 			)
@@ -22205,7 +22215,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "810e372b-0299-4990-bac8-57538c95a903")
-		(property "Reference" "D350"
+		(property "Reference" "LED250"
 			(at 328.422 151.13 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22275,7 +22285,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "D350")
+					(reference "LED250")
 					(unit 1)
 				)
 			)
@@ -22292,7 +22302,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "82c0fd07-cc2a-4715-b28f-f68ae6343d74")
-		(property "Reference" "C311"
+		(property "Reference" "C211"
 			(at 64.77 51.816 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22354,7 +22364,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "C311")
+					(reference "C211")
 					(unit 1)
 				)
 			)
@@ -22372,7 +22382,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "82d57ad9-fbf8-4ae6-b34b-55535bd0d575")
-		(property "Reference" "#PWR0367"
+		(property "Reference" "#PWR0267"
 			(at 214.63 179.07 0)
 			(hide yes)
 			(show_name no)
@@ -22432,7 +22442,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0367")
+					(reference "#PWR0267")
 					(unit 1)
 				)
 			)
@@ -22450,7 +22460,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "835d1a7d-3230-42c8-86e1-a6e042b7ea70")
-		(property "Reference" "#PWR0395"
+		(property "Reference" "#PWR0295"
 			(at 328.93 240.03 0)
 			(hide yes)
 			(show_name no)
@@ -22510,7 +22520,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0395")
+					(reference "#PWR0295")
 					(unit 1)
 				)
 			)
@@ -22528,7 +22538,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "85948388-4097-453a-a7ea-25342d70db89")
-		(property "Reference" "#PWR0302"
+		(property "Reference" "#PWR0202"
 			(at 71.12 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -22588,7 +22598,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0302")
+					(reference "#PWR0202")
 					(unit 1)
 				)
 			)
@@ -22606,7 +22616,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "861f2222-1508-4458-8305-ca250796306c")
-		(property "Reference" "D338"
+		(property "Reference" "LED238"
 			(at 242.57 120.904 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22676,7 +22686,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "D338")
+					(reference "LED238")
 					(unit 1)
 				)
 			)
@@ -22693,7 +22703,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "870e02f0-8f65-464a-b727-2d1e20e9b24b")
-		(property "Reference" "C308"
+		(property "Reference" "C208"
 			(at 265.43 21.336 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22755,7 +22765,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "C308")
+					(reference "C208")
 					(unit 1)
 				)
 			)
@@ -22773,7 +22783,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "88208e93-c99b-41ff-8c03-5913e730b0b1")
-		(property "Reference" "D311"
+		(property "Reference" "LED211"
 			(at 41.148 59.69 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22843,7 +22853,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "D311")
+					(reference "LED211")
 					(unit 1)
 				)
 			)
@@ -22860,7 +22870,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "894876ab-207f-4220-a9cd-dfe44c4ef472")
-		(property "Reference" "C375"
+		(property "Reference" "C275"
 			(at 179.07 234.696 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22922,7 +22932,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "C375")
+					(reference "C275")
 					(unit 1)
 				)
 			)
@@ -22939,7 +22949,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "8990dba6-2967-439c-93b1-40b202f338be")
-		(property "Reference" "D326"
+		(property "Reference" "LED226"
 			(at 213.36 90.424 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23009,7 +23019,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "D326")
+					(reference "LED226")
 					(unit 1)
 				)
 			)
@@ -23026,7 +23036,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "899a7638-a9e3-4a36-bc47-e756d4c287bb")
-		(property "Reference" "C372"
+		(property "Reference" "C272"
 			(at 92.71 234.696 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23088,7 +23098,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "C372")
+					(reference "C272")
 					(unit 1)
 				)
 			)
@@ -23106,7 +23116,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8ab05ca2-3ad0-43af-8b80-659f969c2e34")
-		(property "Reference" "#PWR0335"
+		(property "Reference" "#PWR0235"
 			(at 328.93 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -23166,7 +23176,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0335")
+					(reference "#PWR0235")
 					(unit 1)
 				)
 			)
@@ -23184,7 +23194,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "8b409da7-c002-4698-93b2-e7f1c0fd86b4")
-		(property "Reference" "D334"
+		(property "Reference" "LED234"
 			(at 126.238 120.65 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23254,7 +23264,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "D334")
+					(reference "LED234")
 					(unit 1)
 				)
 			)
@@ -23271,7 +23281,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "8d70a243-94af-45dd-8d79-9fd728b3dca0")
-		(property "Reference" "C328"
+		(property "Reference" "C228"
 			(at 265.43 82.296 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23333,7 +23343,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "C328")
+					(reference "C228")
 					(unit 1)
 				)
 			)
@@ -23350,7 +23360,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "8dc173e7-80af-4723-82f8-f0732bf23698")
-		(property "Reference" "D341"
+		(property "Reference" "LED241"
 			(at 69.85 151.384 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23420,7 +23430,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "D341")
+					(reference "LED241")
 					(unit 1)
 				)
 			)
@@ -23438,7 +23448,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8e5818e5-b3c6-4781-b389-65e418e4441a")
-		(property "Reference" "#PWR0307"
+		(property "Reference" "#PWR0207"
 			(at 214.63 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -23498,7 +23508,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0307")
+					(reference "#PWR0207")
 					(unit 1)
 				)
 			)
@@ -23515,7 +23525,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "8ec5804b-fd6b-4ace-96fc-98e8cbd15957")
-		(property "Reference" "D366"
+		(property "Reference" "LED266"
 			(at 213.36 212.344 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23585,7 +23595,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "D366")
+					(reference "LED266")
 					(unit 1)
 				)
 			)
@@ -23602,7 +23612,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "8fbcb093-5cd8-4b8b-944d-9b4271a10664")
-		(property "Reference" "C331"
+		(property "Reference" "C231"
 			(at 64.77 112.776 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23664,7 +23674,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "C331")
+					(reference "C231")
 					(unit 1)
 				)
 			)
@@ -23682,7 +23692,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8fc8cd9e-efcf-44ff-bdbf-ad03c9854606")
-		(property "Reference" "#PWR0346"
+		(property "Reference" "#PWR0246"
 			(at 299.72 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -23742,7 +23752,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0346")
+					(reference "#PWR0246")
 					(unit 1)
 				)
 			)
@@ -23759,7 +23769,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "90c607bb-5dc3-434c-a19a-b49c9d5a4253")
-		(property "Reference" "C356"
+		(property "Reference" "C256"
 			(at 208.28 173.736 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23821,7 +23831,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "C356")
+					(reference "C256")
 					(unit 1)
 				)
 			)
@@ -23838,7 +23848,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "91c707ce-edbf-474c-a688-566a59981d43")
-		(property "Reference" "C355"
+		(property "Reference" "C255"
 			(at 179.07 173.736 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23900,7 +23910,88 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "C355")
+					(reference "C255")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 297.18 275.59 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "92bf546e-82cd-4202-82c5-81c84e1876e2")
+		(property "Reference" "R202"
+			(at 290.322 274.066 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "500R"
+			(at 290.322 276.606 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 298.958 275.59 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 297.18 275.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 297.18 275.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "b5b72d1c-98e3-49f1-8360-d013c3f93ae5")
+		)
+		(pin "1"
+			(uuid "5b4d89cf-6b70-4533-9507-6560004d33ac")
+		)
+		(instances
+			(project "KBUltraMk1"
+				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
+					(reference "R202")
 					(unit 1)
 				)
 			)
@@ -23918,7 +24009,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "92c46d26-a7fa-400f-9440-fe66c9b140b7")
-		(property "Reference" "D375"
+		(property "Reference" "LED275"
 			(at 156.21 242.824 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23988,7 +24079,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "D375")
+					(reference "LED275")
 					(unit 1)
 				)
 			)
@@ -24006,7 +24097,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "931dd943-1dd7-461a-a579-c4f216fcb4a5")
-		(property "Reference" "#PWR0336"
+		(property "Reference" "#PWR0236"
 			(at 44.45 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -24067,7 +24158,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0336")
+					(reference "#PWR0236")
 					(unit 1)
 				)
 			)
@@ -24084,7 +24175,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "934ad363-e367-4de7-a951-b514ff431b11")
-		(property "Reference" "C390"
+		(property "Reference" "C290"
 			(at 292.1 262.636 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24146,7 +24237,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "C390")
+					(reference "C290")
 					(unit 1)
 				)
 			)
@@ -24163,7 +24254,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "93c1338a-bb45-404b-acc2-8a62ff567188")
-		(property "Reference" "C332"
+		(property "Reference" "C232"
 			(at 92.71 112.776 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24225,7 +24316,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "C332")
+					(reference "C232")
 					(unit 1)
 				)
 			)
@@ -24242,7 +24333,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "93e0d029-418f-435c-8d9b-a24d57aeddb2")
-		(property "Reference" "C381"
+		(property "Reference" "C281"
 			(at 34.29 262.636 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24304,7 +24395,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "C381")
+					(reference "C281")
 					(unit 1)
 				)
 			)
@@ -24321,7 +24412,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "93f92149-8a4a-411a-9e7e-2d76de937a0c")
-		(property "Reference" "C301"
+		(property "Reference" "C201"
 			(at 64.77 21.336 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24383,7 +24474,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "C301")
+					(reference "C201")
 					(unit 1)
 				)
 			)
@@ -24400,7 +24491,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "94d60e49-0d8e-4cd0-98c9-aae2f905e2fd")
-		(property "Reference" "C383"
+		(property "Reference" "C283"
 			(at 91.44 262.636 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24462,7 +24553,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "C383")
+					(reference "C283")
 					(unit 1)
 				)
 			)
@@ -24480,7 +24571,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9650b489-83dd-4041-bdb8-65ec7af02d4b")
-		(property "Reference" "D380"
+		(property "Reference" "LED280"
 			(at 299.72 242.824 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24550,7 +24641,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "D380")
+					(reference "LED280")
 					(unit 1)
 				)
 			)
@@ -24568,7 +24659,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9657b69b-17fb-470c-bfc2-cae8bb731347")
-		(property "Reference" "#PWR0344"
+		(property "Reference" "#PWR0244"
 			(at 242.57 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -24628,7 +24719,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0344")
+					(reference "#PWR0244")
 					(unit 1)
 				)
 			)
@@ -24646,7 +24737,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "98c71f40-742c-4468-a63b-aded2b8b2772")
-		(property "Reference" "#PWR0357"
+		(property "Reference" "#PWR0257"
 			(at 271.78 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -24706,7 +24797,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0357")
+					(reference "#PWR0257")
 					(unit 1)
 				)
 			)
@@ -24724,7 +24815,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "99ef47f0-6238-4133-b9bf-96b73dac64d5")
-		(property "Reference" "D374"
+		(property "Reference" "LED274"
 			(at 126.238 242.57 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24794,7 +24885,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "D374")
+					(reference "LED274")
 					(unit 1)
 				)
 			)
@@ -24811,7 +24902,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9a475f77-066d-49cf-bea8-fd0035051922")
-		(property "Reference" "C305"
+		(property "Reference" "C205"
 			(at 179.07 21.336 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24873,7 +24964,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "C305")
+					(reference "C205")
 					(unit 1)
 				)
 			)
@@ -24890,7 +24981,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9b16a050-acdd-4f4f-b8fe-2964cf3ac10e")
-		(property "Reference" "C354"
+		(property "Reference" "C254"
 			(at 149.86 173.736 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24952,7 +25043,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "C354")
+					(reference "C254")
 					(unit 1)
 				)
 			)
@@ -24970,7 +25061,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9ee101e6-dc27-4b8e-a309-3dea8f69e28f")
-		(property "Reference" "#PWR0394"
+		(property "Reference" "#PWR0294"
 			(at 299.72 240.03 0)
 			(hide yes)
 			(show_name no)
@@ -25030,7 +25121,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0394")
+					(reference "#PWR0294")
 					(unit 1)
 				)
 			)
@@ -25047,7 +25138,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a0a4e64a-ace8-4adb-b749-f3066c5daa7c")
-		(property "Reference" "C313"
+		(property "Reference" "C213"
 			(at 121.92 51.816 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25109,7 +25200,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "C313")
+					(reference "C213")
 					(unit 1)
 				)
 			)
@@ -25126,7 +25217,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a1054a5a-622d-459d-86a6-8097a79e43c5")
-		(property "Reference" "D307"
+		(property "Reference" "LED207"
 			(at 242.062 29.21 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25196,7 +25287,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "D307")
+					(reference "LED207")
 					(unit 1)
 				)
 			)
@@ -25213,7 +25304,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a1215fb8-744f-492f-9816-433c66f425b6")
-		(property "Reference" "D345"
+		(property "Reference" "LED245"
 			(at 184.912 151.13 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25283,7 +25374,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "D345")
+					(reference "LED245")
 					(unit 1)
 				)
 			)
@@ -25301,7 +25392,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a243bd3f-c945-4763-940f-d1a02a742950")
-		(property "Reference" "#PWR0333"
+		(property "Reference" "#PWR0233"
 			(at 271.78 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -25361,7 +25452,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0333")
+					(reference "#PWR0233")
 					(unit 1)
 				)
 			)
@@ -25378,7 +25469,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a27eb9b8-df3d-408d-8e78-8323093bad54")
-		(property "Reference" "C362"
+		(property "Reference" "C262"
 			(at 92.71 204.216 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25440,7 +25531,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "C362")
+					(reference "C262")
 					(unit 1)
 				)
 			)
@@ -25458,7 +25549,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a2bcc508-ccd7-4f60-93e2-70aa5038f2f2")
-		(property "Reference" "D357"
+		(property "Reference" "LED257"
 			(at 212.598 181.61 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25528,7 +25619,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "D357")
+					(reference "LED257")
 					(unit 1)
 				)
 			)
@@ -25545,7 +25636,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a309f277-4ecc-41ba-ab1b-6b02f11f97cc")
-		(property "Reference" "C364"
+		(property "Reference" "C264"
 			(at 149.86 204.216 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25607,7 +25698,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "C364")
+					(reference "C264")
 					(unit 1)
 				)
 			)
@@ -25624,7 +25715,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a335919b-3022-4473-a5d9-a88732267a67")
-		(property "Reference" "D349"
+		(property "Reference" "LED249"
 			(at 299.212 151.13 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25694,7 +25785,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "D349")
+					(reference "LED249")
 					(unit 1)
 				)
 			)
@@ -25712,7 +25803,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a577c428-e996-4ec2-a92d-bfd04b4fb441")
-		(property "Reference" "#PWR0343"
+		(property "Reference" "#PWR0243"
 			(at 214.63 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -25772,7 +25863,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0343")
+					(reference "#PWR0243")
 					(unit 1)
 				)
 			)
@@ -25790,7 +25881,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a667842d-43a7-4e60-9d58-4586eb93fdbb")
-		(property "Reference" "D314"
+		(property "Reference" "LED214"
 			(at 126.238 59.69 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25860,7 +25951,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "D314")
+					(reference "LED214")
 					(unit 1)
 				)
 			)
@@ -25878,7 +25969,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a791ba63-efe9-4778-ae60-f3320ad4d576")
-		(property "Reference" "#PWR0382"
+		(property "Reference" "#PWR0282"
 			(at 299.72 209.55 0)
 			(hide yes)
 			(show_name no)
@@ -25938,7 +26029,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0382")
+					(reference "#PWR0282")
 					(unit 1)
 				)
 			)
@@ -25955,7 +26046,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a7b0ab90-b9eb-433e-bc5d-a553f3b6d65d")
-		(property "Reference" "D384"
+		(property "Reference" "LED284"
 			(at 125.222 270.51 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26025,7 +26116,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "D384")
+					(reference "LED284")
 					(unit 1)
 				)
 			)
@@ -26043,7 +26134,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a970025b-b40f-4f40-904d-5a63a9e66662")
-		(property "Reference" "#PWR0363"
+		(property "Reference" "#PWR0263"
 			(at 99.06 179.07 0)
 			(hide yes)
 			(show_name no)
@@ -26103,7 +26194,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0363")
+					(reference "#PWR0263")
 					(unit 1)
 				)
 			)
@@ -26121,7 +26212,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "aa573283-d511-41ae-a5c9-5976762c3ad2")
-		(property "Reference" "#PWR0306"
+		(property "Reference" "#PWR0206"
 			(at 185.42 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -26181,7 +26272,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0306")
+					(reference "#PWR0206")
 					(unit 1)
 				)
 			)
@@ -26198,7 +26289,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "abf53b22-fe2b-4b0b-840d-c7bf7e5fbf59")
-		(property "Reference" "C367"
+		(property "Reference" "C267"
 			(at 236.22 204.216 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26260,7 +26351,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "C367")
+					(reference "C267")
 					(unit 1)
 				)
 			)
@@ -26277,7 +26368,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "abfdf544-2074-49b5-a186-bd3f40cf172e")
-		(property "Reference" "D306"
+		(property "Reference" "LED206"
 			(at 213.36 29.464 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26347,7 +26438,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "D306")
+					(reference "LED206")
 					(unit 1)
 				)
 			)
@@ -26365,7 +26456,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ae57dc93-4fc5-463c-8919-5c09bdb0428b")
-		(property "Reference" "#PWR0351"
+		(property "Reference" "#PWR0251"
 			(at 99.06 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -26425,7 +26516,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0351")
+					(reference "#PWR0251")
 					(unit 1)
 				)
 			)
@@ -26443,7 +26534,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "aef73de4-0a96-459e-80ff-d4a37e85752c")
-		(property "Reference" "D360"
+		(property "Reference" "LED260"
 			(at 299.72 181.864 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26513,7 +26604,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "D360")
+					(reference "LED260")
 					(unit 1)
 				)
 			)
@@ -26531,7 +26622,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b02418ac-6589-4a8f-8261-68d8089e4798")
-		(property "Reference" "#PWR0386"
+		(property "Reference" "#PWR0286"
 			(at 71.12 240.03 0)
 			(hide yes)
 			(show_name no)
@@ -26591,7 +26682,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0386")
+					(reference "#PWR0286")
 					(unit 1)
 				)
 			)
@@ -26609,7 +26700,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b04b25fd-f3f2-4b6c-be1f-7dede7fc5fb0")
-		(property "Reference" "D372"
+		(property "Reference" "LED272"
 			(at 69.088 242.57 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26679,7 +26770,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "D372")
+					(reference "LED272")
 					(unit 1)
 				)
 			)
@@ -26697,7 +26788,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b0a1cc27-255b-43a0-8d4e-aa1a67d39ee3")
-		(property "Reference" "D355"
+		(property "Reference" "LED255"
 			(at 156.21 181.864 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26767,7 +26858,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "D355")
+					(reference "LED255")
 					(unit 1)
 				)
 			)
@@ -26784,7 +26875,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b0f29bf2-9a48-48e7-a509-3176ef8aa230")
-		(property "Reference" "C333"
+		(property "Reference" "C233"
 			(at 121.92 112.776 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26846,7 +26937,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "C333")
+					(reference "C233")
 					(unit 1)
 				)
 			)
@@ -26864,7 +26955,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b14557a3-2aab-4d7c-b17c-899fc301b955")
-		(property "Reference" "#PWR0326"
+		(property "Reference" "#PWR0226"
 			(at 71.12 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -26924,7 +27015,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0326")
+					(reference "#PWR0226")
 					(unit 1)
 				)
 			)
@@ -26941,7 +27032,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b15acd6f-3a6d-44f2-84de-9066d59ecfb7")
-		(property "Reference" "C309"
+		(property "Reference" "C209"
 			(at 293.37 21.336 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27003,7 +27094,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "C309")
+					(reference "C209")
 					(unit 1)
 				)
 			)
@@ -27020,7 +27111,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b456d7e8-df71-49d8-b81b-7cacbf701268")
-		(property "Reference" "C339"
+		(property "Reference" "C239"
 			(at 293.37 112.776 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27082,7 +27173,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "C339")
+					(reference "C239")
 					(unit 1)
 				)
 			)
@@ -27099,7 +27190,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b469b01a-ec02-4d0f-ac8d-0649169b869e")
-		(property "Reference" "C389"
+		(property "Reference" "C289"
 			(at 262.89 262.636 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27161,7 +27252,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "C389")
+					(reference "C289")
 					(unit 1)
 				)
 			)
@@ -27178,7 +27269,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b4dd32be-10f0-45e3-89bb-799091d9bd36")
-		(property "Reference" "C382"
+		(property "Reference" "C282"
 			(at 62.23 262.636 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27240,7 +27331,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "C382")
+					(reference "C282")
 					(unit 1)
 				)
 			)
@@ -27258,7 +27349,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b546716b-9445-40eb-a8c5-016bcd8efa19")
-		(property "Reference" "#PWR0328"
+		(property "Reference" "#PWR0228"
 			(at 128.27 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -27318,7 +27409,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0328")
+					(reference "#PWR0228")
 					(unit 1)
 				)
 			)
@@ -27336,7 +27427,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b55c2848-c7ce-4656-bff5-1da32357fea2")
-		(property "Reference" "#PWR0393"
+		(property "Reference" "#PWR0293"
 			(at 271.78 240.03 0)
 			(hide yes)
 			(show_name no)
@@ -27396,7 +27487,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0393")
+					(reference "#PWR0293")
 					(unit 1)
 				)
 			)
@@ -27414,7 +27505,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b5d3cea4-c657-4ce0-9359-ea4cc8af0dba")
-		(property "Reference" "D318"
+		(property "Reference" "LED218"
 			(at 242.57 59.944 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27484,7 +27575,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "D318")
+					(reference "LED218")
 					(unit 1)
 				)
 			)
@@ -27502,7 +27593,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b63a5b8e-0746-48ae-ada6-ea1218aa38ef")
-		(property "Reference" "#PWR0380"
+		(property "Reference" "#PWR0280"
 			(at 242.57 209.55 0)
 			(hide yes)
 			(show_name no)
@@ -27562,7 +27653,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0380")
+					(reference "#PWR0280")
 					(unit 1)
 				)
 			)
@@ -27580,7 +27671,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b647d583-e2e0-4e80-b513-bb9543bdb725")
-		(property "Reference" "#PWR0384"
+		(property "Reference" "#PWR0284"
 			(at 44.45 220.98 0)
 			(hide yes)
 			(show_name no)
@@ -27641,7 +27732,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0384")
+					(reference "#PWR0284")
 					(unit 1)
 				)
 			)
@@ -27658,7 +27749,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b65cbd27-32b1-4a73-831f-3df2827d48aa")
-		(property "Reference" "C317"
+		(property "Reference" "C217"
 			(at 236.22 51.816 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27720,7 +27811,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "C317")
+					(reference "C217")
 					(unit 1)
 				)
 			)
@@ -27738,7 +27829,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b6d58892-3a27-4c7a-aaeb-034ad679489e")
-		(property "Reference" "#PWR0352"
+		(property "Reference" "#PWR0252"
 			(at 128.27 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -27798,7 +27889,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0352")
+					(reference "#PWR0252")
 					(unit 1)
 				)
 			)
@@ -27816,7 +27907,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b9dffe3e-5d60-4839-af78-3026f81fbad9")
-		(property "Reference" "#PWR0397"
+		(property "Reference" "#PWR0297"
 			(at 25.4 257.81 0)
 			(hide yes)
 			(show_name no)
@@ -27876,7 +27967,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0397")
+					(reference "#PWR0297")
 					(unit 1)
 				)
 			)
@@ -27893,7 +27984,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "bb3d7804-2847-4b68-aadf-6a8b7d530599")
-		(property "Reference" "D363"
+		(property "Reference" "LED263"
 			(at 127 212.344 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27963,7 +28054,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "D363")
+					(reference "LED263")
 					(unit 1)
 				)
 			)
@@ -27980,7 +28071,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "bb680f4a-6a17-4d29-8215-e30834d4d9c5")
-		(property "Reference" "C361"
+		(property "Reference" "C261"
 			(at 64.77 204.216 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28042,7 +28133,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "C361")
+					(reference "C261")
 					(unit 1)
 				)
 			)
@@ -28060,7 +28151,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "bc732c41-b100-4fb9-aa9d-1d686556c1c6")
-		(property "Reference" "D320"
+		(property "Reference" "LED220"
 			(at 299.72 59.944 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28130,7 +28221,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "D320")
+					(reference "LED220")
 					(unit 1)
 				)
 			)
@@ -28147,7 +28238,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "bc98d677-1643-4da1-9f7c-e540fd02649f")
-		(property "Reference" "D389"
+		(property "Reference" "LED289"
 			(at 268.732 270.51 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28217,7 +28308,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "D389")
+					(reference "LED289")
 					(unit 1)
 				)
 			)
@@ -28235,7 +28326,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bd818726-00ed-4822-9ce0-d3ed2b24a638")
-		(property "Reference" "#PWR0401"
+		(property "Reference" "#PWR0301"
 			(at 125.73 267.97 0)
 			(hide yes)
 			(show_name no)
@@ -28295,7 +28386,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0401")
+					(reference "#PWR0301")
 					(unit 1)
 				)
 			)
@@ -28313,7 +28404,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "be027442-b038-4e87-85f2-1da4c615e85b")
-		(property "Reference" "#PWR0317"
+		(property "Reference" "#PWR0217"
 			(at 156.21 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -28373,7 +28464,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0317")
+					(reference "#PWR0217")
 					(unit 1)
 				)
 			)
@@ -28391,7 +28482,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c13133da-8e58-410c-9fe5-6b605e9d5983")
-		(property "Reference" "D377"
+		(property "Reference" "LED277"
 			(at 212.598 242.57 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28461,7 +28552,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "D377")
+					(reference "LED277")
 					(unit 1)
 				)
 			)
@@ -28479,7 +28570,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c198c965-aeb9-466f-ae49-d5027e435153")
-		(property "Reference" "#PWR0374"
+		(property "Reference" "#PWR0274"
 			(at 71.12 209.55 0)
 			(hide yes)
 			(show_name no)
@@ -28539,7 +28630,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0374")
+					(reference "#PWR0274")
 					(unit 1)
 				)
 			)
@@ -28556,7 +28647,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c1d8b22d-7992-4637-b8ea-65538cf79cec")
-		(property "Reference" "D364"
+		(property "Reference" "LED264"
 			(at 155.702 212.09 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28626,7 +28717,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "D364")
+					(reference "LED264")
 					(unit 1)
 				)
 			)
@@ -28644,7 +28735,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c38d7713-42e8-46a0-ab4f-9834dd1c15b8")
-		(property "Reference" "#PWR0371"
+		(property "Reference" "#PWR0271"
 			(at 328.93 179.07 0)
 			(hide yes)
 			(show_name no)
@@ -28704,7 +28795,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0371")
+					(reference "#PWR0271")
 					(unit 1)
 				)
 			)
@@ -28721,7 +28812,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c4a181b1-d3b5-406b-bd1f-58c24f6022e8")
-		(property "Reference" "C306"
+		(property "Reference" "C206"
 			(at 208.28 21.336 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28783,7 +28874,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "C306")
+					(reference "C206")
 					(unit 1)
 				)
 			)
@@ -28801,7 +28892,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c69da4fc-e1db-4e7d-9b12-29763848c5f1")
-		(property "Reference" "#PWR0364"
+		(property "Reference" "#PWR0264"
 			(at 128.27 179.07 0)
 			(hide yes)
 			(show_name no)
@@ -28861,7 +28952,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0364")
+					(reference "#PWR0264")
 					(unit 1)
 				)
 			)
@@ -28878,7 +28969,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ca221656-3f43-4730-b30b-f1f2bec696c4")
-		(property "Reference" "D386"
+		(property "Reference" "LED286"
 			(at 182.88 270.764 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28948,7 +29039,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "D386")
+					(reference "LED286")
 					(unit 1)
 				)
 			)
@@ -28966,7 +29057,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cd57dce0-cbab-4940-9317-911a63baa0fa")
-		(property "Reference" "#PWR0349"
+		(property "Reference" "#PWR0249"
 			(at 54.61 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -29027,7 +29118,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0349")
+					(reference "#PWR0249")
 					(unit 1)
 				)
 			)
@@ -29044,7 +29135,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "cd6dfd72-71db-4602-bbf4-c2f2c009fd63")
-		(property "Reference" "D308"
+		(property "Reference" "LED208"
 			(at 270.51 29.464 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29114,7 +29205,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "D308")
+					(reference "LED208")
 					(unit 1)
 				)
 			)
@@ -29131,7 +29222,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "cf019fe0-7a83-4534-bf95-3702beda7f74")
-		(property "Reference" "C325"
+		(property "Reference" "C225"
 			(at 179.07 82.296 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29193,7 +29284,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "C325")
+					(reference "C225")
 					(unit 1)
 				)
 			)
@@ -29210,7 +29301,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "cf11ebca-28fa-4e8d-bbba-21e58f2705bc")
-		(property "Reference" "D325"
+		(property "Reference" "LED225"
 			(at 184.912 90.17 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29280,7 +29371,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "D325")
+					(reference "LED225")
 					(unit 1)
 				)
 			)
@@ -29298,7 +29389,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cf647ab8-2f71-46b2-afe6-2c951a7be32f")
-		(property "Reference" "#PWR0372"
+		(property "Reference" "#PWR0272"
 			(at 44.45 190.5 0)
 			(hide yes)
 			(show_name no)
@@ -29359,7 +29450,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0372")
+					(reference "#PWR0272")
 					(unit 1)
 				)
 			)
@@ -29376,7 +29467,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d15d4423-dc54-447e-b9d3-6316dd9f1777")
-		(property "Reference" "C349"
+		(property "Reference" "C249"
 			(at 293.37 143.256 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29438,7 +29529,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "C349")
+					(reference "C249")
 					(unit 1)
 				)
 			)
@@ -29455,7 +29546,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d1a26d10-1bce-40cf-9bf3-672c3abbed75")
-		(property "Reference" "C369"
+		(property "Reference" "C269"
 			(at 293.37 204.216 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29517,7 +29608,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "C369")
+					(reference "C269")
 					(unit 1)
 				)
 			)
@@ -29534,7 +29625,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d2b2fbdd-7c4b-4eb3-b24a-a5de9cf1afef")
-		(property "Reference" "C345"
+		(property "Reference" "C245"
 			(at 179.07 143.256 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29596,7 +29687,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "C345")
+					(reference "C245")
 					(unit 1)
 				)
 			)
@@ -29613,7 +29704,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d3431842-2e52-4b95-9533-182d1a19bba3")
-		(property "Reference" "C340"
+		(property "Reference" "C240"
 			(at 322.58 112.776 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29675,7 +29766,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "C340")
+					(reference "C240")
 					(unit 1)
 				)
 			)
@@ -29693,7 +29784,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d3a39ad7-89ba-4896-9854-78db86bbc97b")
-		(property "Reference" "#PWR0311"
+		(property "Reference" "#PWR0211"
 			(at 328.93 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -29753,7 +29844,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0311")
+					(reference "#PWR0211")
 					(unit 1)
 				)
 			)
@@ -29770,7 +29861,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d3c76900-32d2-4604-a40c-7376dff6893e")
-		(property "Reference" "C353"
+		(property "Reference" "C253"
 			(at 121.92 173.736 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29832,7 +29923,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "C353")
+					(reference "C253")
 					(unit 1)
 				)
 			)
@@ -29850,7 +29941,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d3f989f4-3f20-4a53-aaeb-e1335508ae0e")
-		(property "Reference" "#PWR0323"
+		(property "Reference" "#PWR0223"
 			(at 328.93 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -29910,7 +30001,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0323")
+					(reference "#PWR0223")
 					(unit 1)
 				)
 			)
@@ -29927,7 +30018,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d5375794-665f-4173-9d97-dcff1cc0680a")
-		(property "Reference" "D362"
+		(property "Reference" "LED262"
 			(at 98.552 212.09 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29997,7 +30088,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "D362")
+					(reference "LED262")
 					(unit 1)
 				)
 			)
@@ -30014,7 +30105,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d79fbfb6-5798-4ae8-8019-e20b08e2a15c")
-		(property "Reference" "D304"
+		(property "Reference" "LED204"
 			(at 155.702 29.21 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -30084,7 +30175,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "D304")
+					(reference "LED204")
 					(unit 1)
 				)
 			)
@@ -30101,7 +30192,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d81819a0-9955-41d8-838b-807e95ef5dea")
-		(property "Reference" "C366"
+		(property "Reference" "C266"
 			(at 208.28 204.216 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -30163,7 +30254,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "C366")
+					(reference "C266")
 					(unit 1)
 				)
 			)
@@ -30181,7 +30272,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d8479bc2-0fc4-43f5-9fea-e23afb6efe4b")
-		(property "Reference" "#PWR0370"
+		(property "Reference" "#PWR0270"
 			(at 299.72 179.07 0)
 			(hide yes)
 			(show_name no)
@@ -30241,7 +30332,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0370")
+					(reference "#PWR0270")
 					(unit 1)
 				)
 			)
@@ -30258,7 +30349,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d8c8844b-0bd6-481e-a206-b51050444531")
-		(property "Reference" "C368"
+		(property "Reference" "C268"
 			(at 265.43 204.216 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -30320,7 +30411,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "C368")
+					(reference "C268")
 					(unit 1)
 				)
 			)
@@ -30337,8 +30428,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d9b65745-5fdd-45d8-be4e-003416c7b388")
-		(property "Reference" "D390"
-			(at 292.1 279.4 0)
+		(property "Reference" "LED290"
+			(at 292.1 252.73 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -30348,7 +30439,7 @@
 			)
 		)
 		(property "Value" "SK6812MINI-E"
-			(at 292.1 281.94 0)
+			(at 292.1 255.27 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -30407,7 +30498,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "D390")
+					(reference "LED290")
 					(unit 1)
 				)
 			)
@@ -30424,7 +30515,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "db317108-9112-45aa-aecb-c657f8b52c0e")
-		(property "Reference" "D387"
+		(property "Reference" "LED287"
 			(at 211.582 270.51 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -30494,7 +30585,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "D387")
+					(reference "LED287")
 					(unit 1)
 				)
 			)
@@ -30511,7 +30602,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "dbb274c4-40cf-46d2-974e-79ccea189657")
-		(property "Reference" "D305"
+		(property "Reference" "LED205"
 			(at 184.912 29.21 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -30581,7 +30672,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "D305")
+					(reference "LED205")
 					(unit 1)
 				)
 			)
@@ -30599,7 +30690,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dc416d7c-43d4-4374-a16c-117a0f2845a1")
-		(property "Reference" "#PWR0391"
+		(property "Reference" "#PWR0291"
 			(at 214.63 240.03 0)
 			(hide yes)
 			(show_name no)
@@ -30659,7 +30750,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0391")
+					(reference "#PWR0291")
 					(unit 1)
 				)
 			)
@@ -30676,7 +30767,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "de3446cf-cd49-4be7-b330-ff5906eee9bc")
-		(property "Reference" "C315"
+		(property "Reference" "C215"
 			(at 179.07 51.816 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -30738,7 +30829,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "C315")
+					(reference "C215")
 					(unit 1)
 				)
 			)
@@ -30755,7 +30846,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "dea4252d-10f9-4558-83eb-8e940bea5bb9")
-		(property "Reference" "D348"
+		(property "Reference" "LED248"
 			(at 270.51 151.384 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -30825,7 +30916,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "D348")
+					(reference "LED248")
 					(unit 1)
 				)
 			)
@@ -30843,7 +30934,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "df3d0246-109c-4174-8e97-772c0e479a63")
-		(property "Reference" "#PWR0403"
+		(property "Reference" "#PWR0303"
 			(at 184.15 267.97 0)
 			(hide yes)
 			(show_name no)
@@ -30903,7 +30994,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0403")
+					(reference "#PWR0303")
 					(unit 1)
 				)
 			)
@@ -30921,7 +31012,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e00bd966-5a87-4c65-bfd0-f7e764759ad4")
-		(property "Reference" "D352"
+		(property "Reference" "LED252"
 			(at 69.088 181.61 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -30991,7 +31082,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "D352")
+					(reference "LED252")
 					(unit 1)
 				)
 			)
@@ -31008,7 +31099,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e014629a-ad93-492d-ad30-91d54352d95e")
-		(property "Reference" "C360"
+		(property "Reference" "C260"
 			(at 322.58 173.736 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31070,7 +31161,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "C360")
+					(reference "C260")
 					(unit 1)
 				)
 			)
@@ -31087,7 +31178,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e11dcbef-c1b4-41c8-88ef-b84151156e8b")
-		(property "Reference" "C387"
+		(property "Reference" "C287"
 			(at 205.74 262.636 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31149,7 +31240,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "C387")
+					(reference "C287")
 					(unit 1)
 				)
 			)
@@ -31166,7 +31257,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e24af953-29f0-4e28-aa17-df54dfdd73a0")
-		(property "Reference" "D322"
+		(property "Reference" "LED222"
 			(at 98.552 90.17 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31236,7 +31327,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "D322")
+					(reference "LED222")
 					(unit 1)
 				)
 			)
@@ -31254,7 +31345,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e4210b20-b58a-4bec-97e4-b1263ab3ce9c")
-		(property "Reference" "#PWR0383"
+		(property "Reference" "#PWR0283"
 			(at 328.93 209.55 0)
 			(hide yes)
 			(show_name no)
@@ -31314,7 +31405,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0383")
+					(reference "#PWR0283")
 					(unit 1)
 				)
 			)
@@ -31332,7 +31423,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e4ff5b17-32d9-4969-b414-5e2a1b1ac1ed")
-		(property "Reference" "#PWR0361"
+		(property "Reference" "#PWR0261"
 			(at 54.61 167.64 0)
 			(hide yes)
 			(show_name no)
@@ -31393,7 +31484,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0361")
+					(reference "#PWR0261")
 					(unit 1)
 				)
 			)
@@ -31411,7 +31502,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e652d9b4-5946-4a22-aa79-f86a5e1456d4")
-		(property "Reference" "#PWR0389"
+		(property "Reference" "#PWR0289"
 			(at 156.21 240.03 0)
 			(hide yes)
 			(show_name no)
@@ -31471,7 +31562,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0389")
+					(reference "#PWR0289")
 					(unit 1)
 				)
 			)
@@ -31488,7 +31579,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e655eb1c-0f77-4310-bba7-49ed11e3d0bf")
-		(property "Reference" "D343"
+		(property "Reference" "LED243"
 			(at 127 151.384 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31558,7 +31649,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "D343")
+					(reference "LED243")
 					(unit 1)
 				)
 			)
@@ -31576,7 +31667,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e7103056-1458-41de-bdbf-9004c0e51968")
-		(property "Reference" "D319"
+		(property "Reference" "LED219"
 			(at 269.748 59.69 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31646,7 +31737,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "D319")
+					(reference "LED219")
 					(unit 1)
 				)
 			)
@@ -31664,7 +31755,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e76b0dfe-fd51-475a-ba44-75911a0dba20")
-		(property "Reference" "#PWR0305"
+		(property "Reference" "#PWR0205"
 			(at 156.21 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -31724,7 +31815,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0305")
+					(reference "#PWR0205")
 					(unit 1)
 				)
 			)
@@ -31741,7 +31832,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e7c152dd-f4b9-42d6-b969-13998e0635b4")
-		(property "Reference" "C338"
+		(property "Reference" "C238"
 			(at 265.43 112.776 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31803,7 +31894,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "C338")
+					(reference "C238")
 					(unit 1)
 				)
 			)
@@ -31820,7 +31911,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e805913e-31ea-440c-9893-62187e387cb4")
-		(property "Reference" "D383"
+		(property "Reference" "LED283"
 			(at 96.52 270.764 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31890,7 +31981,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "D383")
+					(reference "LED283")
 					(unit 1)
 				)
 			)
@@ -31907,7 +31998,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e80fb84d-8768-440a-98e2-4ae702b53f48")
-		(property "Reference" "D327"
+		(property "Reference" "LED227"
 			(at 242.062 90.17 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31977,7 +32068,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "D327")
+					(reference "LED227")
 					(unit 1)
 				)
 			)
@@ -31994,7 +32085,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e865848a-1761-4a62-b44a-ae9c7201a883")
-		(property "Reference" "D382"
+		(property "Reference" "LED282"
 			(at 68.072 270.51 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32064,7 +32155,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "D382")
+					(reference "LED282")
 					(unit 1)
 				)
 			)
@@ -32082,7 +32173,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e95a869b-8d07-4631-b9bd-72333b665c8e")
-		(property "Reference" "R301"
+		(property "Reference" "R201"
 			(at 39.37 21.59 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32144,7 +32235,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "R301")
+					(reference "R201")
 					(unit 1)
 				)
 			)
@@ -32161,7 +32252,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "eaaa4ffd-4226-4192-93b2-4d2c1c10a9cc")
-		(property "Reference" "C335"
+		(property "Reference" "C235"
 			(at 179.07 112.776 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32223,7 +32314,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "C335")
+					(reference "C235")
 					(unit 1)
 				)
 			)
@@ -32241,7 +32332,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "eb02874a-7e11-4e53-a1c9-bf6560cfd164")
-		(property "Reference" "#PWR0355"
+		(property "Reference" "#PWR0255"
 			(at 214.63 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -32301,7 +32392,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0355")
+					(reference "#PWR0255")
 					(unit 1)
 				)
 			)
@@ -32319,7 +32410,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "eb5e26f4-0213-414b-bb5f-eb58a505ce4a")
-		(property "Reference" "#PWR0318"
+		(property "Reference" "#PWR0218"
 			(at 185.42 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -32379,7 +32470,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0318")
+					(reference "#PWR0218")
 					(unit 1)
 				)
 			)
@@ -32397,7 +32488,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ebf7b73a-1aa0-4c9a-bcc2-2d55c2c4e90f")
-		(property "Reference" "D332"
+		(property "Reference" "LED232"
 			(at 69.088 120.65 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32467,7 +32558,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "D332")
+					(reference "LED232")
 					(unit 1)
 				)
 			)
@@ -32484,7 +32575,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ece0f815-9161-4d09-8101-5b653d0e7cff")
-		(property "Reference" "C347"
+		(property "Reference" "C247"
 			(at 236.22 143.256 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32546,7 +32637,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "C347")
+					(reference "C247")
 					(unit 1)
 				)
 			)
@@ -32563,7 +32654,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "eec50695-a88d-41e6-b233-c78b14dcba38")
-		(property "Reference" "C384"
+		(property "Reference" "C284"
 			(at 119.38 262.636 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32625,7 +32716,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "C384")
+					(reference "C284")
 					(unit 1)
 				)
 			)
@@ -32643,7 +32734,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "efbe7e96-5e6e-4e9b-95b3-ab15f50a59c4")
-		(property "Reference" "#PWR0373"
+		(property "Reference" "#PWR0273"
 			(at 54.61 198.12 0)
 			(hide yes)
 			(show_name no)
@@ -32704,7 +32795,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0373")
+					(reference "#PWR0273")
 					(unit 1)
 				)
 			)
@@ -32721,7 +32812,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f0190026-dc0e-423d-8470-d6029f47a858")
-		(property "Reference" "C370"
+		(property "Reference" "C270"
 			(at 322.58 204.216 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32783,7 +32874,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "C370")
+					(reference "C270")
 					(unit 1)
 				)
 			)
@@ -32800,7 +32891,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f0538706-90ac-47ec-b343-654b00fde0ec")
-		(property "Reference" "D328"
+		(property "Reference" "LED228"
 			(at 270.51 90.424 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32870,7 +32961,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "D328")
+					(reference "LED228")
 					(unit 1)
 				)
 			)
@@ -32888,7 +32979,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f0b1c0bd-851d-4e09-bbbf-e310b51fc88b")
-		(property "Reference" "#PWR0359"
+		(property "Reference" "#PWR0259"
 			(at 328.93 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -32948,7 +33039,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0359")
+					(reference "#PWR0259")
 					(unit 1)
 				)
 			)
@@ -32966,7 +33057,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f12989c0-ae80-47c5-9e55-cfdeb5d1c230")
-		(property "Reference" "D316"
+		(property "Reference" "LED216"
 			(at 184.658 59.69 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -33036,7 +33127,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "D316")
+					(reference "LED216")
 					(unit 1)
 				)
 			)
@@ -33053,7 +33144,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f20de5be-9d59-42fa-abc1-300f189f553c")
-		(property "Reference" "C320"
+		(property "Reference" "C220"
 			(at 322.58 51.816 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -33115,7 +33206,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "C320")
+					(reference "C220")
 					(unit 1)
 				)
 			)
@@ -33132,7 +33223,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f3187175-a727-4a7f-b95e-cfc0c2f3464d")
-		(property "Reference" "C330"
+		(property "Reference" "C230"
 			(at 322.58 82.296 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -33194,7 +33285,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "C330")
+					(reference "C230")
 					(unit 1)
 				)
 			)
@@ -33212,7 +33303,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f3683345-0218-4fcb-b79f-565f75b9b326")
-		(property "Reference" "#PWR0334"
+		(property "Reference" "#PWR0234"
 			(at 299.72 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -33272,7 +33363,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0334")
+					(reference "#PWR0234")
 					(unit 1)
 				)
 			)
@@ -33289,7 +33380,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f5f930ca-3670-46fc-9bb8-1b2927b38a90")
-		(property "Reference" "D321"
+		(property "Reference" "LED221"
 			(at 69.85 90.424 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -33359,7 +33450,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "D321")
+					(reference "LED221")
 					(unit 1)
 				)
 			)
@@ -33376,7 +33467,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f713aa66-f138-4c7a-a847-07bc07492d35")
-		(property "Reference" "C314"
+		(property "Reference" "C214"
 			(at 149.86 51.816 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -33438,7 +33529,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "C314")
+					(reference "C214")
 					(unit 1)
 				)
 			)
@@ -33456,7 +33547,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f7395662-d765-4ff1-acd6-e7f72a7d894b")
-		(property "Reference" "#PWR0345"
+		(property "Reference" "#PWR0245"
 			(at 271.78 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -33516,7 +33607,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0345")
+					(reference "#PWR0245")
 					(unit 1)
 				)
 			)
@@ -33534,7 +33625,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f7d2f440-6701-42e6-ae74-9b9216b4b2ed")
-		(property "Reference" "#PWR0331"
+		(property "Reference" "#PWR0231"
 			(at 214.63 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -33594,7 +33685,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0331")
+					(reference "#PWR0231")
 					(unit 1)
 				)
 			)
@@ -33612,7 +33703,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f8d071c7-b473-49aa-a418-e3e38d13ca4c")
-		(property "Reference" "#PWR0398"
+		(property "Reference" "#PWR0298"
 			(at 40.64 267.97 0)
 			(hide yes)
 			(show_name no)
@@ -33672,7 +33763,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0398")
+					(reference "#PWR0298")
 					(unit 1)
 				)
 			)
@@ -33689,7 +33780,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f8d42dbc-0031-4c01-b3de-5a672c11aa01")
-		(property "Reference" "C344"
+		(property "Reference" "C244"
 			(at 149.86 143.256 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -33751,7 +33842,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "C344")
+					(reference "C244")
 					(unit 1)
 				)
 			)
@@ -33768,7 +33859,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f9760890-a1c1-4f66-a9c3-7bba5f6b5315")
-		(property "Reference" "C374"
+		(property "Reference" "C274"
 			(at 149.86 234.696 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -33830,7 +33921,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "C374")
+					(reference "C274")
 					(unit 1)
 				)
 			)
@@ -33848,7 +33939,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fa929492-85c7-4602-b4b3-2d27d37a57d8")
-		(property "Reference" "#PWR0369"
+		(property "Reference" "#PWR0269"
 			(at 271.78 179.07 0)
 			(hide yes)
 			(show_name no)
@@ -33908,7 +33999,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0369")
+					(reference "#PWR0269")
 					(unit 1)
 				)
 			)
@@ -33926,7 +34017,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fb08e238-b9a4-442e-bfa1-41ee527d6bf0")
-		(property "Reference" "#PWR0347"
+		(property "Reference" "#PWR0247"
 			(at 328.93 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -33986,7 +34077,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0347")
+					(reference "#PWR0247")
 					(unit 1)
 				)
 			)
@@ -34003,7 +34094,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "fbf6efd9-b712-4b6e-b27a-9c46b3f4bf88")
-		(property "Reference" "D309"
+		(property "Reference" "LED209"
 			(at 299.212 29.21 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -34073,7 +34164,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "D309")
+					(reference "LED209")
 					(unit 1)
 				)
 			)
@@ -34091,7 +34182,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fc26dabe-e0ba-48e2-bed2-480d9686fc79")
-		(property "Reference" "#PWR0308"
+		(property "Reference" "#PWR0208"
 			(at 242.57 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -34151,7 +34242,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0308")
+					(reference "#PWR0208")
 					(unit 1)
 				)
 			)
@@ -34168,7 +34259,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "fee95dca-b0db-42f7-a3d6-7cfa8a624abc")
-		(property "Reference" "C321"
+		(property "Reference" "C221"
 			(at 64.77 82.296 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -34230,7 +34321,7 @@
 		(instances
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "C321")
+					(reference "C221")
 					(unit 1)
 				)
 			)

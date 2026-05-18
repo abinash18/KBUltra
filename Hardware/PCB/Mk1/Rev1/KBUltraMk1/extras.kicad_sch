@@ -1,0 +1,192 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "59ec5426-913e-457d-8774-30826f07995c")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 50.8 101.6)
+		(size 25.4 50.8)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 255 194 1)
+		)
+		(uuid "0b58d487-16a6-4e3c-a758-5a6adf3604b5")
+		(property "Sheetname" "Haptic"
+			(at 50.8 100.8884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "haptic.kicad_sch"
+			(at 50.8 152.9846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "KBUltraMk1"
+				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/37a2e385-e742-4cdf-beae-5de0108665d5"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 50.8 25.4)
+		(size 25.4 50.8)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 255 194 1)
+		)
+		(uuid "4088ed00-9493-4f4c-90bf-8af09cea9729")
+		(property "Sheetname" "Accelerometer"
+			(at 50.8 24.6884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "accelerometer.kicad_sch"
+			(at 50.8 76.7846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "KBUltraMk1"
+				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/37a2e385-e742-4cdf-beae-5de0108665d5"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 203.2 101.6)
+		(size 25.4 50.8)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 255 194 1)
+		)
+		(uuid "90a1a563-c2d3-4256-984f-1f92d92f3ce2")
+		(property "Sheetname" "Encoder"
+			(at 203.2 100.8884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "encoder.kicad_sch"
+			(at 203.2 152.9846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "KBUltraMk1"
+				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/37a2e385-e742-4cdf-beae-5de0108665d5"
+					(page "9")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 203.2 25.4)
+		(size 25.4 50.8)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 255 194 1)
+		)
+		(uuid "fbff92d3-74ba-4fa3-9981-79b8655e9aac")
+		(property "Sheetname" "Screen"
+			(at 203.2 24.6884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "screen.kicad_sch"
+			(at 203.2 76.7846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "KBUltraMk1"
+				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/37a2e385-e742-4cdf-beae-5de0108665d5"
+					(page "8")
+				)
+			)
+		)
+	)
+)

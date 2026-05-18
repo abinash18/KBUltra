@@ -140,7 +140,7 @@
         "min_track_width": 0.2,
         "min_via_annular_width": 0.1,
         "min_via_diameter": 0.5,
-        "solder_mask_to_copper_clearance": 0.0,
+        "solder_mask_to_copper_clearance": 0.005,
         "use_height_for_length_calcs": true
       },
       "teardrop_options": [
@@ -469,7 +469,9 @@
   },
   "libraries": {
     "pinned_footprint_libs": [],
-    "pinned_symbol_libs": []
+    "pinned_symbol_libs": [
+      "kbultra"
+    ]
   },
   "meta": {
     "filename": "KBUltraMk1.kicad_pro",
@@ -515,9 +517,9 @@
     "page_layout_descr_file": ""
   },
   "schematic": {
-    "annotate_start_num": 0,
+    "annotate_start_num": 100,
     "annotation": {
-      "method": 1,
+      "method": 0,
       "sort_order": 1
     },
     "bom_export_filename": "${PROJECTNAME}.csv",
@@ -656,7 +658,7 @@
         "uuid": "b5c66110-c4bc-44b7-b74f-0bc521af7455"
       }
     ],
-    "used_designators": "D97,D99,D101,D103,D105,D107,D109,D111,D113,D115,D117,D119,D121,D123,D125,D127,D129,D131,D133,D135,D137,D139,D141,D143,D145,D147,D149,D151,D153,D155-165,D301-390,#PWR24,#PWR26,#PWR28,#PWR30,#PWR32,#PWR34,#PWR36,#PWR38,#PWR40,#PWR42,#PWR44,#PWR46,#PWR48,#PWR50,#PWR52,#PWR54,#PWR56,#PWR58,#PWR60,#PWR62,#PWR64,#PWR66,#PWR68,#PWR70,#PWR72,#PWR74,#PWR76,#PWR78,#PWR80,#PWR82-108,#PWR301-408,C22,C24,C26,C28,C30,C32,C34,C36,C38,C40,C42,C44,C46,C48,C50,C52,C54,C56,C58,C60,C62,C64,C66,C68,C70,C72,C74,C76,C78,C80-90,C301-390,R301",
+    "used_designators": "D201-275,D301-390,#PWR101-118,#PWR201-408,LED201-291,C101-118,C201-390,SW101,SW201-276,H201-213,R101-107,R201-209,R301,U101-103,U201-203,L101,L201",
     "variants": []
   },
   "sheets": [
@@ -671,6 +673,30 @@
     [
       "3929dec5-d955-4ff8-bed6-10346a8e437b",
       "Lighting"
+    ],
+    [
+      "aecb405b-8b8b-4d2e-ac62-4bd044d58a6c",
+      "Controller"
+    ],
+    [
+      "37a2e385-e742-4cdf-beae-5de0108665d5",
+      "Extras"
+    ],
+    [
+      "4088ed00-9493-4f4c-90bf-8af09cea9729",
+      "Accelerometer"
+    ],
+    [
+      "0b58d487-16a6-4e3c-a758-5a6adf3604b5",
+      "Haptic"
+    ],
+    [
+      "fbff92d3-74ba-4fa3-9981-79b8655e9aac",
+      "Screen"
+    ],
+    [
+      "90a1a563-c2d3-4256-984f-1f92d92f3ce2",
+      "Encoder"
     ]
   ],
   "text_variables": {},
