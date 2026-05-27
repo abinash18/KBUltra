@@ -156,7 +156,7 @@
         "min_track_width": 0.2,
         "min_via_annular_width": 0.1,
         "min_via_diameter": 0.5,
-        "solder_mask_to_copper_clearance": 0.005,
+        "solder_mask_to_copper_clearance": 0.0,
         "use_height_for_length_calcs": true
       },
       "teardrop_options": [
@@ -485,12 +485,10 @@
   },
   "libraries": {
     "pinned_footprint_libs": [],
-    "pinned_symbol_libs": [
-      "kbultra"
-    ]
+    "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "KBUltraMk1.kicad_pro",
+    "filename": "ControlCardRP.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -533,10 +531,10 @@
     "page_layout_descr_file": ""
   },
   "schematic": {
-    "annotate_start_num": 100,
+    "annotate_start_num": 0,
     "annotation": {
       "method": 0,
-      "sort_order": 1
+      "sort_order": 0
     },
     "bom_export_filename": "${PROJECTNAME}.csv",
     "bom_fmt_presets": [],
@@ -600,36 +598,12 @@
           "label": "Datasheet",
           "name": "Datasheet",
           "show": true
-        },
-        {
-          "group_by": false,
-          "label": "Sim.Pins",
-          "name": "Sim.Pins",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "Sim.Device",
-          "name": "Sim.Device",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "Description",
-          "name": "Description",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "#",
-          "name": "${ITEM_NUMBER}",
-          "show": false
         }
       ],
       "filter_string": "",
       "group_symbols": true,
       "include_excluded_from_bom": true,
-      "name": "",
+      "name": "Default Editing",
       "sort_asc": true,
       "sort_field": "Reference"
     },
@@ -669,50 +643,38 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "KBUltraMk1.kicad_sch",
-        "name": "KBUltraMk1",
-        "uuid": "b5c66110-c4bc-44b7-b74f-0bc521af7455"
+        "filename": "ControlCardRP.kicad_sch",
+        "name": "Root",
+        "uuid": "a4806da1-c544-4ae5-b204-32c833e6ad2b"
       }
     ],
-    "used_designators": "J101",
+    "used_designators": "U4",
     "variants": []
   },
   "sheets": [
     [
-      "b5c66110-c4bc-44b7-b74f-0bc521af7455",
-      "KBUltraMk1"
+      "a4806da1-c544-4ae5-b204-32c833e6ad2b",
+      "Root"
     ],
     [
-      "0bd22731-92ed-4664-9973-f6bba0bd1b6d",
-      "Key Matrix"
-    ],
-    [
-      "3929dec5-d955-4ff8-bed6-10346a8e437b",
-      "Lighting"
-    ],
-    [
-      "aecb405b-8b8b-4d2e-ac62-4bd044d58a6c",
+      "367b0da4-fb4c-4308-aa2b-30684a440207",
       "Controller"
     ],
     [
-      "37a2e385-e742-4cdf-beae-5de0108665d5",
-      "Extras"
+      "88153bd4-bef8-4128-ad38-37115df858c2",
+      "USB-C PD"
     ],
     [
-      "4088ed00-9493-4f4c-90bf-8af09cea9729",
-      "Accelerometer"
+      "632eec67-69c0-4c64-a789-34cbb910d8dd",
+      "Battery Management"
     ],
     [
-      "0b58d487-16a6-4e3c-a758-5a6adf3604b5",
-      "Haptic"
+      "705de6ba-502e-46e2-8f1c-6fbc67e779c6",
+      "Peripherals"
     ],
     [
-      "fbff92d3-74ba-4fa3-9981-79b8655e9aac",
-      "Screen"
-    ],
-    [
-      "90a1a563-c2d3-4256-984f-1f92d92f3ce2",
-      "Encoder"
+      "0d41d537-7239-4e59-88d1-220b6c6fc2c6",
+      "Power"
     ]
   ],
   "text_variables": {},
