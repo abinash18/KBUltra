@@ -2,4 +2,5 @@
 	(version 7)
 	(lib (name "keyswitches.pretty-master") (type "KiCad") (uri "${KIPRJMOD}/lib/keyswitches.pretty-master/keyswitches.pretty-master") (options "") (descr ""))
 	(lib (name "KBUltra") (type "KiCad") (uri "${KIPRJMOD}/lib/kbultra.pretty") (options "") (descr ""))
+	(lib (name "kicad-displays") (type "KiCad") (uri "${KIPRJMOD}/lib/kicad-displays-main/kicad-displays.pretty") (options "") (descr ""))
 )

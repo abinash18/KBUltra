@@ -3510,7 +3510,7 @@
 		)
 		(uuid "efaa0072-4b4d-41c8-8010-819be4f49754")
 	)
-	(global_label "PD_OUT"
+	(global_label "VBUS_UCPD"
 		(shape input)
 		(at 205.74 43.18 0)
 		(fields_autoplaced yes)
@@ -3522,7 +3522,7 @@
 		)
 		(uuid "3695a571-f0f3-4f57-a048-3e2f2029ef0f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 215.8614 43.18 0)
+			(at 219.7319 43.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)

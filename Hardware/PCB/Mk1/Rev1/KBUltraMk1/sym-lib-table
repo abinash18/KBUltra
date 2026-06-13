@@ -1,0 +1,5 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "kbultra") (type "KiCad") (uri "${KIPRJMOD}/lib/kbultra.kicad_sym") (options "") (descr ""))
+	(lib (name "kicad-displays") (type "KiCad") (uri "${KIPRJMOD}/lib/kicad-displays-main/kicad-displays.kicad_sym") (options "") (descr ""))
+)

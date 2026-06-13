@@ -3,7 +3,7 @@
 	(generator "eeschema")
 	(generator_version "10.0")
 	(uuid "ae7238f9-8e5b-40a0-b5f3-568832afd6e5")
-	(paper "A4")
+	(paper "A3")
 	(lib_symbols
 		(symbol "Device:C"
 			(pin_numbers
@@ -869,12 +869,6 @@
 		(uuid "07ee00fe-e310-4087-a9f4-dcba9add4258")
 	)
 	(junction
-		(at 199.39 228.6)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "092aecdc-f877-4b46-9374-ac6524b6f441")
-	)
-	(junction
 		(at 55.88 137.16)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -983,28 +977,10 @@
 		(uuid "185969c0-c82c-48c5-b0e2-aab96ef73532")
 	)
 	(junction
-		(at 227.33 251.46)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "18e15172-fe98-4692-97be-9de8d980980e")
-	)
-	(junction
 		(at 199.39 198.12)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1a0ba7a9-79e7-4e4d-a0fd-c3d6138faa63")
-	)
-	(junction
-		(at 254 279.4)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "1c323001-5ab9-4b97-8ffb-4a259f52aca1")
-	)
-	(junction
-		(at 53.34 279.4)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "1c98a072-12e2-46a3-9287-bb6e15cb3451")
 	)
 	(junction
 		(at 227.33 190.5)
@@ -1017,12 +993,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1fac6fa0-7b62-4c8e-9398-37f0e36a71e8")
-	)
-	(junction
-		(at 170.18 228.6)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "201c1d3e-a63e-46f8-ae0e-4d59fef57b60")
 	)
 	(junction
 		(at 199.39 78.74)
@@ -1073,12 +1043,6 @@
 		(uuid "2566ab61-8598-4c32-b924-3d58fba893de")
 	)
 	(junction
-		(at 284.48 251.46)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "266f0b14-2bb7-4df8-b997-a6884d33e196")
-	)
-	(junction
 		(at 256.54 137.16)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1107,6 +1071,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2bb68435-84c7-4f0d-adc4-9f334740f3ef")
+	)
+	(junction
+		(at 55.88 251.46)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2bcdaf1e-b375-44ad-9679-a70df55844e2")
 	)
 	(junction
 		(at 170.18 190.5)
@@ -1181,12 +1151,6 @@
 		(uuid "384f4c59-3c89-4569-b6d7-998362f5015a")
 	)
 	(junction
-		(at 199.39 251.46)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "3a4cbbd1-f83d-4a37-9b51-e259c1f9bae6")
-	)
-	(junction
 		(at 284.48 48.26)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1221,12 +1185,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3c770da5-ae6e-41a3-844b-39f5204bbb01")
-	)
-	(junction
-		(at 227.33 231.14)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "3ca11b36-c3d4-4818-ad56-00b7b9da44c7")
 	)
 	(junction
 		(at 83.82 109.22)
@@ -1493,12 +1451,6 @@
 		(uuid "6d1f902b-2907-4713-8ec1-189e154dfb81")
 	)
 	(junction
-		(at 256.54 228.6)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "6f298e8b-64a9-414e-85fc-eeb86c85ed6f")
-	)
-	(junction
 		(at 55.88 198.12)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1583,18 +1535,6 @@
 		(uuid "78a77a99-e947-4a0a-9d62-4bbd4a955dcf")
 	)
 	(junction
-		(at 53.34 259.08)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "78f84ab9-0525-42ff-b794-aa704d984d9e")
-	)
-	(junction
-		(at 256.54 251.46)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "79372ce3-49a3-4b64-9479-5a1a0aef6116")
-	)
-	(junction
 		(at 227.33 170.18)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1641,12 +1581,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "819a0328-5868-4a8a-81e8-564c05fa739f")
-	)
-	(junction
-		(at 284.48 228.6)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "820a465e-2d7c-4650-9cb6-a8a7df4887c3")
 	)
 	(junction
 		(at 199.39 35.56)
@@ -1793,6 +1727,12 @@
 		(uuid "a05d8d22-e0d4-4f78-b620-a5ce36aad013")
 	)
 	(junction
+		(at 170.18 228.6)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a076af58-18fe-4fb5-ab0c-5abfc9478212")
+	)
+	(junction
 		(at 284.48 198.12)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1883,12 +1823,6 @@
 		(uuid "afd9c069-07e0-4f48-839e-12f0f44001e0")
 	)
 	(junction
-		(at 254 259.08)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b1a4e6e5-cff1-43ea-bd97-e49cd64b1dce")
-	)
-	(junction
 		(at 199.39 170.18)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1917,12 +1851,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b82bb327-4ba7-4548-9bdf-be2ea46417b3")
-	)
-	(junction
-		(at 227.33 228.6)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b8ba55a9-1efb-4d9e-9c3d-9c33c912ad2c")
 	)
 	(junction
 		(at 170.18 139.7)
@@ -1955,18 +1883,6 @@
 		(uuid "bb27e662-b8d8-4505-ad58-3b81087381b6")
 	)
 	(junction
-		(at 283.21 259.08)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "bbf714ab-3ec3-4d87-82b7-7b011b9b7614")
-	)
-	(junction
-		(at 313.69 231.14)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "bce0820e-d1e3-44df-b4c9-e95db6f225c2")
-	)
-	(junction
 		(at 55.88 68.58)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1985,22 +1901,10 @@
 		(uuid "c073b84f-4c8e-4c36-855c-521bf39d474c")
 	)
 	(junction
-		(at 254 256.54)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c1b0209a-5d84-4c90-8af6-c18e7f8a9d4c")
-	)
-	(junction
 		(at 83.82 129.54)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c23d1c5b-2bcd-4ade-a37d-ab6ac0a78abb")
-	)
-	(junction
-		(at 226.06 256.54)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c3ee1b29-a70e-4333-9cb1-535357305c5e")
 	)
 	(junction
 		(at 83.82 45.72)
@@ -2019,12 +1923,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c757260b-1822-46dc-ac55-650537ecb15f")
-	)
-	(junction
-		(at 313.69 251.46)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c9d86459-b27e-48a1-a2fa-db33f2374461")
 	)
 	(junction
 		(at 55.88 231.14)
@@ -2061,18 +1959,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d1ae0fe7-0a2f-4502-944e-001aab3eea96")
-	)
-	(junction
-		(at 226.06 279.4)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d1de6882-44ac-4493-b334-ad9e1e57f38a")
-	)
-	(junction
-		(at 199.39 231.14)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d1eb5cb3-cde7-41f7-a4f9-9ed68a57b0ad")
 	)
 	(junction
 		(at 227.33 200.66)
@@ -2147,6 +2033,12 @@
 		(uuid "da17ec86-acdb-4320-beca-6fa2e2d21adb")
 	)
 	(junction
+		(at 170.18 251.46)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "dc12e53a-82d0-4c2f-9b57-d339b4d326bb")
+	)
+	(junction
 		(at 199.39 137.16)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2169,12 +2061,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "de3040fc-084a-4942-a2f6-a362384451cf")
-	)
-	(junction
-		(at 170.18 251.46)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "de68878c-c5f2-4117-8467-d46d6b28ffd6")
 	)
 	(junction
 		(at 313.69 200.66)
@@ -2231,7 +2117,7 @@
 		(uuid "e794ed40-4304-4760-870e-3b813f57657c")
 	)
 	(junction
-		(at 284.48 231.14)
+		(at 198.12 231.14)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e9fb71f7-2664-4bb2-9187-7ff9f9a30735")
@@ -2265,12 +2151,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f1ee6d76-5b30-4736-8785-2f5475ab40ad")
-	)
-	(junction
-		(at 53.34 256.54)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "f25a619c-5275-439c-bc6a-d379eeed0053")
 	)
 	(junction
 		(at 170.18 170.18)
@@ -2363,12 +2243,6 @@
 		(uuid "fee84499-e207-425c-a9e8-702c40fbc310")
 	)
 	(junction
-		(at 256.54 231.14)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ff0eae5e-ab18-4bc8-b57a-e47693aa0847")
-	)
-	(junction
 		(at 82.55 256.54)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2376,23 +2250,13 @@
 	)
 	(wire
 		(pts
-			(xy 297.18 279.4) (xy 297.18 281.94)
+			(xy 252.73 279.4) (xy 252.73 281.94)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "00528a50-4613-4408-8d27-6d65a85085b5")
-	)
-	(wire
-		(pts
-			(xy 318.77 251.46) (xy 313.69 251.46)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "007ef698-28c9-4893-bb42-516789c0b334")
 	)
 	(wire
 		(pts
@@ -2436,7 +2300,7 @@
 	)
 	(wire
 		(pts
-			(xy 297.18 269.24) (xy 297.18 271.78)
+			(xy 252.73 269.24) (xy 252.73 271.78)
 		)
 		(stroke
 			(width 0)
@@ -2586,7 +2450,7 @@
 	)
 	(wire
 		(pts
-			(xy 177.8 241.3) (xy 191.77 241.3)
+			(xy 177.8 241.3) (xy 190.5 241.3)
 		)
 		(stroke
 			(width 0)
@@ -2663,16 +2527,6 @@
 			(type default)
 		)
 		(uuid "060ca475-a173-4455-bffc-04c389d3b528")
-	)
-	(wire
-		(pts
-			(xy 254 259.08) (xy 259.08 259.08)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "061a4078-ae34-448d-9258-91c07b2198d6")
 	)
 	(wire
 		(pts
@@ -2773,6 +2627,16 @@
 			(type default)
 		)
 		(uuid "094b2d0e-c3a9-414c-9bb3-8bd627a78ad9")
+	)
+	(wire
+		(pts
+			(xy 170.18 228.6) (xy 198.12 228.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0980921b-b4a3-4c2a-b468-cc5e7ebfcb1b")
 	)
 	(wire
 		(pts
@@ -2936,16 +2800,6 @@
 	)
 	(wire
 		(pts
-			(xy 68.58 261.62) (xy 68.58 259.08)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0c3a70e3-56c6-423d-a8b2-904da6396211")
-	)
-	(wire
-		(pts
 			(xy 256.54 68.58) (xy 284.48 68.58)
 		)
 		(stroke
@@ -2993,16 +2847,6 @@
 			(type default)
 		)
 		(uuid "0ec9c17a-8d18-4f37-bd85-719961950535")
-	)
-	(wire
-		(pts
-			(xy 313.69 251.46) (xy 313.69 248.92)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0ef98054-cf67-42c3-a20f-a2d72b555221")
 	)
 	(wire
 		(pts
@@ -3066,16 +2910,6 @@
 	)
 	(wire
 		(pts
-			(xy 60.96 269.24) (xy 74.93 269.24)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "11229a3b-9cd4-4f9e-bc44-568a973018f2")
-	)
-	(wire
-		(pts
 			(xy 313.69 137.16) (xy 313.69 139.7)
 		)
 		(stroke
@@ -3126,16 +2960,6 @@
 	)
 	(wire
 		(pts
-			(xy 254 259.08) (xy 254 261.62)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1453b99e-d05e-4512-a7fc-6572c3077e99")
-	)
-	(wire
-		(pts
 			(xy 139.7 256.54) (xy 139.7 259.08)
 		)
 		(stroke
@@ -3163,16 +2987,6 @@
 			(type default)
 		)
 		(uuid "14b05605-a43f-425b-8da8-57901d2507f3")
-	)
-	(wire
-		(pts
-			(xy 328.93 231.14) (xy 326.39 231.14)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "14b70a5a-3ea4-444f-a00a-9d0351eac257")
 	)
 	(wire
 		(pts
@@ -3206,26 +3020,6 @@
 	)
 	(wire
 		(pts
-			(xy 283.21 259.08) (xy 283.21 261.62)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "15bf2e34-488e-43bd-bcf3-bd0ebeb50275")
-	)
-	(wire
-		(pts
-			(xy 227.33 233.68) (xy 227.33 231.14)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "16b024bb-40a9-4911-b3cf-a1d2212a2394")
-	)
-	(wire
-		(pts
 			(xy 299.72 81.28) (xy 299.72 78.74)
 		)
 		(stroke
@@ -3253,16 +3047,6 @@
 			(type default)
 		)
 		(uuid "17fd2d3a-774c-4691-80fc-550a0bd4756f")
-	)
-	(wire
-		(pts
-			(xy 271.78 231.14) (xy 271.78 233.68)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "185ea4ff-aa49-482b-8fac-a5b10567d528")
 	)
 	(wire
 		(pts
@@ -3306,7 +3090,7 @@
 	)
 	(wire
 		(pts
-			(xy 284.48 231.14) (xy 289.56 231.14)
+			(xy 198.12 231.14) (xy 203.2 231.14)
 		)
 		(stroke
 			(width 0)
@@ -3346,16 +3130,6 @@
 	)
 	(wire
 		(pts
-			(xy 256.54 228.6) (xy 284.48 228.6)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1ae1c545-2e59-4e14-bb9a-57f5854ec3d9")
-	)
-	(wire
-		(pts
 			(xy 292.1 149.86) (xy 306.07 149.86)
 		)
 		(stroke
@@ -3363,16 +3137,6 @@
 			(type default)
 		)
 		(uuid "1b7ec6fd-fa7b-49e1-9661-7992032abfe6")
-	)
-	(wire
-		(pts
-			(xy 298.45 259.08) (xy 295.91 259.08)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1ba7c1d5-c6ec-4527-8979-328aaf384bc3")
 	)
 	(wire
 		(pts
@@ -3536,16 +3300,6 @@
 	)
 	(wire
 		(pts
-			(xy 284.48 251.46) (xy 313.69 251.46)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "210e3766-db6d-408a-a59b-c3dbc57eaea7")
-	)
-	(wire
-		(pts
 			(xy 242.57 17.78) (xy 240.03 17.78)
 		)
 		(stroke
@@ -3553,16 +3307,6 @@
 			(type default)
 		)
 		(uuid "2179a4b9-67e0-4c4a-86c1-bb69a3af78a5")
-	)
-	(wire
-		(pts
-			(xy 207.01 241.3) (xy 219.71 241.3)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "22142001-0ceb-45b7-9fb1-a3aa915a9229")
 	)
 	(wire
 		(pts
@@ -3593,16 +3337,6 @@
 			(type default)
 		)
 		(uuid "2309a4fe-b5d5-4d48-99f2-1e89cb5d7200")
-	)
-	(wire
-		(pts
-			(xy 261.62 231.14) (xy 256.54 231.14)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "232c9beb-04f9-4596-9815-d2cc2ceee0c0")
 	)
 	(wire
 		(pts
@@ -3696,7 +3430,7 @@
 	)
 	(wire
 		(pts
-			(xy 292.1 241.3) (xy 306.07 241.3)
+			(xy 205.74 241.3) (xy 339.09 241.3)
 		)
 		(stroke
 			(width 0)
@@ -3836,16 +3570,6 @@
 	)
 	(wire
 		(pts
-			(xy 199.39 231.14) (xy 204.47 231.14)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2a3bd257-5ae3-4917-b589-4a89582e2e18")
-	)
-	(wire
-		(pts
 			(xy 185.42 48.26) (xy 182.88 48.26)
 		)
 		(stroke
@@ -3966,16 +3690,6 @@
 	)
 	(wire
 		(pts
-			(xy 68.58 259.08) (xy 66.04 259.08)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2dc1792c-5703-4589-89bd-3621ef03a8c9")
-	)
-	(wire
-		(pts
 			(xy 170.18 106.68) (xy 199.39 106.68)
 		)
 		(stroke
@@ -4063,16 +3777,6 @@
 			(type default)
 		)
 		(uuid "301ade9b-32a0-48e9-8a1c-002810583c02")
-	)
-	(wire
-		(pts
-			(xy 298.45 261.62) (xy 298.45 259.08)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "30259cf0-f05c-4617-a2f7-dfa7ce530330")
 	)
 	(wire
 		(pts
@@ -4316,7 +4020,7 @@
 	)
 	(wire
 		(pts
-			(xy 25.4 256.54) (xy 53.34 256.54)
+			(xy 25.4 256.54) (xy 82.55 256.54)
 		)
 		(stroke
 			(width 0)
@@ -4566,16 +4270,6 @@
 	)
 	(wire
 		(pts
-			(xy 328.93 233.68) (xy 328.93 231.14)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3f85aaff-b3b9-4e83-b145-a71030f52093")
-	)
-	(wire
-		(pts
 			(xy 63.5 180.34) (xy 76.2 180.34)
 		)
 		(stroke
@@ -4613,16 +4307,6 @@
 			(type default)
 		)
 		(uuid "41adfb2d-7254-444e-877d-8da977aca154")
-	)
-	(wire
-		(pts
-			(xy 283.21 256.54) (xy 283.21 259.08)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4262d4f1-5253-47e3-b214-c1adc7afb4da")
 	)
 	(wire
 		(pts
@@ -4726,7 +4410,7 @@
 	)
 	(wire
 		(pts
-			(xy 299.72 231.14) (xy 297.18 231.14)
+			(xy 213.36 231.14) (xy 210.82 231.14)
 		)
 		(stroke
 			(width 0)
@@ -4856,16 +4540,6 @@
 	)
 	(wire
 		(pts
-			(xy 232.41 231.14) (xy 227.33 231.14)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4b0b5b7e-8850-41d2-a6c9-3e4f7a0500fd")
-	)
-	(wire
-		(pts
 			(xy 168.91 259.08) (xy 173.99 259.08)
 		)
 		(stroke
@@ -4916,16 +4590,6 @@
 	)
 	(wire
 		(pts
-			(xy 254 256.54) (xy 283.21 256.54)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4d721650-60d3-41ce-af88-afa2ff4d1dc8")
-	)
-	(wire
-		(pts
 			(xy 71.12 172.72) (xy 71.12 170.18)
 		)
 		(stroke
@@ -4933,16 +4597,6 @@
 			(type default)
 		)
 		(uuid "4e4b35e9-a8fb-48f4-81c5-d64ff65afd9b")
-	)
-	(wire
-		(pts
-			(xy 199.39 228.6) (xy 227.33 228.6)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4e6fa7e5-ad6b-4925-97c1-2effdcf7503d")
 	)
 	(wire
 		(pts
@@ -5086,16 +4740,6 @@
 	)
 	(wire
 		(pts
-			(xy 214.63 233.68) (xy 214.63 231.14)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5185b0d7-2033-44fe-871b-16e6a462b234")
-	)
-	(wire
-		(pts
 			(xy 264.16 88.9) (xy 276.86 88.9)
 		)
 		(stroke
@@ -5153,16 +4797,6 @@
 			(type default)
 		)
 		(uuid "5418b44f-bf40-474d-b502-fcfd97decfdb")
-	)
-	(wire
-		(pts
-			(xy 242.57 233.68) (xy 242.57 231.14)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "54acac2c-172d-4e03-8047-1dfff51fbd25")
 	)
 	(wire
 		(pts
@@ -5326,16 +4960,6 @@
 	)
 	(wire
 		(pts
-			(xy 227.33 251.46) (xy 256.54 251.46)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "599b5b0d-6948-4d01-9f88-d4b5647f9876")
-	)
-	(wire
-		(pts
 			(xy 156.21 81.28) (xy 156.21 78.74)
 		)
 		(stroke
@@ -5403,16 +5027,6 @@
 			(type default)
 		)
 		(uuid "5ace9d66-a477-4e2c-a449-218ff87fb923")
-	)
-	(wire
-		(pts
-			(xy 283.21 279.4) (xy 283.21 276.86)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5b80d24f-4473-4f5a-8b25-c572549b9e19")
 	)
 	(wire
 		(pts
@@ -5533,16 +5147,6 @@
 			(type default)
 		)
 		(uuid "5fb5aa7f-b662-41cf-bf92-fe5bb83e60ca")
-	)
-	(wire
-		(pts
-			(xy 53.34 256.54) (xy 53.34 259.08)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "603ba4b6-a1f8-4010-b58e-32d69c64f47d")
 	)
 	(wire
 		(pts
@@ -5706,23 +5310,13 @@
 	)
 	(wire
 		(pts
-			(xy 284.48 231.14) (xy 284.48 233.68)
+			(xy 198.12 231.14) (xy 198.12 233.68)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "68bffdce-d950-4fba-ac77-34ae0f067821")
-	)
-	(wire
-		(pts
-			(xy 254 256.54) (xy 254 259.08)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "68d30943-4f83-4e9e-bea5-07c728359733")
 	)
 	(wire
 		(pts
@@ -5733,16 +5327,6 @@
 			(type default)
 		)
 		(uuid "68e8b3b4-a418-4db3-ac2b-400d41671d46")
-	)
-	(wire
-		(pts
-			(xy 256.54 248.92) (xy 256.54 251.46)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "697ac066-99f6-4f35-84c2-ad329e7d75ef")
 	)
 	(wire
 		(pts
@@ -5966,16 +5550,6 @@
 	)
 	(wire
 		(pts
-			(xy 264.16 241.3) (xy 276.86 241.3)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "712dffcd-fd03-4dc2-a31f-b3c8317ca657")
-	)
-	(wire
-		(pts
 			(xy 55.88 106.68) (xy 83.82 106.68)
 		)
 		(stroke
@@ -6116,7 +5690,7 @@
 	)
 	(wire
 		(pts
-			(xy 284.48 228.6) (xy 284.48 231.14)
+			(xy 198.12 228.6) (xy 198.12 231.14)
 		)
 		(stroke
 			(width 0)
@@ -6163,16 +5737,6 @@
 			(type default)
 		)
 		(uuid "7762ed27-ca9a-4a42-a423-f34b590fc053")
-	)
-	(wire
-		(pts
-			(xy 242.57 231.14) (xy 240.03 231.14)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "789f1ab0-b047-4858-9f47-fbd4ce5cb684")
 	)
 	(wire
 		(pts
@@ -6236,16 +5800,6 @@
 	)
 	(wire
 		(pts
-			(xy 170.18 228.6) (xy 199.39 228.6)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7ac2b914-2a69-4e90-b93e-e040d6d57ed3")
-	)
-	(wire
-		(pts
 			(xy 284.48 220.98) (xy 313.69 220.98)
 		)
 		(stroke
@@ -6296,7 +5850,7 @@
 	)
 	(wire
 		(pts
-			(xy 25.4 279.4) (xy 53.34 279.4)
+			(xy 25.4 279.4) (xy 82.55 279.4)
 		)
 		(stroke
 			(width 0)
@@ -6696,16 +6250,6 @@
 	)
 	(wire
 		(pts
-			(xy 53.34 256.54) (xy 82.55 256.54)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "886d8cf6-3c14-4222-ab2c-9d5abf2b50bc")
-	)
-	(wire
-		(pts
 			(xy 139.7 259.08) (xy 139.7 261.62)
 		)
 		(stroke
@@ -6876,26 +6420,6 @@
 	)
 	(wire
 		(pts
-			(xy 256.54 228.6) (xy 256.54 231.14)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8cd441c0-14f5-41b5-8c19-2ba78c8e3cad")
-	)
-	(wire
-		(pts
-			(xy 199.39 251.46) (xy 199.39 248.92)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8d2ef261-c1f0-4f0d-8dab-ff33f1b1d142")
-	)
-	(wire
-		(pts
 			(xy 48.26 58.42) (xy 33.02 58.42)
 		)
 		(stroke
@@ -6976,16 +6500,6 @@
 	)
 	(wire
 		(pts
-			(xy 269.24 261.62) (xy 269.24 259.08)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8e8e60c3-3845-4f22-81c7-fcdaf0982316")
-	)
-	(wire
-		(pts
 			(xy 199.39 76.2) (xy 227.33 76.2)
 		)
 		(stroke
@@ -7006,16 +6520,6 @@
 	)
 	(wire
 		(pts
-			(xy 321.31 241.3) (xy 339.09 241.3)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8fdf0531-89fe-4946-b99d-745e53af1b10")
-	)
-	(wire
-		(pts
 			(xy 199.39 48.26) (xy 199.39 50.8)
 		)
 		(stroke
@@ -7023,6 +6527,16 @@
 			(type default)
 		)
 		(uuid "90304683-2f84-4bb6-8fe0-50b14e0871c6")
+	)
+	(wire
+		(pts
+			(xy 49.53 251.46) (xy 55.88 251.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "908d2f19-ee6c-405c-a123-533b7226c096")
 	)
 	(wire
 		(pts
@@ -7256,16 +6770,6 @@
 	)
 	(wire
 		(pts
-			(xy 313.69 231.14) (xy 313.69 233.68)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "96fc04a1-bdc5-4711-84af-99f4b72bd058")
-	)
-	(wire
-		(pts
 			(xy 170.18 198.12) (xy 170.18 200.66)
 		)
 		(stroke
@@ -7276,17 +6780,7 @@
 	)
 	(wire
 		(pts
-			(xy 297.18 269.24) (xy 290.83 269.24)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "97883033-19ad-41c7-960b-4db7e9d326c8")
-	)
-	(wire
-		(pts
-			(xy 299.72 233.68) (xy 299.72 231.14)
+			(xy 213.36 233.68) (xy 213.36 231.14)
 		)
 		(stroke
 			(width 0)
@@ -7353,16 +6847,6 @@
 			(type default)
 		)
 		(uuid "99fbf669-5d3e-4508-a102-731d5a6e86e4")
-	)
-	(wire
-		(pts
-			(xy 256.54 251.46) (xy 284.48 251.46)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9a49a5ea-1279-4c0b-8bb4-af457000da70")
 	)
 	(wire
 		(pts
@@ -7493,26 +6977,6 @@
 			(type default)
 		)
 		(uuid "a089fafa-321b-434a-95af-7c2cd44fdfe0")
-	)
-	(wire
-		(pts
-			(xy 261.62 269.24) (xy 275.59 269.24)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a090889c-2713-4c92-8dc1-41dca628f79e")
-	)
-	(wire
-		(pts
-			(xy 288.29 259.08) (xy 283.21 259.08)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a0c75ba4-2ab9-41b1-a73a-3ca13870995e")
 	)
 	(wire
 		(pts
@@ -7666,16 +7130,6 @@
 	)
 	(wire
 		(pts
-			(xy 53.34 276.86) (xy 53.34 279.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a5b69e9a-fb5f-4bf9-84f1-38374823bb6c")
-	)
-	(wire
-		(pts
 			(xy 284.48 109.22) (xy 289.56 109.22)
 		)
 		(stroke
@@ -7773,16 +7227,6 @@
 			(type default)
 		)
 		(uuid "a8ebec43-5ce7-4212-9fb3-8a99f33cab4f")
-	)
-	(wire
-		(pts
-			(xy 234.95 241.3) (xy 248.92 241.3)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a916f5fa-a249-4ce9-b074-9ccfe1842b27")
 	)
 	(wire
 		(pts
@@ -7986,16 +7430,6 @@
 	)
 	(wire
 		(pts
-			(xy 53.34 259.08) (xy 53.34 261.62)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "af149040-4993-407f-8c02-bc16266fc046")
-	)
-	(wire
-		(pts
 			(xy 207.01 58.42) (xy 219.71 58.42)
 		)
 		(stroke
@@ -8043,16 +7477,6 @@
 			(type default)
 		)
 		(uuid "b445b2e6-03fd-4cfa-aef0-ff9139ad4b06")
-	)
-	(wire
-		(pts
-			(xy 226.06 279.4) (xy 254 279.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b4abe8f4-f2a0-496e-818a-c2dae57abb68")
 	)
 	(wire
 		(pts
@@ -8113,16 +7537,6 @@
 			(type default)
 		)
 		(uuid "b6a24f73-d250-44d1-97fd-75b2bde4a872")
-	)
-	(wire
-		(pts
-			(xy 199.39 231.14) (xy 199.39 233.68)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b6b8f2b6-6ad6-4d1f-823f-9776ec21d881")
 	)
 	(wire
 		(pts
@@ -8296,7 +7710,7 @@
 	)
 	(wire
 		(pts
-			(xy 294.64 281.94) (xy 297.18 281.94)
+			(xy 250.19 281.94) (xy 252.73 281.94)
 		)
 		(stroke
 			(width 0)
@@ -8343,16 +7757,6 @@
 			(type default)
 		)
 		(uuid "bb65dca6-8cb9-4d12-a3bc-8f5a22ef8c3e")
-	)
-	(wire
-		(pts
-			(xy 256.54 231.14) (xy 256.54 233.68)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bc686dac-4fda-40be-a4ef-ee4742bbe183")
 	)
 	(wire
 		(pts
@@ -8616,6 +8020,16 @@
 	)
 	(wire
 		(pts
+			(xy 170.18 251.46) (xy 198.12 251.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c25d36a2-9d38-4ee2-ac40-2fbb500c8c6e")
+	)
+	(wire
+		(pts
 			(xy 175.26 78.74) (xy 170.18 78.74)
 		)
 		(stroke
@@ -8726,16 +8140,6 @@
 	)
 	(wire
 		(pts
-			(xy 214.63 231.14) (xy 212.09 231.14)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c6da1dfa-4daa-4c9e-b29b-816d6f9fc3d0")
-	)
-	(wire
-		(pts
 			(xy 55.88 190.5) (xy 55.88 187.96)
 		)
 		(stroke
@@ -8796,7 +8200,7 @@
 	)
 	(wire
 		(pts
-			(xy 284.48 248.92) (xy 284.48 251.46)
+			(xy 198.12 248.92) (xy 198.12 251.46)
 		)
 		(stroke
 			(width 0)
@@ -8986,16 +8390,6 @@
 	)
 	(wire
 		(pts
-			(xy 227.33 228.6) (xy 256.54 228.6)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ceb054ff-d037-4115-bf53-83cf5d988e41")
-	)
-	(wire
-		(pts
 			(xy 140.97 106.68) (xy 170.18 106.68)
 		)
 		(stroke
@@ -9043,16 +8437,6 @@
 			(type default)
 		)
 		(uuid "d08eb311-d8bf-444e-ab73-c7d92be6ef19")
-	)
-	(wire
-		(pts
-			(xy 318.77 231.14) (xy 313.69 231.14)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d0cec0f8-332a-4b7d-8c9f-ce90ccff7168")
 	)
 	(wire
 		(pts
@@ -9256,16 +8640,6 @@
 	)
 	(wire
 		(pts
-			(xy 226.06 256.54) (xy 254 256.54)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d669c0c5-7a17-4f73-9400-b0bdb5eebd81")
-	)
-	(wire
-		(pts
 			(xy 185.42 172.72) (xy 185.42 170.18)
 		)
 		(stroke
@@ -9346,7 +8720,7 @@
 	)
 	(wire
 		(pts
-			(xy 33.02 269.24) (xy 45.72 269.24)
+			(xy 33.02 269.24) (xy 74.93 269.24)
 		)
 		(stroke
 			(width 0)
@@ -9496,16 +8870,6 @@
 	)
 	(wire
 		(pts
-			(xy 199.39 251.46) (xy 170.18 251.46)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "dcd143a0-c873-4039-8953-9c788c53ff69")
-	)
-	(wire
-		(pts
 			(xy 204.47 269.24) (xy 218.44 269.24)
 		)
 		(stroke
@@ -9523,16 +8887,6 @@
 			(type default)
 		)
 		(uuid "dd8a6c6e-911e-4875-8cb8-8f8b3cc53cd1")
-	)
-	(wire
-		(pts
-			(xy 271.78 231.14) (xy 269.24 231.14)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ddf91f5a-9736-47da-a88d-46ce326c86fa")
 	)
 	(wire
 		(pts
@@ -9616,16 +8970,6 @@
 	)
 	(wire
 		(pts
-			(xy 227.33 248.92) (xy 227.33 251.46)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e0de36eb-ccb2-4874-9c62-c9721fa6bb05")
-	)
-	(wire
-		(pts
 			(xy 256.54 167.64) (xy 284.48 167.64)
 		)
 		(stroke
@@ -9676,16 +9020,6 @@
 	)
 	(wire
 		(pts
-			(xy 284.48 228.6) (xy 313.69 228.6)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e2ae2204-dddb-45b7-b591-635e7a9d83f2")
-	)
-	(wire
-		(pts
 			(xy 154.94 261.62) (xy 154.94 259.08)
 		)
 		(stroke
@@ -9723,16 +9057,6 @@
 			(type default)
 		)
 		(uuid "e3f396b6-35d5-4879-9acd-4f24dd910f54")
-	)
-	(wire
-		(pts
-			(xy 227.33 231.14) (xy 227.33 228.6)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e47e5a3d-83a2-475a-bfdf-00e4156f3c1d")
 	)
 	(wire
 		(pts
@@ -9866,16 +9190,6 @@
 	)
 	(wire
 		(pts
-			(xy 269.24 259.08) (xy 266.7 259.08)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e9f183b9-d24a-4808-b046-7a7e42d9b759")
-	)
-	(wire
-		(pts
 			(xy 60.96 231.14) (xy 55.88 231.14)
 		)
 		(stroke
@@ -9963,16 +9277,6 @@
 			(type default)
 		)
 		(uuid "ec0c76b4-4252-4eb4-814e-a6f755681bb2")
-	)
-	(wire
-		(pts
-			(xy 53.34 279.4) (xy 82.55 279.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ec11495b-3a2b-407c-8f1c-dff77b03a3a7")
 	)
 	(wire
 		(pts
@@ -10156,16 +9460,6 @@
 	)
 	(wire
 		(pts
-			(xy 199.39 228.6) (xy 199.39 231.14)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f2b16713-45b4-4412-8e32-1a36aa04078b")
-	)
-	(wire
-		(pts
 			(xy 146.05 170.18) (xy 140.97 170.18)
 		)
 		(stroke
@@ -10223,16 +9517,6 @@
 			(type default)
 		)
 		(uuid "f36ef274-b837-49ef-bbfb-22f933d0334c")
-	)
-	(wire
-		(pts
-			(xy 254 279.4) (xy 254 276.86)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f37fc18a-88e8-4ef9-b0db-77e627d27212")
 	)
 	(wire
 		(pts
@@ -10296,16 +9580,6 @@
 	)
 	(wire
 		(pts
-			(xy 254 279.4) (xy 283.21 279.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f502ac6a-7cca-4b80-b9c8-b5bd53323ce1")
-	)
-	(wire
-		(pts
 			(xy 184.15 259.08) (xy 181.61 259.08)
 		)
 		(stroke
@@ -10353,16 +9627,6 @@
 			(type default)
 		)
 		(uuid "f57ec4e4-1e00-4d90-93d8-6eca35a124c3")
-	)
-	(wire
-		(pts
-			(xy 199.39 251.46) (xy 227.33 251.46)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f586100d-ce29-4486-a89d-3fee89fee001")
 	)
 	(wire
 		(pts
@@ -10516,7 +9780,7 @@
 	)
 	(wire
 		(pts
-			(xy 233.68 269.24) (xy 246.38 269.24)
+			(xy 233.68 269.24) (xy 252.73 269.24)
 		)
 		(stroke
 			(width 0)
@@ -10626,16 +9890,6 @@
 	)
 	(wire
 		(pts
-			(xy 313.69 228.6) (xy 313.69 231.14)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fcf3c41e-8917-4570-8c59-602334dc016e")
-	)
-	(wire
-		(pts
 			(xy 199.39 137.16) (xy 199.39 139.7)
 		)
 		(stroke
@@ -10643,16 +9897,6 @@
 			(type default)
 		)
 		(uuid "fcff5bd5-7508-4d05-bb6f-318df29e54d1")
-	)
-	(wire
-		(pts
-			(xy 58.42 259.08) (xy 53.34 259.08)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fd36673c-fde6-4f23-af7a-a190379b4ed6")
 	)
 	(wire
 		(pts
@@ -10726,7 +9970,7 @@
 	)
 	(hierarchical_label "LED_DOUT"
 		(shape input)
-		(at 294.64 281.94 180)
+		(at 250.19 281.94 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10899,94 +10143,6 @@
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
 					(reference "C243")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "LED:SK6812MINI-E")
-		(at 199.39 241.3 0)
-		(mirror y)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "07175ab2-1668-4406-a04b-9e60f31109a8")
-		(property "Reference" "LED276"
-			(at 184.658 242.57 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SK6812MINI-E"
-			(at 184.658 245.11 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
-			(at 198.12 248.92 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C5149201.pdf"
-			(at 196.85 250.825 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Description" "RGB LED with integrated controller"
-			(at 199.39 241.3 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "d41fdcae-473d-4713-ba10-84323f8b2711")
-		)
-		(pin "3"
-			(uuid "32548c79-b3fd-4b47-998f-43b450ed5bfa")
-		)
-		(pin "1"
-			(uuid "487871dd-4ccb-4d34-8683-5e6a5807b6fb")
-		)
-		(pin "4"
-			(uuid "d5175a57-63b2-4799-a28c-59cebf7f0c2f")
-		)
-		(instances
-			(project "KBUltraMk1"
-				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "LED276")
 					(unit 1)
 				)
 			)
@@ -12211,84 +11367,6 @@
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
 					(reference "#PWR0285")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 298.45 261.62 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "0ccab73b-b123-4cb3-b691-c191d3b44198")
-		(property "Reference" "#PWR0307"
-			(at 298.45 267.97 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 298.45 266.7 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 298.45 261.62 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 298.45 261.62 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 298.45 261.62 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "656f2115-5324-4c3e-b26f-39e32d42b774")
-		)
-		(instances
-			(project "KBUltraMk1"
-				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0307")
 					(unit 1)
 				)
 			)
@@ -13606,85 +12684,6 @@
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
 					(reference "LED268")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 318.77 251.46 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "1bb4a2eb-ca6a-41af-8eaa-d72fa0a0d6e6")
-		(property "Reference" "#PWR0296"
-			(at 325.12 251.46 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 322.58 251.4599 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 318.77 251.46 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 318.77 251.46 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 318.77 251.46 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "f023ab64-40db-4756-b4cb-9ea3a9c495ca")
-		)
-		(instances
-			(project "KBUltraMk1"
-				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0296")
 					(unit 1)
 				)
 			)
@@ -15641,7 +14640,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 293.37 231.14 90)
+		(at 207.01 231.14 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -15651,7 +14650,7 @@
 		(dnp no)
 		(uuid "3011e361-a427-4457-80d3-f4433f817b13")
 		(property "Reference" "C279"
-			(at 293.37 234.696 90)
+			(at 207.01 234.696 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15661,7 +14660,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 293.37 237.236 90)
+			(at 207.01 237.236 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15671,7 +14670,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 297.18 230.1748 0)
+			(at 210.82 230.1748 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15682,7 +14681,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 293.37 231.14 0)
+			(at 207.01 231.14 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15693,7 +14692,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 293.37 231.14 0)
+			(at 207.01 231.14 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17044,84 +16043,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 242.57 233.68 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "3f25be05-5a65-4a65-a958-03dd588318c4")
-		(property "Reference" "#PWR0292"
-			(at 242.57 240.03 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 242.57 238.76 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 242.57 233.68 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 242.57 233.68 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 242.57 233.68 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "5704451c-ff94-4823-ace7-59340c928d72")
-		)
-		(instances
-			(project "KBUltraMk1"
-				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0292")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "LED:SK6812MINI-E")
 		(at 83.82 149.86 0)
 		(unit 1)
@@ -17517,85 +16438,6 @@
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
 					(reference "#PWR0213")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 208.28 231.14 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "46556bbc-dc15-4142-b683-fdc67bcd383f")
-		(property "Reference" "C276"
-			(at 208.28 234.696 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "100n"
-			(at 208.28 237.236 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 212.09 230.1748 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 208.28 231.14 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 208.28 231.14 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "9dd48a2e-dbd7-4004-956a-c01327a45e10")
-		)
-		(pin "1"
-			(uuid "8c620276-6860-452b-a93e-d5a920432dab")
-		)
-		(instances
-			(project "KBUltraMk1"
-				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "C276")
 					(unit 1)
 				)
 			)
@@ -18807,85 +17649,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C")
-		(at 322.58 231.14 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "54c92796-6af2-4e9a-8248-d5604909afa9")
-		(property "Reference" "C280"
-			(at 322.58 234.696 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "100n"
-			(at 322.58 237.236 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 326.39 230.1748 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 322.58 231.14 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 322.58 231.14 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "431d874a-5235-4e96-bef9-4599868ab58e")
-		)
-		(pin "1"
-			(uuid "77355e8c-87e9-4960-9899-7ea7aa1abb3b")
-		)
-		(instances
-			(project "KBUltraMk1"
-				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "C280")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 20.32 279.4 270)
 		(unit 1)
@@ -18959,94 +17722,6 @@
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
 					(reference "#PWR0308")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "LED:SK6812MINI-E")
-		(at 256.54 241.3 0)
-		(mirror y)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "571bd8bb-7713-4472-933b-86aa63629635")
-		(property "Reference" "LED278"
-			(at 242.57 242.824 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SK6812MINI-E"
-			(at 242.57 245.364 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
-			(at 255.27 248.92 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C5149201.pdf"
-			(at 254 250.825 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Description" "RGB LED with integrated controller"
-			(at 256.54 241.3 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "3a689e66-b100-465c-9911-070838d381fc")
-		)
-		(pin "3"
-			(uuid "2e568a96-3fbc-498c-a131-786955769648")
-		)
-		(pin "1"
-			(uuid "ebb72111-524a-4b41-a60f-837a9f3fcc6b")
-		)
-		(pin "4"
-			(uuid "4c2ffc17-73e7-4aa3-bede-e3d8c0560a9c")
-		)
-		(instances
-			(project "KBUltraMk1"
-				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "LED278")
 					(unit 1)
 				)
 			)
@@ -19132,7 +17807,7 @@
 	)
 	(symbol
 		(lib_id "LED:SK6812MINI-E")
-		(at 284.48 241.3 0)
+		(at 198.12 241.3 0)
 		(mirror y)
 		(unit 1)
 		(body_style 1)
@@ -19143,7 +17818,8 @@
 		(dnp no)
 		(uuid "5aae9c3a-0c68-4aee-a923-167a624b1653")
 		(property "Reference" "LED279"
-			(at 269.748 242.57 0)
+			(at 183.388 242.57 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -19153,7 +17829,7 @@
 			)
 		)
 		(property "Value" "SK6812MINI-E"
-			(at 269.748 245.11 0)
+			(at 183.388 245.11 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -19163,7 +17839,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
-			(at 283.21 248.92 0)
+			(at 196.85 248.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19175,7 +17851,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.lcsc.com/datasheet/C5149201.pdf"
-			(at 281.94 250.825 0)
+			(at 195.58 250.825 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19187,7 +17863,7 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
-			(at 284.48 241.3 0)
+			(at 198.12 241.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19380,85 +18056,6 @@
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
 					(reference "C237")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 236.22 231.14 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "5c68f195-e249-4855-8db1-a5e91687b39a")
-		(property "Reference" "C277"
-			(at 236.22 234.696 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "100n"
-			(at 236.22 237.236 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 240.03 230.1748 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 236.22 231.14 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 236.22 231.14 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "a129e51d-fbcb-459b-bdb7-1d4a6d88c272")
-		)
-		(pin "1"
-			(uuid "82cc544b-2c64-4e5d-b710-483c42ad2e32")
-		)
-		(instances
-			(project "KBUltraMk1"
-				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "C277")
 					(unit 1)
 				)
 			)
@@ -20026,85 +18623,6 @@
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
 					(reference "LED233")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 265.43 231.14 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "655371b3-9be7-4992-9d6f-53c7777094ce")
-		(property "Reference" "C278"
-			(at 265.43 234.696 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "100n"
-			(at 265.43 237.236 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 269.24 230.1748 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 265.43 231.14 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 265.43 231.14 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "24be28c2-798c-4eb6-8f99-11a9a597ce28")
-		)
-		(pin "1"
-			(uuid "04f4c54a-f500-4967-9326-397b97dbd5ce")
-		)
-		(instances
-			(project "KBUltraMk1"
-				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "C278")
 					(unit 1)
 				)
 			)
@@ -21403,84 +19921,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 269.24 261.62 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "7b968184-df12-40cd-ae8e-4dd1607a98e3")
-		(property "Reference" "#PWR0306"
-			(at 269.24 267.97 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 269.24 266.7 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 269.24 261.62 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 269.24 261.62 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 269.24 261.62 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "167c4859-0bc1-4a8f-b22a-9deda5dcaa9e")
-		)
-		(instances
-			(project "KBUltraMk1"
-				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0306")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C")
 		(at 236.22 17.78 90)
 		(unit 1)
@@ -21798,84 +20238,6 @@
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
 					(reference "#PWR0240")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 68.58 261.62 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "7e9857a0-b073-431b-a3f6-b39e98d2d938")
-		(property "Reference" "#PWR0299"
-			(at 68.58 267.97 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 68.58 266.7 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 68.58 261.62 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 68.58 261.62 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 68.58 261.62 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "17d91252-ecff-4e13-ab5a-a66fd1b2e5bf")
-		)
-		(instances
-			(project "KBUltraMk1"
-				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0299")
 					(unit 1)
 				)
 			)
@@ -22443,84 +20805,6 @@
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
 					(reference "#PWR0267")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 328.93 233.68 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "835d1a7d-3230-42c8-86e1-a6e042b7ea70")
-		(property "Reference" "#PWR0295"
-			(at 328.93 240.03 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 328.93 238.76 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 328.93 233.68 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 328.93 233.68 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 328.93 233.68 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "a97f3e77-c727-4585-8a58-59f687112afd")
-		)
-		(instances
-			(project "KBUltraMk1"
-				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0295")
 					(unit 1)
 				)
 			)
@@ -23918,7 +22202,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 297.18 275.59 180)
+		(at 252.73 275.59 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -23928,7 +22212,7 @@
 		(dnp no)
 		(uuid "92bf546e-82cd-4202-82c5-81c84e1876e2")
 		(property "Reference" "R202"
-			(at 290.322 274.066 0)
+			(at 245.872 274.066 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -23939,7 +22223,7 @@
 			)
 		)
 		(property "Value" "500R"
-			(at 290.322 276.606 0)
+			(at 245.872 276.606 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -23950,7 +22234,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 298.958 275.59 90)
+			(at 254.508 275.59 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23961,7 +22245,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 297.18 275.59 0)
+			(at 252.73 275.59 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23972,7 +22256,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 297.18 275.59 0)
+			(at 252.73 275.59 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24159,85 +22443,6 @@
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
 					(reference "#PWR0236")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 292.1 259.08 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "934ad363-e367-4de7-a951-b514ff431b11")
-		(property "Reference" "C290"
-			(at 292.1 262.636 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "100n"
-			(at 292.1 265.176 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 295.91 258.1148 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 292.1 259.08 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 292.1 259.08 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "6d51b50e-0665-4eae-8c51-703f5ff96aa7")
-		)
-		(pin "1"
-			(uuid "2775b13a-b378-4332-8583-0cc6798496d3")
-		)
-		(instances
-			(project "KBUltraMk1"
-				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "C290")
 					(unit 1)
 				)
 			)
@@ -24554,94 +22759,6 @@
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
 					(reference "C283")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "LED:SK6812MINI-E")
-		(at 313.69 241.3 0)
-		(mirror y)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "9650b489-83dd-4041-bdb8-65ec7af02d4b")
-		(property "Reference" "LED280"
-			(at 299.72 242.824 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SK6812MINI-E"
-			(at 299.72 245.364 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
-			(at 312.42 248.92 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C5149201.pdf"
-			(at 311.15 250.825 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Description" "RGB LED with integrated controller"
-			(at 313.69 241.3 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "27bf31f9-9915-42b3-ad6a-fc31b509c6c1")
-		)
-		(pin "3"
-			(uuid "f53b0878-54d4-4b1f-a5be-afcdd4392cd3")
-		)
-		(pin "1"
-			(uuid "3611827f-694e-4d9a-90b3-e9a9086089a8")
-		)
-		(pin "4"
-			(uuid "d6b12428-c224-42c7-960e-e40d186e8aaa")
-		)
-		(instances
-			(project "KBUltraMk1"
-				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "LED280")
 					(unit 1)
 				)
 			)
@@ -25051,7 +23168,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 299.72 233.68 0)
+		(at 213.36 233.68 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -25062,7 +23179,7 @@
 		(fields_autoplaced yes)
 		(uuid "9ee101e6-dc27-4b8e-a309-3dea8f69e28f")
 		(property "Reference" "#PWR0294"
-			(at 299.72 240.03 0)
+			(at 213.36 240.03 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25073,7 +23190,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 299.72 238.76 0)
+			(at 213.36 238.76 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -25083,7 +23200,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 299.72 233.68 0)
+			(at 213.36 233.68 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25094,7 +23211,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 299.72 233.68 0)
+			(at 213.36 233.68 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25105,7 +23222,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 299.72 233.68 0)
+			(at 213.36 233.68 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27180,164 +25297,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C")
-		(at 262.89 259.08 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "b469b01a-ec02-4d0f-ac8d-0649169b869e")
-		(property "Reference" "C289"
-			(at 262.89 262.636 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "100n"
-			(at 262.89 265.176 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 266.7 258.1148 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 262.89 259.08 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 262.89 259.08 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "511445ea-3d2f-4e41-b251-8ff3eb2de8c1")
-		)
-		(pin "1"
-			(uuid "c977712a-2482-49ed-a381-52666ac4eec3")
-		)
-		(instances
-			(project "KBUltraMk1"
-				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "C289")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 62.23 259.08 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "b4dd32be-10f0-45e3-89bb-799091d9bd36")
-		(property "Reference" "C282"
-			(at 62.23 262.636 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "100n"
-			(at 62.23 265.176 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 66.04 258.1148 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 62.23 259.08 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 62.23 259.08 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "6f0bcfa3-b813-4cd8-80f2-7b359d6f2400")
-		)
-		(pin "1"
-			(uuid "eb6deee1-1cf5-4e5c-b974-c22e7844640f")
-		)
-		(instances
-			(project "KBUltraMk1"
-				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "C282")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 128.27 81.28 0)
 		(unit 1)
@@ -27410,84 +25369,6 @@
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
 					(reference "#PWR0228")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 271.78 233.68 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "b55c2848-c7ce-4656-bff5-1da32357fea2")
-		(property "Reference" "#PWR0293"
-			(at 271.78 240.03 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 271.78 238.76 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 271.78 233.68 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 271.78 233.68 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 271.78 233.68 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "5d758d2b-583f-4696-886d-a5677d43ed0c")
-		)
-		(instances
-			(project "KBUltraMk1"
-				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0293")
 					(unit 1)
 				)
 			)
@@ -28228,93 +26109,6 @@
 		)
 	)
 	(symbol
-		(lib_id "LED:SK6812MINI-E")
-		(at 254 269.24 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "bc98d677-1643-4da1-9f7c-e540fd02649f")
-		(property "Reference" "LED289"
-			(at 268.732 270.51 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SK6812MINI-E"
-			(at 268.732 273.05 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
-			(at 255.27 276.86 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C5149201.pdf"
-			(at 256.54 278.765 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Description" "RGB LED with integrated controller"
-			(at 254 269.24 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "8d91cf66-c938-4977-a397-605536a6a29d")
-		)
-		(pin "3"
-			(uuid "fe362124-7f29-4a64-bb30-2373dde04d4c")
-		)
-		(pin "1"
-			(uuid "9f76c033-25e1-42f5-9c60-145407614b89")
-		)
-		(pin "4"
-			(uuid "032e7e15-37b0-4cd3-b16e-aa1370e8ec3e")
-		)
-		(instances
-			(project "KBUltraMk1"
-				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "LED289")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 125.73 261.62 0)
 		(unit 1)
@@ -28465,94 +26259,6 @@
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
 					(reference "#PWR0217")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "LED:SK6812MINI-E")
-		(at 227.33 241.3 0)
-		(mirror y)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "c13133da-8e58-410c-9fe5-6b605e9d5983")
-		(property "Reference" "LED277"
-			(at 212.598 242.57 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SK6812MINI-E"
-			(at 212.598 245.11 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
-			(at 226.06 248.92 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C5149201.pdf"
-			(at 224.79 250.825 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Description" "RGB LED with integrated controller"
-			(at 227.33 241.3 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "5d4d4bb9-9efb-42d5-ba64-e03e8a60a781")
-		)
-		(pin "3"
-			(uuid "887ddf06-23e4-408d-8aa9-8d82e90aa232")
-		)
-		(pin "1"
-			(uuid "6deae44e-a252-4a03-b9de-ab5be215a4ff")
-		)
-		(pin "4"
-			(uuid "5555f313-db9b-42d8-a1ff-ceab30c3aecb")
-		)
-		(instances
-			(project "KBUltraMk1"
-				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "LED277")
 					(unit 1)
 				)
 			)
@@ -30419,93 +28125,6 @@
 	)
 	(symbol
 		(lib_id "LED:SK6812MINI-E")
-		(at 283.21 269.24 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "d9b65745-5fdd-45d8-be4e-003416c7b388")
-		(property "Reference" "LED290"
-			(at 292.1 252.73 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SK6812MINI-E"
-			(at 292.1 255.27 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
-			(at 284.48 276.86 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C5149201.pdf"
-			(at 285.75 278.765 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Description" "RGB LED with integrated controller"
-			(at 283.21 269.24 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "7b02b51a-b465-431f-b016-aeb8b3410b11")
-		)
-		(pin "3"
-			(uuid "f22584dc-ddbd-4693-8598-fadfa35b74b0")
-		)
-		(pin "1"
-			(uuid "714459a1-9e71-415e-985a-edd2a0b7c3bf")
-		)
-		(pin "4"
-			(uuid "46fe259a-734b-424c-8d6d-7418c7eecaf3")
-		)
-		(instances
-			(project "KBUltraMk1"
-				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "LED290")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "LED:SK6812MINI-E")
 		(at 196.85 269.24 0)
 		(unit 1)
 		(body_style 1)
@@ -30673,84 +28292,6 @@
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
 					(reference "LED205")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 214.63 233.68 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "dc416d7c-43d4-4374-a16c-117a0f2845a1")
-		(property "Reference" "#PWR0291"
-			(at 214.63 240.03 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 214.63 238.76 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 214.63 233.68 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 214.63 233.68 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 214.63 233.68 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "02ec4bf9-9a71-40aa-b7db-79c08bab8464")
-		)
-		(instances
-			(project "KBUltraMk1"
-				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0291")
 					(unit 1)
 				)
 			)
@@ -32069,93 +29610,6 @@
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
 					(reference "LED227")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "LED:SK6812MINI-E")
-		(at 53.34 269.24 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "e865848a-1761-4a62-b44a-ae9c7201a883")
-		(property "Reference" "LED282"
-			(at 68.072 270.51 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SK6812MINI-E"
-			(at 68.072 273.05 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
-			(at 54.61 276.86 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C5149201.pdf"
-			(at 55.88 278.765 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Description" "RGB LED with integrated controller"
-			(at 53.34 269.24 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "f686a0db-fb01-42d8-a414-a30ef5197630")
-		)
-		(pin "3"
-			(uuid "38ecda0a-1e32-49e9-8a85-f93b38eb8af8")
-		)
-		(pin "1"
-			(uuid "9ac142ab-0f98-4c3a-a88f-25f0a7f1c4f4")
-		)
-		(pin "4"
-			(uuid "bcf01d28-433d-429a-a5b2-8f13d9768167")
-		)
-		(instances
-			(project "KBUltraMk1"
-				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "LED282")
 					(unit 1)
 				)
 			)
@@ -33843,6 +31297,85 @@
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
 					(reference "C244")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 49.53 251.46 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f9115a6f-e0ae-4b2d-8a6a-2ee1c577bcd7")
+		(property "Reference" "#PWR0291"
+			(at 43.18 251.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 45.72 251.4599 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 49.53 251.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 49.53 251.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 49.53 251.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "baab8631-12c4-4b78-9929-6e193c5895c4")
+		)
+		(instances
+			(project "KBUltraMk1"
+				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
+					(reference "#PWR0291")
 					(unit 1)
 				)
 			)
