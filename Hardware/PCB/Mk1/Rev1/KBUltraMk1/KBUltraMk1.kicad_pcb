@@ -354,7 +354,7 @@
 			(uuid "116ae312-8300-4b75-b894-8260c8d22eb5")
 		)
 		(embedded_fonts no)
-		(model "kicad-embed://Stabilizer_Cherry_MX_2.00u.wrl"
+		(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/Stabilizer_Cherry_MX_2.00u.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -1062,7 +1062,7 @@
 			(uuid "eab43209-e7e5-4ffe-b5d8-7b8cf2192113")
 		)
 		(embedded_fonts no)
-		(model "kicad-embed://SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -1781,7 +1781,7 @@
 			(uuid "4c12e062-62d6-45ee-887c-7ff9292f4dae")
 		)
 		(embedded_fonts no)
-		(model "kicad-embed://SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -2489,7 +2489,7 @@
 			(uuid "58bf7cb7-b861-4712-b228-1b3d850d9b5d")
 		)
 		(embedded_fonts no)
-		(model "kicad-embed://SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -3208,7 +3208,7 @@
 			(uuid "6df297ea-3dc7-4a0f-94e8-9f21bfb367c8")
 		)
 		(embedded_fonts no)
-		(model "kicad-embed://SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -3927,7 +3927,7 @@
 			(uuid "8805dade-176b-4e7f-85d9-0514ddf71431")
 		)
 		(embedded_fonts no)
-		(model "kicad-embed://SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -4646,7 +4646,7 @@
 			(uuid "b49830e4-799f-44e1-9ab6-4e57be4ccde7")
 		)
 		(embedded_fonts no)
-		(model "kicad-embed://SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -5365,7 +5365,7 @@
 			(uuid "936c5ce5-23b2-410d-903a-945734a2a62a")
 		)
 		(embedded_fonts no)
-		(model "kicad-embed://SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -6084,7 +6084,7 @@
 			(uuid "6e786ae2-bb2b-4ec6-a9a4-7cdff387772f")
 		)
 		(embedded_fonts no)
-		(model "kicad-embed://SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -7009,7 +7009,7 @@
 			(uuid "e2083e01-d1c4-456a-974a-985ffde0cde7")
 		)
 		(embedded_fonts no)
-		(model "kicad-embed://SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -7728,7 +7728,7 @@
 			(uuid "822a3a32-4b91-4b90-a74f-ce36c359effb")
 		)
 		(embedded_fonts no)
-		(model "kicad-embed://SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -8447,7 +8447,7 @@
 			(uuid "5e8f2299-8969-4150-8c63-57c60639732d")
 		)
 		(embedded_fonts no)
-		(model "kicad-embed://SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -9166,7 +9166,7 @@
 			(uuid "f0404da4-23a0-404d-adc4-5a7a89cd6780")
 		)
 		(embedded_fonts no)
-		(model "kicad-embed://SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -9885,7 +9885,7 @@
 			(uuid "bd7080ca-03fa-43b0-a236-0781ae2202d6")
 		)
 		(embedded_fonts no)
-		(model "kicad-embed://SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -10750,7 +10750,7 @@
 			(uuid "c379d46b-48b7-46bf-bc69-ad19a7f566ea")
 		)
 		(embedded_fonts no)
-		(model "kicad-embed://SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -11469,7 +11469,7 @@
 			(uuid "428265ae-a822-4a8e-9e92-eecbee1bed3b")
 		)
 		(embedded_fonts no)
-		(model "kicad-embed://SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -12188,7 +12188,7 @@
 			(uuid "f5cb2c83-d6d8-4351-bd8a-41bf39f44d79")
 		)
 		(embedded_fonts no)
-		(model "kicad-embed://SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -12896,7 +12896,7 @@
 			(uuid "0aadd8a3-c1c3-4ff2-a092-b006df472800")
 		)
 		(embedded_fonts no)
-		(model "kicad-embed://SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -13604,7 +13604,7 @@
 			(uuid "76970435-59a5-41a5-b16e-d648298488ef")
 		)
 		(embedded_fonts no)
-		(model "kicad-embed://SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -14323,7 +14323,7 @@
 			(uuid "3b6a61d5-f50e-4a9c-9345-cb34ac3590cc")
 		)
 		(embedded_fonts no)
-		(model "kicad-embed://SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -15042,7 +15042,7 @@
 			(uuid "4d7c2789-df7f-4dce-b0f1-1f4c2e027895")
 		)
 		(embedded_fonts no)
-		(model "kicad-embed://SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -15896,7 +15896,7 @@
 			(uuid "0592b0c2-975e-4716-9131-cd0467d95cc3")
 		)
 		(embedded_fonts no)
-		(model "kicad-embed://SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -16604,7 +16604,7 @@
 			(uuid "2044abd5-0323-41ea-960a-27bfde5cb2ea")
 		)
 		(embedded_fonts no)
-		(model "kicad-embed://SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -17323,7 +17323,7 @@
 			(uuid "56d50113-277f-42f4-bc68-2b012fd45f17")
 		)
 		(embedded_fonts no)
-		(model "kicad-embed://SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -18248,7 +18248,7 @@
 			(uuid "0de9da02-e3be-4d47-8e3c-191b179973f4")
 		)
 		(embedded_fonts no)
-		(model "kicad-embed://SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -18967,7 +18967,7 @@
 			(uuid "a6c88a73-0dd6-435e-a0ac-a0ca9c486be2")
 		)
 		(embedded_fonts no)
-		(model "kicad-embed://SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -19686,7 +19686,7 @@
 			(uuid "33d9d168-50cb-451d-b3a9-671e96f3239c")
 		)
 		(embedded_fonts no)
-		(model "kicad-embed://SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -20405,7 +20405,7 @@
 			(uuid "89ae00c2-b0e2-420a-a895-16ddc25a384a")
 		)
 		(embedded_fonts no)
-		(model "kicad-embed://SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -21113,7 +21113,7 @@
 			(uuid "d5aaadfb-a1c4-4c0a-8cfd-d98aeb5d72cd")
 		)
 		(embedded_fonts no)
-		(model "kicad-embed://SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -21832,7 +21832,7 @@
 			(uuid "7a36808b-24d8-48dc-b493-3d8fb3e5d3cb")
 		)
 		(embedded_fonts no)
-		(model "kicad-embed://SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -22551,7 +22551,7 @@
 			(uuid "6f755c58-f313-475c-a7b6-2f06878fc6f8")
 		)
 		(embedded_fonts no)
-		(model "kicad-embed://SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -23270,7 +23270,7 @@
 			(uuid "9739688f-e920-4734-8850-c2c5e4056c79")
 		)
 		(embedded_fonts no)
-		(model "kicad-embed://SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -24195,7 +24195,7 @@
 			(uuid "475fd5d1-e52c-465d-881a-8b5ddfd476d0")
 		)
 		(embedded_fonts no)
-		(model "kicad-embed://SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -24914,7 +24914,7 @@
 			(uuid "03a3ada7-56ad-4023-bfe2-72ea40a098f7")
 		)
 		(embedded_fonts no)
-		(model "kicad-embed://SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -25828,7 +25828,7 @@
 			(uuid "12491d2b-42ba-4f91-aecf-425c37bcd539")
 		)
 		(embedded_fonts no)
-		(model "kicad-embed://SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -26693,7 +26693,7 @@
 			(uuid "10a6cbcc-bae5-4b87-a47d-486aee1dfe1e")
 		)
 		(embedded_fonts no)
-		(model "kicad-embed://SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -27412,7 +27412,7 @@
 			(uuid "81876b5a-3211-43f6-871c-45a2329e46ec")
 		)
 		(embedded_fonts no)
-		(model "kicad-embed://SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -28339,7 +28339,7 @@
 			(uuid "2ebca492-4f0a-4f9c-af19-0c02599ec2ae")
 		)
 		(embedded_fonts no)
-		(model "kicad-embed://SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -29058,7 +29058,7 @@
 			(uuid "1f7e9514-6b2c-4b68-9345-fdd2ff6a9166")
 		)
 		(embedded_fonts no)
-		(model "kicad-embed://SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -29777,7 +29777,7 @@
 			(uuid "bbe77620-d539-4023-942a-fd939a65e5d3")
 		)
 		(embedded_fonts no)
-		(model "kicad-embed://SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -30496,7 +30496,7 @@
 			(uuid "78133d05-8240-45d2-b52d-cbdda364b5b5")
 		)
 		(embedded_fonts no)
-		(model "kicad-embed://SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -31215,7 +31215,7 @@
 			(uuid "b198c42b-3cd0-4dde-96ac-6cdb6449f2b6")
 		)
 		(embedded_fonts no)
-		(model "kicad-embed://SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -31441,7 +31441,7 @@
 			(uuid "6e035360-bee0-42b3-b061-5df404e11a72")
 		)
 		(embedded_fonts no)
-		(model "kicad-embed://Stabilizer_Cherry_MX_2.00u.wrl"
+		(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/Stabilizer_Cherry_MX_2.00u.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -32819,7 +32819,7 @@
 			(uuid "7534b54d-75c0-4f6f-9a6b-0d41d2a05c46")
 		)
 		(embedded_fonts no)
-		(model "kicad-embed://SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -33045,7 +33045,7 @@
 			(uuid "72321d8e-28ab-479a-acca-56fd41de2bef")
 		)
 		(embedded_fonts no)
-		(model "kicad-embed://Stabilizer_Cherry_MX_6.25u.wrl"
+		(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/Stabilizer_Cherry_MX_6.25u.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -33753,7 +33753,7 @@
 			(uuid "6880834b-2c2b-43e9-bf7f-eb4b888a1857")
 		)
 		(embedded_fonts no)
-		(model "kicad-embed://SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -34472,7 +34472,7 @@
 			(uuid "b60fe965-29ae-4c6a-a916-e84a95df8d99")
 		)
 		(embedded_fonts no)
-		(model "kicad-embed://SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -35191,7 +35191,7 @@
 			(uuid "3d892a6a-82c0-459a-a8b0-676f2f02c42b")
 		)
 		(embedded_fonts no)
-		(model "kicad-embed://SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -36116,7 +36116,7 @@
 			(uuid "ab0ab5da-1d80-448c-8e18-8bbfdb8659c4")
 		)
 		(embedded_fonts no)
-		(model "kicad-embed://SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -36824,7 +36824,7 @@
 			(uuid "624fdb82-75a0-4b8d-a67a-606ba5308ba4")
 		)
 		(embedded_fonts no)
-		(model "kicad-embed://SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -37050,7 +37050,7 @@
 			(uuid "8b193584-7595-41de-8d89-0df653f5c01f")
 		)
 		(embedded_fonts no)
-		(model "kicad-embed://Stabilizer_Cherry_MX_2.00u.wrl"
+		(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/Stabilizer_Cherry_MX_2.00u.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -37758,7 +37758,7 @@
 			(uuid "c18395c4-764a-49c1-9fdf-974bd6280d58")
 		)
 		(embedded_fonts no)
-		(model "kicad-embed://SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -38683,7 +38683,7 @@
 			(uuid "5edb6f3e-70ff-4085-9ad9-64a7c7861d17")
 		)
 		(embedded_fonts no)
-		(model "kicad-embed://SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -39402,7 +39402,7 @@
 			(uuid "1bd84d19-0204-496b-9156-894a94a11847")
 		)
 		(embedded_fonts no)
-		(model "kicad-embed://SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -40121,7 +40121,7 @@
 			(uuid "1e10de68-dbfc-4ad2-ab54-df3d41bc9e03")
 		)
 		(embedded_fonts no)
-		(model "kicad-embed://SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -40840,7 +40840,7 @@
 			(uuid "791b6331-e966-4740-9d06-13b92ce57219")
 		)
 		(embedded_fonts no)
-		(model "kicad-embed://SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -41559,7 +41559,7 @@
 			(uuid "364a1645-332a-4ed2-b3fa-2e60ef83c947")
 		)
 		(embedded_fonts no)
-		(model "kicad-embed://SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -42278,7 +42278,7 @@
 			(uuid "f6e8e770-ca49-4bd8-bda5-c651b6f1f7c2")
 		)
 		(embedded_fonts no)
-		(model "kicad-embed://SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -42997,7 +42997,7 @@
 			(uuid "53b7857a-089c-4691-831c-83c65bc18335")
 		)
 		(embedded_fonts no)
-		(model "kicad-embed://SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -43716,7 +43716,7 @@
 			(uuid "c152d12b-3eee-48a2-9634-f8765713d3fd")
 		)
 		(embedded_fonts no)
-		(model "kicad-embed://SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -44435,7 +44435,7 @@
 			(uuid "013b7726-ad1c-4fa5-b3a8-255f0f241b94")
 		)
 		(embedded_fonts no)
-		(model "kicad-embed://SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -45154,7 +45154,7 @@
 			(uuid "90d45e9b-17c6-490c-ad6d-59e566b99e84")
 		)
 		(embedded_fonts no)
-		(model "kicad-embed://SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -45873,7 +45873,7 @@
 			(uuid "14b3ef1f-9abe-4eea-9863-a6c6aae09312")
 		)
 		(embedded_fonts no)
-		(model "kicad-embed://SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -46592,7 +46592,7 @@
 			(uuid "e45dc427-9203-4bf2-8c04-37d347089660")
 		)
 		(embedded_fonts no)
-		(model "kicad-embed://SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -47311,7 +47311,7 @@
 			(uuid "26ed6b4a-5fe2-40ac-9b20-9803a6ba1ca6")
 		)
 		(embedded_fonts no)
-		(model "kicad-embed://SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -48030,7 +48030,7 @@
 			(uuid "3bd3547e-9f41-4271-8360-5fda1872289a")
 		)
 		(embedded_fonts no)
-		(model "kicad-embed://SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -48749,7 +48749,7 @@
 			(uuid "5cae152f-83ea-4c33-8d9e-799806844acd")
 		)
 		(embedded_fonts no)
-		(model "kicad-embed://SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -49674,7 +49674,7 @@
 			(uuid "af7eadc6-42d9-4904-871b-e2877c146b95")
 		)
 		(embedded_fonts no)
-		(model "kicad-embed://SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -50393,7 +50393,7 @@
 			(uuid "fa741e26-9c2b-4d2b-a916-4d1798fba340")
 		)
 		(embedded_fonts no)
-		(model "kicad-embed://SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -51112,7 +51112,7 @@
 			(uuid "fd44711c-743e-46d1-9af0-a6266dd66a81")
 		)
 		(embedded_fonts no)
-		(model "kicad-embed://SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -51831,7 +51831,7 @@
 			(uuid "702c954b-0658-4852-9500-c8173b114ef6")
 		)
 		(embedded_fonts no)
-		(model "kicad-embed://SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -52057,7 +52057,7 @@
 			(uuid "80492c88-e3a5-435e-8444-e2410de28395")
 		)
 		(embedded_fonts no)
-		(model "kicad-embed://Stabilizer_Cherry_MX_2.00u.wrl"
+		(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/Stabilizer_Cherry_MX_2.00u.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -52765,7 +52765,7 @@
 			(uuid "d9729df5-8769-4a91-b4ca-e4598b3e55c5")
 		)
 		(embedded_fonts no)
-		(model "kicad-embed://SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -53473,7 +53473,7 @@
 			(uuid "1589b2d9-4800-4d66-ac20-a5b7f919c326")
 		)
 		(embedded_fonts no)
-		(model "kicad-embed://SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -54192,7 +54192,7 @@
 			(uuid "041a4686-fb66-4e85-9062-b8866aa931bd")
 		)
 		(embedded_fonts no)
-		(model "kicad-embed://SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -54911,7 +54911,7 @@
 			(uuid "c89cd0c7-ee35-46a0-aebd-2364f4741929")
 		)
 		(embedded_fonts no)
-		(model "kicad-embed://SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -55619,7 +55619,7 @@
 			(uuid "0c07f29e-2806-48ed-a05a-38d0070ae573")
 		)
 		(embedded_fonts no)
-		(model "kicad-embed://SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -56338,7 +56338,7 @@
 			(uuid "00776e20-69a7-4f7b-ac55-0ed159700fb0")
 		)
 		(embedded_fonts no)
-		(model "kicad-embed://SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -57057,7 +57057,7 @@
 			(uuid "7290b4dc-8d98-4a3c-8280-1c86090629b3")
 		)
 		(embedded_fonts no)
-		(model "kicad-embed://SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -57776,7 +57776,7 @@
 			(uuid "130b86fc-b848-4520-9c91-21d338b0fa68")
 		)
 		(embedded_fonts no)
-		(model "kicad-embed://SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.stp"
 			(offset
 				(xyz 0 0 0)
 			)

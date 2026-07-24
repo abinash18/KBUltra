@@ -484,8 +484,12 @@
     }
   },
   "libraries": {
-    "pinned_footprint_libs": [],
-    "pinned_symbol_libs": []
+    "pinned_footprint_libs": [
+      "footprints"
+    ],
+    "pinned_symbol_libs": [
+      "controlboard"
+    ]
   },
   "meta": {
     "filename": "ControlCardRP.kicad_pro",
@@ -648,7 +652,7 @@
         "uuid": "a4806da1-c544-4ae5-b204-32c833e6ad2b"
       }
     ],
-    "used_designators": "U4,#PWR14,#PWR25,L1,R24,C10,JP1",
+    "used_designators": "U4-5,#PWR14,#PWR25,#PWR27-33,L1,C10-18,R24,R26-32",
     "variants": []
   },
   "sheets": [
