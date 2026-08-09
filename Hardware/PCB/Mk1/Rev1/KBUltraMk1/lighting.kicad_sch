@@ -10184,6 +10184,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 208.28 48.26 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "b14ce5ff-5af5-45e4-a686-c64565e9e0fc")
 		)
@@ -10254,6 +10265,17 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 121.92 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
+			(at 121.92 139.7 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10334,6 +10356,17 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 227.33 269.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
 			(at 227.33 269.24 0)
 			(hide yes)
 			(show_name no)
@@ -10507,6 +10540,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 293.37 48.26 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "56cf7cef-64be-40cd-9e78-955a4ffea811")
 		)
@@ -10578,6 +10622,17 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 284.48 210.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
 			(at 284.48 210.82 0)
 			(hide yes)
 			(show_name no)
@@ -10665,6 +10720,17 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 256.54 180.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
 			(at 256.54 180.34 0)
 			(hide yes)
 			(show_name no)
@@ -10919,6 +10985,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 140.97 180.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "0118d9dd-476c-4c9f-b7d8-29796a6814a8")
 		)
@@ -10996,6 +11073,17 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 55.88 241.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
 			(at 55.88 241.3 0)
 			(hide yes)
 			(show_name no)
@@ -11169,6 +11257,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 121.92 17.78 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "62460805-4acd-4841-840f-2fa8accc39b3")
 		)
@@ -11248,6 +11347,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 92.71 139.7 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "6feacd6b-281e-4d98-904b-465ba5e0300d")
 		)
@@ -11318,6 +11428,17 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 265.43 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
+			(at 265.43 48.26 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11722,6 +11843,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 113.03 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "d57fdd04-f49c-4650-a254-468decaa3a0f")
 		)
@@ -11809,6 +11941,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 227.33 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "4b2e96f7-dedc-4c10-a6c0-5fcfea5bff93")
 		)
@@ -11885,6 +12028,17 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 121.92 231.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
+			(at 121.92 231.14 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12129,6 +12283,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 208.28 78.74 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "1b9ce1b9-4f98-4412-a705-5aa1d63a70ce")
 		)
@@ -12199,6 +12364,17 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 265.43 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
+			(at 265.43 139.7 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12279,6 +12455,17 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 55.88 27.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
 			(at 55.88 27.94 0)
 			(hide yes)
 			(show_name no)
@@ -12454,6 +12641,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 83.82 27.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "7bc7b58e-1cc0-48b7-a12f-67b680b7c153")
 		)
@@ -12531,6 +12729,17 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 113.03 27.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
 			(at 113.03 27.94 0)
 			(hide yes)
 			(show_name no)
@@ -12628,6 +12837,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 199.39 149.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "f8d074ee-d1db-427d-b3e0-93efcbdae867")
 		)
@@ -12713,6 +12933,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 322.58 139.7 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "be33d1a6-3daa-4a84-8c7a-f2dabc14a3e9")
 		)
@@ -12784,6 +13015,17 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 256.54 210.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
 			(at 256.54 210.82 0)
 			(hide yes)
 			(show_name no)
@@ -12881,6 +13123,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 55.88 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "09b297c3-cf0d-4337-a494-4147617e4a5d")
 		)
@@ -12966,6 +13219,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 92.71 48.26 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "b6165c68-86b8-4a3f-bc61-7366bb701cd6")
 		)
@@ -13037,6 +13301,17 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 227.33 210.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
 			(at 227.33 210.82 0)
 			(hide yes)
 			(show_name no)
@@ -13210,6 +13485,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 179.07 200.66 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "6d6fc671-4421-4f80-8bff-78e8f311ad6a")
 		)
@@ -13280,6 +13566,17 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 64.77 231.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
+			(at 64.77 231.14 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13447,6 +13744,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 121.92 200.66 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "c1a6a59f-5131-42a7-8cc3-ab0b7dcc89e4")
 		)
@@ -13518,6 +13826,17 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 113.03 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
 			(at 113.03 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -13769,6 +14088,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 293.37 170.18 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "b771fa89-2314-4b53-8572-72c3e5224c48")
 		)
@@ -14007,6 +14337,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 227.33 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "781c905e-92c4-4686-9309-3d8e9028eec9")
 		)
@@ -14094,6 +14435,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 140.97 149.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "2e74402e-35ec-4ae1-9c3b-acfecec04df9")
 		)
@@ -14170,6 +14522,17 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 149.86 17.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
+			(at 149.86 17.78 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14336,6 +14699,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 92.71 78.74 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "eec91f40-f902-437a-a1b8-25fa393f4c02")
 		)
@@ -14407,6 +14781,17 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 313.69 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
 			(at 313.69 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -14494,6 +14879,17 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 199.39 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
 			(at 199.39 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -14824,6 +15220,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 207.01 231.14 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "b8fcbf48-8880-4e2b-bc10-6304b4ec3ab9")
 		)
@@ -14895,6 +15302,17 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 227.33 149.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
 			(at 227.33 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -15070,6 +15488,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 55.88 180.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "79beaafd-412e-4c05-a6e3-2c52aab0a5f7")
 		)
@@ -15157,6 +15586,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 284.48 180.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "1026bc2f-c096-4b24-ac24-b1bcc191bdc9")
 		)
@@ -15234,6 +15674,17 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 140.97 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
 			(at 140.97 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -15565,6 +16016,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 55.88 210.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "4f4718ff-fbc5-43f2-840e-16c906a7d45f")
 		)
@@ -15641,6 +16103,17 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 149.86 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
+			(at 149.86 109.22 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15887,6 +16360,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 313.69 210.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "04933636-08e5-40c4-ab0e-4eb05fbf3f10")
 		)
@@ -15972,6 +16456,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 64.77 170.18 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "4d51470e-253f-4f33-a6e0-1c46bd6451af")
 		)
@@ -16043,6 +16538,17 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 284.48 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
 			(at 284.48 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -16140,6 +16646,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 284.48 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "49143ab2-365c-4e18-bb26-d9a2b378435a")
 		)
@@ -16217,6 +16734,17 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 83.82 149.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
 			(at 83.82 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -16381,6 +16909,17 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 121.92 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
+			(at 121.92 78.74 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16628,6 +17167,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 170.18 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "4c629309-e3c2-4482-a1c2-94bcc4c22cd1")
 		)
@@ -16704,6 +17254,17 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 92.71 17.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
+			(at 92.71 17.78 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16792,6 +17353,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 149.86 259.08 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "75273ddd-5863-4667-89a3-f9bbf0ac6b70")
 		)
@@ -16863,6 +17435,17 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 313.69 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
 			(at 313.69 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -16960,6 +17543,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 83.82 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "e9b534f1-79ac-43fd-ae5e-33cf454a7e59")
 		)
@@ -17036,6 +17630,17 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 236.22 170.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
+			(at 236.22 170.18 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17436,6 +18041,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 208.28 109.22 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "f1d4e46d-9f1a-432e-bf60-cf8930be40a4")
 		)
@@ -17506,6 +18122,17 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 293.37 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
+			(at 293.37 78.74 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17988,6 +18615,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 198.12 241.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "8cd7b001-a97a-4e77-bcc7-8086cc8584d6")
 		)
@@ -18065,6 +18703,17 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 113.03 180.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
 			(at 113.03 180.34 0)
 			(hide yes)
 			(show_name no)
@@ -18160,6 +18809,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 236.22 109.22 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "d6d93532-0386-4600-a66d-cfb4dfd727b6")
 		)
@@ -18230,6 +18890,17 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 236.22 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
+			(at 236.22 78.74 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18633,6 +19304,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 140.97 269.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "ed37ee52-cc3f-4d73-bd7d-11693f1aa429")
 		)
@@ -18720,6 +19402,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 113.03 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "c6ec8408-6865-4d43-80dc-2e49e124600c")
 		)
@@ -18796,6 +19489,17 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 64.77 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
+			(at 64.77 139.7 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19042,6 +19746,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 170.18 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "a42cef58-6c93-4608-891d-8dff4751d3ef")
 		)
@@ -19119,6 +19834,17 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 113.03 241.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
 			(at 113.03 241.3 0)
 			(hide yes)
 			(show_name no)
@@ -19292,6 +20018,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 236.22 259.08 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "f058efa2-88bd-4cbe-a9ba-f1cce6f2157b")
 		)
@@ -19441,6 +20178,17 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 55.88 269.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
 			(at 55.88 269.24 0)
 			(hide yes)
 			(show_name no)
@@ -19692,6 +20440,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 179.07 259.08 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "a1f7f788-cf76-46bb-ac8b-c447ce8ef674")
 		)
@@ -19763,6 +20522,17 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 199.39 180.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
 			(at 199.39 180.34 0)
 			(hide yes)
 			(show_name no)
@@ -19858,6 +20628,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 322.58 17.78 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "93199f3f-7a23-4c89-93f0-81a50f8a3b34")
 		)
@@ -19928,6 +20709,17 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 92.71 170.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
+			(at 92.71 170.18 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20094,6 +20886,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 236.22 17.78 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "31bd7972-8a6e-4fe4-86fa-b477174e0cda")
 		)
@@ -20164,6 +20967,17 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 265.43 170.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
+			(at 265.43 170.18 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20244,6 +21058,17 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 313.69 27.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
 			(at 313.69 27.94 0)
 			(hide yes)
 			(show_name no)
@@ -20495,6 +21320,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 208.28 139.7 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "3bf67cce-0de3-49de-8d8f-009305f2610a")
 		)
@@ -20566,6 +21402,17 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 170.18 210.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
 			(at 170.18 210.82 0)
 			(hide yes)
 			(show_name no)
@@ -20661,6 +21508,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 149.86 78.74 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "9dc15ce9-cc5b-41a3-9405-3190f36f3c3a")
 		)
@@ -20732,6 +21590,17 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 313.69 149.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
 			(at 313.69 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -20818,6 +21687,17 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 64.77 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
+			(at 64.77 48.26 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21064,6 +21944,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 256.54 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "8269dd27-855c-4025-bef9-6831b035cdfa")
 		)
@@ -21149,6 +22040,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 265.43 17.78 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "d5070cee-42c9-4a17-a978-20da81acead8")
 		)
@@ -21220,6 +22122,17 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 55.88 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
 			(at 55.88 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -21315,6 +22228,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 179.07 231.14 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "b7814e1c-9d45-4aa3-9127-0a2978c68833")
 		)
@@ -21386,6 +22310,17 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 199.39 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
 			(at 199.39 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -21472,6 +22407,17 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 92.71 231.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
+			(at 92.71 231.14 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21640,6 +22586,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 140.97 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "3f959ef4-1697-4236-8d0f-e52b8bd0726e")
 		)
@@ -21725,6 +22682,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 265.43 78.74 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "fe089bfe-4971-4d1b-8aff-d94dca9aeae0")
 		)
@@ -21796,6 +22764,17 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 55.88 149.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
 			(at 55.88 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -21971,6 +22950,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 199.39 210.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "f6d6b682-be77-4320-808e-c0ef1ab6f6f6")
 		)
@@ -22047,6 +23037,17 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 64.77 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
+			(at 64.77 109.22 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22213,6 +23214,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 208.28 170.18 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "4fada7fd-efbf-4d10-a06b-0c74b51e8d4c")
 		)
@@ -22283,6 +23295,17 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 179.07 170.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
+			(at 179.07 170.18 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22373,6 +23396,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 255.27 269.24 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "b5b72d1c-98e3-49f1-8360-d013c3f93ae5")
 		)
@@ -22444,6 +23478,17 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 170.18 241.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
 			(at 170.18 241.3 0)
 			(hide yes)
 			(show_name no)
@@ -22618,6 +23663,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 92.71 109.22 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "91cd6cc6-35bb-457e-8ebd-99192ee2f763")
 		)
@@ -22688,6 +23744,17 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 64.77 259.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
+			(at 64.77 259.08 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22776,6 +23843,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 64.77 17.78 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "9c90ceaf-332f-4f97-a590-7e69a2987f3c")
 		)
@@ -22846,6 +23924,17 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 92.71 259.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
+			(at 92.71 259.08 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23092,6 +24181,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 140.97 241.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "31bc0b93-0487-470a-bee0-ddcad98e83d4")
 		)
@@ -23177,6 +24277,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 179.07 17.78 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "135d0034-b1ec-4686-8308-6d953ec862c9")
 		)
@@ -23247,6 +24358,17 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 149.86 170.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
+			(at 149.86 170.18 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23413,6 +24535,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 121.92 48.26 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "19e057fd-03c1-4615-96cb-da376f95d5fa")
 		)
@@ -23484,6 +24617,17 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 227.33 27.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
 			(at 227.33 27.94 0)
 			(hide yes)
 			(show_name no)
@@ -23571,6 +24715,17 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 170.18 149.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
 			(at 170.18 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -23744,6 +24899,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 92.71 200.66 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "3fb159a6-7283-4a36-8a7f-611cfa4d685f")
 		)
@@ -23815,6 +24981,17 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 227.33 180.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
 			(at 227.33 180.34 0)
 			(hide yes)
 			(show_name no)
@@ -23910,6 +25087,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 149.86 200.66 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "a6c7b0a7-8c6f-4a43-b679-7d54e6abdd3a")
 		)
@@ -23981,6 +25169,17 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 284.48 149.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
 			(at 284.48 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -24156,6 +25355,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 140.97 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "d74c6278-92dc-428e-a9fb-c8e81c9cfe62")
 		)
@@ -24311,6 +25521,17 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 111.76 269.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
 			(at 111.76 269.24 0)
 			(hide yes)
 			(show_name no)
@@ -24562,6 +25783,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 236.22 200.66 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "e3accd60-edcc-4b0e-9feb-3ecd81139f0e")
 		)
@@ -24633,6 +25865,17 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 199.39 27.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
 			(at 199.39 27.94 0)
 			(hide yes)
 			(show_name no)
@@ -24808,6 +26051,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 313.69 180.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "2608948e-2d05-43fb-9beb-4d15286ae0df")
 		)
@@ -24973,6 +26227,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 83.82 241.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "efbd8081-ea30-47f2-ba47-9352634d57c3")
 		)
@@ -25060,6 +26325,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 170.18 180.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "0514eb81-ead6-4fe6-9095-91c146c05f12")
 		)
@@ -25136,6 +26412,17 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 121.92 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
+			(at 121.92 109.22 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25302,6 +26589,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 293.37 17.78 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "2f7f002d-cfaf-408b-89d5-e22c60a3dced")
 		)
@@ -25372,6 +26670,17 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 293.37 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
+			(at 293.37 109.22 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25530,6 +26839,17 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 256.54 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
 			(at 256.54 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -25782,6 +27102,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 236.22 48.26 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "46686778-3b38-4d9f-86a9-b4e68f426a79")
 		)
@@ -26018,6 +27349,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 113.03 210.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "9f9adffd-4b72-483b-8f1c-cffb5ed7bafc")
 		)
@@ -26103,6 +27445,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 64.77 200.66 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "a70368f2-1b39-4578-a517-7adc174d05e0")
 		)
@@ -26174,6 +27527,17 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 313.69 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
 			(at 313.69 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -26505,6 +27869,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 140.97 210.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "bb920f0d-e09d-4fd8-8f2f-aa018199d1b6")
 		)
@@ -26668,6 +28043,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 208.28 17.78 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "a4fa5b47-64a3-476b-8556-a3cb43afec6d")
 		)
@@ -26817,6 +28203,17 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 170.18 269.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
 			(at 170.18 269.24 0)
 			(hide yes)
 			(show_name no)
@@ -26993,6 +28390,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 256.54 27.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "16bba17f-4fb7-4487-8dd7-1f28ef1bb14a")
 		)
@@ -27078,6 +28486,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 179.07 78.74 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "fb164293-ed13-42db-8c12-1373f99b4214")
 		)
@@ -27149,6 +28568,17 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 170.18 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
 			(at 170.18 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -27323,6 +28753,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 293.37 139.7 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "97df31a1-f07c-4ef3-9918-dd98a47b9ddb")
 		)
@@ -27393,6 +28834,17 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 293.37 200.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
+			(at 293.37 200.66 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27481,6 +28933,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 179.07 139.7 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "f04b031c-531b-4937-87b9-3b915df2039b")
 		)
@@ -27551,6 +29014,17 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 322.58 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
+			(at 322.58 109.22 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27708,6 +29182,17 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 121.92 170.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
+			(at 121.92 170.18 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27876,6 +29361,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 83.82 210.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "ea0a8ccf-ea42-4e9e-ade6-d545e1a03e28")
 		)
@@ -27963,6 +29459,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 140.97 27.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "692a38dd-72d7-42bf-9cd1-dd760e8fed4e")
 		)
@@ -28039,6 +29546,17 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 208.28 200.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
+			(at 208.28 200.66 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28205,6 +29723,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 265.43 200.66 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "be2f1dab-42ad-479c-8002-0f58bed0464c")
 		)
@@ -28276,6 +29805,17 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 198.12 269.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
 			(at 198.12 269.24 0)
 			(hide yes)
 			(show_name no)
@@ -28373,6 +29913,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 170.18 27.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "07c7fd94-8437-467d-a364-2d24ba3763e6")
 		)
@@ -28458,6 +30009,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 179.07 48.26 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "2d3e7fd7-6ad7-45e5-9305-80e3bb368aba")
 		)
@@ -28529,6 +30091,17 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 256.54 149.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
 			(at 256.54 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -28704,6 +30277,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 83.82 180.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "4fdbdf43-f071-446c-9bdf-74e906db7560")
 		)
@@ -28780,6 +30364,17 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 322.58 170.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
+			(at 322.58 170.18 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28868,6 +30463,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 207.01 259.08 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "23c4d7b7-7e66-41ba-955b-fec905a9e7ed")
 		)
@@ -28939,6 +30545,17 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 83.82 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
 			(at 83.82 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -29271,6 +30888,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 113.03 149.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "4660bd0c-a108-4380-a268-542790d9b4fd")
 		)
@@ -29348,6 +30976,17 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 284.48 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
 			(at 284.48 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -29521,6 +31160,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 265.43 109.22 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "9fdb31ea-1a96-430d-97b3-8c215ce79fb1")
 		)
@@ -29592,6 +31242,17 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 83.82 269.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
 			(at 83.82 269.24 0)
 			(hide yes)
 			(show_name no)
@@ -29689,6 +31350,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 227.33 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "55452bc3-529a-44eb-a692-33a09c0c3e7f")
 		)
@@ -29775,6 +31447,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 39.37 27.94 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "d1910e9c-95c1-4886-8a06-c3d80c6af231")
 		)
@@ -29845,6 +31528,17 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 179.07 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
+			(at 179.07 109.22 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -30091,6 +31785,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 83.82 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "4b71bf0a-224e-4a7d-89c7-783781ecd4b9")
 		)
@@ -30176,6 +31881,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 236.22 139.7 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "5959aaa1-c00c-49fb-9fde-ed0a5b390572")
 		)
@@ -30246,6 +31962,17 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 120.65 259.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
+			(at 120.65 259.08 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -30413,6 +32140,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 322.58 200.66 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "fb42f5f9-653e-4f76-b108-5c75d71aa941")
 		)
@@ -30484,6 +32222,17 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 256.54 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
 			(at 256.54 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -30659,6 +32408,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 199.39 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "db81d0e1-d728-49bc-bd6a-c8bb656bc4b2")
 		)
@@ -30744,6 +32504,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 322.58 48.26 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "9a1e81e7-12da-4b0d-a991-8774b04589ca")
 		)
@@ -30814,6 +32585,17 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 322.58 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
+			(at 322.58 78.74 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -30982,6 +32764,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 55.88 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "7b4447e0-37ce-4e8c-b433-75b2045fb1cc")
 		)
@@ -31058,6 +32851,17 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 149.86 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
+			(at 149.86 48.26 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31380,6 +33184,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 149.86 139.7 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "8028e2ea-b9e0-44e3-a0ba-0c468ff7d109")
 		)
@@ -31529,6 +33344,17 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 149.86 231.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
+			(at 149.86 231.14 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31775,6 +33601,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 284.48 27.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "20f4199b-2c2f-4c2a-9725-13a8a6c36964")
 		)
@@ -31929,6 +33766,17 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 64.77 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
+			(at 64.77 78.74 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)

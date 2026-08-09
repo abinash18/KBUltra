@@ -543,6 +543,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 142.24 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "e316054e-86d5-4bba-b256-3da3fe67f1c8")
 		)
@@ -616,6 +627,17 @@
 			)
 		)
 		(property "Description" "Haptic driver for LRAs and ERMs with effect library, 2-5.2V, TSSOP-10 (Texas DGS0010A / VSSOP)"
+			(at 86.36 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
 			(at 86.36 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -732,6 +754,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 142.24 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "e71cb083-04be-451b-92fb-fa5e6765d033")
 		)
@@ -814,6 +847,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 142.24 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "baa5c713-cc11-4433-84ac-1d8dded89640")
 		)
@@ -886,6 +930,17 @@
 			)
 		)
 		(property "Description" "DC Motor, alternative symbol"
+			(at 142.24 62.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
 			(at 142.24 62.23 0)
 			(hide yes)
 			(show_name no)

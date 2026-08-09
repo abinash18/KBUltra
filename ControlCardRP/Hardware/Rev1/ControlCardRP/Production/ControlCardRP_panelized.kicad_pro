@@ -63,10 +63,10 @@
           "min_clearance": 0.2,
           "min_island_area": 10.0,
           "min_thickness": 0.25,
-          "pad_connection": 2,
+          "pad_connection": 1,
           "remove_islands": 0,
-          "thermal_relief_gap": 0.25,
-          "thermal_relief_spoke_width": 0.25
+          "thermal_relief_gap": 0.5,
+          "thermal_relief_spoke_width": 0.5
         }
       },
       "diff_pair_dimensions": [
@@ -146,7 +146,7 @@
       },
       "rules": {
         "max_error": 0.005,
-        "min_clearance": 0.0,
+        "min_clearance": 0.1,
         "min_connection": 0.0,
         "min_copper_edge_clearance": 0.5,
         "min_groove_width": 0.0,
@@ -159,7 +159,7 @@
         "min_text_height": 0.8,
         "min_text_thickness": 0.08,
         "min_through_hole_diameter": 0.3,
-        "min_track_width": 0.2,
+        "min_track_width": 0.09,
         "min_via_annular_width": 0.1,
         "min_via_diameter": 0.5,
         "solder_mask_to_copper_clearance": 0.005,
@@ -211,11 +211,15 @@
       ],
       "track_widths": [
         0.0,
+        0.1,
+        0.12,
+        0.15,
         0.2,
         0.25,
         0.5,
         1.0,
-        5.0
+        1.5,
+        2.0
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
@@ -247,6 +251,14 @@
         {
           "diameter": 0.0,
           "drill": 0.0
+        },
+        {
+          "diameter": 0.45,
+          "drill": 0.2
+        },
+        {
+          "diameter": 0.45,
+          "drill": 0.25
         },
         {
           "diameter": 0.7,
@@ -510,20 +522,22 @@
     }
   },
   "libraries": {
-    "pinned_footprint_libs": [],
+    "pinned_footprint_libs": [
+      "footprints"
+    ],
     "pinned_symbol_libs": [
-      "kbultra"
+      "controlboard"
     ]
   },
   "meta": {
-    "filename": "KBUltraMk1.kicad_pro",
+    "filename": "ControlCardRP_panelized.kicad_pro",
     "version": 3
   },
   "net_settings": {
     "classes": [
       {
         "bus_width": 12,
-        "clearance": 0.2,
+        "clearance": 0.1,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
@@ -559,10 +573,10 @@
     "page_layout_descr_file": ""
   },
   "schematic": {
-    "annotate_start_num": 100,
+    "annotate_start_num": 0,
     "annotation": {
       "method": 0,
-      "sort_order": 1
+      "sort_order": 0
     },
     "bom_export_filename": "${PROJECTNAME}.csv",
     "bom_fmt_presets": [],
@@ -599,27 +613,9 @@
         },
         {
           "group_by": false,
-          "label": "JLC Part#",
-          "name": "JLC Part#",
+          "label": "LCSC Part #",
+          "name": "LCSC Part #",
           "show": true
-        },
-        {
-          "group_by": true,
-          "label": "DNP",
-          "name": "${DNP}",
-          "show": false
-        },
-        {
-          "group_by": true,
-          "label": "Exclude from BOM",
-          "name": "${EXCLUDE_FROM_BOM}",
-          "show": false
-        },
-        {
-          "group_by": true,
-          "label": "Exclude from Board",
-          "name": "${EXCLUDE_FROM_BOARD}",
-          "show": false
         },
         {
           "group_by": true,
@@ -635,8 +631,32 @@
         },
         {
           "group_by": false,
+          "label": "DNP",
+          "name": "${DNP}",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Exclude from BOM",
+          "name": "${EXCLUDE_FROM_BOM}",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Exclude from Board",
+          "name": "${EXCLUDE_FROM_BOARD}",
+          "show": false
+        },
+        {
+          "group_by": false,
           "label": "Sim.Pins",
           "name": "Sim.Pins",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Sim.Type",
+          "name": "Sim.Type",
           "show": false
         },
         {
@@ -656,9 +676,45 @@
           "label": "#",
           "name": "${ITEM_NUMBER}",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "KLC_S4.2_DVDD",
+          "name": "KLC_S4.2_DVDD",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "KLC_S4.2_VREG_LX",
+          "name": "KLC_S4.2_VREG_LX",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "KLC_S3.3",
+          "name": "KLC_S3.3",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "KLC_S4.1",
+          "name": "KLC_S4.1",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "KLC_S4.2_VCC",
+          "name": "KLC_S4.2_VCC",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "KLC_S4.4",
+          "name": "KLC_S4.4",
+          "show": false
         }
       ],
-      "filter_string": "",
+      "filter_string": "R",
       "group_symbols": true,
       "include_excluded_from_bom": true,
       "name": "",
@@ -701,50 +757,42 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "KBUltraMk1.kicad_sch",
-        "name": "KBUltraMk1",
-        "uuid": "b5c66110-c4bc-44b7-b74f-0bc521af7455"
+        "filename": "ControlCardRP.kicad_sch",
+        "name": "Root",
+        "uuid": "a4806da1-c544-4ae5-b204-32c833e6ad2b"
       }
     ],
-    "used_designators": "M101-104,U101-103,SW101",
+    "used_designators": "L2,D6-7,#PWR44-47,#PWR49-50,#PWR55-58,#PWR60-79,C21,C25-27,C29-47,R14,R17-18,R52-53,R56-61,J3,J9,SW2-3,U6-9,Y1",
     "variants": []
   },
   "sheets": [
     [
-      "b5c66110-c4bc-44b7-b74f-0bc521af7455",
-      "KBUltraMk1"
+      "a4806da1-c544-4ae5-b204-32c833e6ad2b",
+      "Root"
     ],
     [
-      "0bd22731-92ed-4664-9973-f6bba0bd1b6d",
-      "Key Matrix"
-    ],
-    [
-      "3929dec5-d955-4ff8-bed6-10346a8e437b",
-      "Lighting"
-    ],
-    [
-      "aecb405b-8b8b-4d2e-ac62-4bd044d58a6c",
+      "367b0da4-fb4c-4308-aa2b-30684a440207",
       "Controller"
     ],
     [
-      "37a2e385-e742-4cdf-beae-5de0108665d5",
-      "Extras"
+      "88153bd4-bef8-4128-ad38-37115df858c2",
+      "USB-C PD"
     ],
     [
-      "4088ed00-9493-4f4c-90bf-8af09cea9729",
-      "Accelerometer"
+      "632eec67-69c0-4c64-a789-34cbb910d8dd",
+      "Battery Management"
     ],
     [
-      "0b58d487-16a6-4e3c-a758-5a6adf3604b5",
-      "Haptic"
+      "705de6ba-502e-46e2-8f1c-6fbc67e779c6",
+      "Peripherals"
     ],
     [
-      "fbff92d3-74ba-4fa3-9981-79b8655e9aac",
-      "Screen"
+      "0d41d537-7239-4e59-88d1-220b6c6fc2c6",
+      "Power 5V"
     ],
     [
-      "90a1a563-c2d3-4256-984f-1f92d92f3ce2",
-      "Encoder"
+      "93a9b61b-faa1-4555-9f29-8b4ed9bfb2c1",
+      "ESP32-C6 Wireless Co-Processor"
     ]
   ],
   "text_variables": {},

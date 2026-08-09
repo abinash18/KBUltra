@@ -1,0 +1,18 @@
+2026-08-09 15:58:30,655 - panelizer_logger - INFO - Running Panelizer
+2026-08-09 15:58:30,655 - panelizer_logger - WARNING - Version check failed. "10.0.1" may not be supported. Panelizing may fail
+2026-08-09 15:58:30,656 - panelizer_logger - INFO - ['--panelx', '100.000000', '--panely', '100.000000', '--smaller', '--vscorelayer', 'User.Comments', '--vscoretextlayer', 'User.Comments', '--gapx', '0.500000', '--gapy', '0.000000', '--hrail', '6.35', '--vrail', '6.35', '--fiducialpos', '0.25', '--fiducialslr']
+2026-08-09 15:58:30,657 - panelizer_logger - INFO - PANELIZER START: 2026-08-09T15:58:30.657404
+2026-08-09 15:58:35,416 - panelizer_logger - WARNING - 
+START: 2026-08-09T15:58:30.657404
+Board saved by user.
+Gaps should be at least 0.3" for AOI.
+Zones filled by Panelizer.
+
+Board: C:/Users/abina/Desktop/KBUltra/ControlCardRP/Hardware/Rev1/ControlCardRP\Production\ControlCardRP_panelized.kicad_pcb
+Board dimensions: 53.50 x 49.54 mm.
+You can fit 1 x 1 boards on the panel.
+Zones refilled by Panelizer.
+Warning: panel is under 70x70mm. It may be too small to v-score.
+Warning: Ordering Instructions contains default values.
+
+2026-08-09 15:58:37,602 - panelizer_logger - INFO - Panelizer complete

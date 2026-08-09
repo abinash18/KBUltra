@@ -485,6 +485,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 99.06 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "S2"
 			(uuid "adae1e72-e809-443c-a13f-1c8829f8867f")
 		)

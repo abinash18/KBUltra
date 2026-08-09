@@ -6549,6 +6549,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 223.52 58.42 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "ab002612-e46a-470e-8294-53bfe53a47a9")
 		)
@@ -6629,6 +6640,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 215.9 92.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "00f58f2b-67c2-4c15-8579-aeecbce52c36")
 		)
@@ -6699,6 +6721,17 @@
 			)
 		)
 		(property "Description" "Single Pole Single Throw (SPST) switch"
+			(at 330.2 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
 			(at 330.2 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -6813,6 +6846,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 63.5 119.38 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "76184c76-c923-40d6-b2e0-21e8128fff63")
 		)
@@ -6885,6 +6929,17 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
+			(at 22.86 217.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
 			(at 22.86 217.17 0)
 			(hide yes)
 			(show_name no)
@@ -6993,6 +7048,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 154.94 38.1 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "4e097e51-df0a-4d1f-b4dd-19bbed14cab3")
 		)
@@ -7063,6 +7129,17 @@
 			)
 		)
 		(property "Description" "Single Pole Single Throw (SPST) switch"
+			(at 215.9 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" "C49352235"
 			(at 215.9 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -7177,6 +7254,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 63.5 58.42 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "6fb16be6-133c-46d0-83b5-a5b6ea87a2ba")
 		)
@@ -7281,6 +7369,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 86.36 58.42 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "ee5ff649-5f96-494b-8368-295d4e3a77d0")
 		)
@@ -7361,6 +7460,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" "C49352235"
+			(at 147.32 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "87e73152-9545-4f68-9648-527645771eaa")
 		)
@@ -7431,6 +7541,17 @@
 			)
 		)
 		(property "Description" "Single Pole Single Throw (SPST) switch"
+			(at 101.6 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" "C49352235"
 			(at 101.6 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -7545,6 +7666,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 223.52 78.74 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "eb8a775a-d16b-4cf4-b4d6-711a8568071a")
 		)
@@ -7615,6 +7747,17 @@
 			)
 		)
 		(property "Description" "Single Pole Single Throw (SPST) switch"
+			(at 261.62 92.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
 			(at 261.62 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -7705,6 +7848,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" "C49352235"
+			(at 284.48 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "1d31f60f-e667-46aa-a59f-bc8c73c5ccdd")
 		)
@@ -7775,6 +7929,17 @@
 			)
 		)
 		(property "Description" "Single Pole Single Throw (SPST) switch"
+			(at 170.18 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
 			(at 170.18 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -7865,6 +8030,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 307.34 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "fdcfb0fb-9b5e-4ace-b3c3-c88e137a4cdf")
 		)
@@ -7935,6 +8111,17 @@
 			)
 		)
 		(property "Description" "Single Pole Single Throw (SPST) switch"
+			(at 193.04 92.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" "C49352235"
 			(at 193.04 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -8049,6 +8236,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 314.96 119.38 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "24c04742-8796-4cc3-a7e8-faa43fbe68b3")
 		)
@@ -8153,6 +8351,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 246.38 78.74 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "7899120c-188d-4c38-9bab-196ca71c33af")
 		)
@@ -8223,6 +8432,17 @@
 			)
 		)
 		(property "Description" "Single Pole Single Throw (SPST) switch"
+			(at 353.06 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" "C49352235"
 			(at 353.06 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -8313,6 +8533,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" "C49352235"
+			(at 170.18 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "21ed4aad-c070-49c8-a65d-533dfcd404ad")
 		)
@@ -8383,6 +8614,17 @@
 			)
 		)
 		(property "Description" "Single Pole Single Throw (SPST) switch"
+			(at 78.74 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" "C49352235"
 			(at 78.74 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -8473,6 +8715,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" "C49352235"
+			(at 101.6 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "e867bb44-3a81-4cb0-b479-69806ab02497")
 		)
@@ -8543,6 +8796,17 @@
 			)
 		)
 		(property "Description" "Single Pole Single Throw (SPST) switch"
+			(at 124.46 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" "C49352235"
 			(at 124.46 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -8657,6 +8921,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 132.08 119.38 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "6eba778f-1698-4648-8e81-c370806529e9")
 		)
@@ -8752,6 +9027,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 63.5 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
+			(at 63.5 99.06 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8865,6 +9151,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 246.38 119.38 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "c76f2570-7f0e-490a-a291-c327028d1a49")
 		)
@@ -8935,6 +9232,17 @@
 			)
 		)
 		(property "Description" "Single Pole Single Throw (SPST) switch"
+			(at 55.88 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" "C49352235"
 			(at 55.88 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -9025,6 +9333,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" "C49352235"
+			(at 147.32 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "d57b3c86-b512-4fb6-b650-10f5e6e8b2cc")
 		)
@@ -9095,6 +9414,17 @@
 			)
 		)
 		(property "Description" "Single Pole Single Throw (SPST) switch"
+			(at 147.32 92.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" "C49352235"
 			(at 147.32 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -9209,6 +9539,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 200.66 58.42 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "275fa5be-84bc-4720-99e4-cdc45d23c67e")
 		)
@@ -9279,6 +9620,17 @@
 			)
 		)
 		(property "Description" "Single Pole Single Throw (SPST) switch"
+			(at 353.06 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" "C49352235"
 			(at 353.06 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -9393,6 +9745,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 360.68 58.42 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "50284834-f087-4761-8924-bb299f6995f8")
 		)
@@ -9473,6 +9836,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" "C49352235"
+			(at 78.74 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "12681bf1-9d92-4588-b8b4-9885ecb7c09d")
 		)
@@ -9543,6 +9917,17 @@
 			)
 		)
 		(property "Description" "Single Pole Single Throw (SPST) switch"
+			(at 33.02 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" "C49352235"
 			(at 33.02 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -9657,6 +10042,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 132.08 58.42 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "0545cdd8-3274-4175-83bf-f95373f33031")
 		)
@@ -9752,6 +10148,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 337.82 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
+			(at 337.82 99.06 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9865,6 +10272,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 200.66 119.38 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "d1ec83f4-0b53-4760-8f52-d6d52f8ba76a")
 		)
@@ -9935,6 +10353,17 @@
 			)
 		)
 		(property "Description" "Single Pole Single Throw (SPST) switch"
+			(at 78.74 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" "C49352235"
 			(at 78.74 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -10025,6 +10454,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" "C49352235"
+			(at 101.6 92.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "7b2e082f-e809-40bf-a390-da2742e14f76")
 		)
@@ -10095,6 +10535,17 @@
 			)
 		)
 		(property "Description" "Single Pole Single Throw (SPST) switch"
+			(at 330.2 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" "C49352235"
 			(at 330.2 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -10209,6 +10660,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 292.1 99.06 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "53bafde3-bdc2-4af7-9a1c-ee28f00ac0d4")
 		)
@@ -10279,6 +10741,17 @@
 			)
 		)
 		(property "Description" "Single Pole Single Throw (SPST) switch"
+			(at 261.62 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" "C49352235"
 			(at 261.62 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -10369,6 +10842,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" "C49352235"
+			(at 215.9 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "2cb25a35-cb86-4570-b675-c62d2bf84042")
 		)
@@ -10439,6 +10923,17 @@
 			)
 		)
 		(property "Description" "Single Pole Single Throw (SPST) switch"
+			(at 284.48 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
 			(at 284.48 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -10529,6 +11024,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" "C49352235"
+			(at 261.62 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "8cf38dfa-c7d6-4ae2-b021-ec48b83ef55a")
 		)
@@ -10599,6 +11105,17 @@
 			)
 		)
 		(property "Description" "Single Pole Single Throw (SPST) switch"
+			(at 307.34 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" "C49352235"
 			(at 307.34 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -10713,6 +11230,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 269.24 78.74 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "a61bc8d0-eb85-45ce-870a-081c9aa87c68")
 		)
@@ -10817,6 +11345,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 154.94 99.06 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "e2026d91-b778-4263-a1bf-1a646615ec94")
 		)
@@ -10887,6 +11426,17 @@
 			)
 		)
 		(property "Description" "Single Pole Single Throw (SPST) switch"
+			(at 147.32 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" "C49352235"
 			(at 147.32 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -11001,6 +11551,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 314.96 99.06 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "2a712dd9-6b63-465c-bfe4-6ccc34ac7286")
 		)
@@ -11071,6 +11632,17 @@
 			)
 		)
 		(property "Description" "Single Pole Single Throw (SPST) switch"
+			(at 353.06 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" "C49352235"
 			(at 353.06 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -11161,6 +11733,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" "C49352235"
+			(at 33.02 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "dadfd14c-442f-48e9-b25b-53a3eb475316")
 		)
@@ -11231,6 +11814,17 @@
 			)
 		)
 		(property "Description" "Single Pole Single Throw (SPST) switch"
+			(at 124.46 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" "C49352235"
 			(at 124.46 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -11345,6 +11939,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 86.36 99.06 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "81ca5e7f-f001-45ef-a621-20bfc5c40d7d")
 		)
@@ -11417,6 +12022,17 @@
 			)
 		)
 		(property "Description" "Mounting Hole with connection"
+			(at 71.12 217.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
 			(at 71.12 217.17 0)
 			(hide yes)
 			(show_name no)
@@ -11528,6 +12144,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 40.64 38.1 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "68fe40a4-1136-4671-870a-234a42fe42a1")
 		)
@@ -11608,6 +12235,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" "C49352235"
+			(at 55.88 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "90318319-0c68-40c4-8205-eca748da51ee")
 		)
@@ -11678,6 +12316,17 @@
 			)
 		)
 		(property "Description" "Single Pole Single Throw (SPST) switch"
+			(at 284.48 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
 			(at 284.48 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -11792,6 +12441,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 246.38 58.42 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "69dcfd90-dfbc-4d4b-b550-ced2581ccaee")
 		)
@@ -11862,6 +12522,17 @@
 			)
 		)
 		(property "Description" "Single Pole Single Throw (SPST) switch"
+			(at 193.04 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
 			(at 193.04 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -11976,6 +12647,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 109.22 58.42 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "54fc8263-edc0-4759-b056-19c4987af036")
 		)
@@ -12080,6 +12762,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 292.1 78.74 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "78e1da78-edb1-4923-a86f-ac0b9009c9dc")
 		)
@@ -12150,6 +12843,17 @@
 			)
 		)
 		(property "Description" "Single Pole Single Throw (SPST) switch"
+			(at 353.06 92.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" "C49352235"
 			(at 353.06 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -12264,6 +12968,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 177.8 38.1 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "af96f73d-91cf-45ae-ac09-f49ae2b0a345")
 		)
@@ -12359,6 +13074,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 40.64 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
+			(at 40.64 99.06 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12472,6 +13198,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 63.5 78.74 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "faf9a949-3b50-4123-af76-3510a8fa8f49")
 		)
@@ -12552,6 +13289,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" "C49352235"
+			(at 33.02 92.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "ee997c3a-38bc-4913-b598-c48b7e15775f")
 		)
@@ -12622,6 +13370,17 @@
 			)
 		)
 		(property "Description" "Single Pole Single Throw (SPST) switch"
+			(at 55.88 92.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" "C49352235"
 			(at 55.88 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -12736,6 +13495,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 314.96 58.42 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "1adba8a3-c3bc-40a5-b345-808c2ddf7851")
 		)
@@ -12831,6 +13601,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 132.08 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
+			(at 132.08 38.1 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12944,6 +13725,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 292.1 119.38 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "f82193cd-737d-4c68-937b-fc3ce42695f3")
 		)
@@ -13048,6 +13840,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 360.68 38.1 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "3ac29320-ccbf-43ee-9d4e-0e014551bb6c")
 		)
@@ -13118,6 +13921,17 @@
 			)
 		)
 		(property "Description" "Single Pole Single Throw (SPST) switch"
+			(at 124.46 92.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" "C49352235"
 			(at 124.46 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -13232,6 +14046,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 109.22 119.38 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "9b0eb942-9c12-44a0-aca6-ddc88dc52a61")
 		)
@@ -13312,6 +14137,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" "C49352235"
+			(at 170.18 92.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "4458e003-f84e-4575-bf4a-bf26a5549da3")
 		)
@@ -13382,6 +14218,17 @@
 			)
 		)
 		(property "Description" "Single Pole Single Throw (SPST) switch"
+			(at 284.48 92.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" "C49352235"
 			(at 284.48 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -13496,6 +14343,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 292.1 38.1 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "fc9021e9-6eec-46e0-bd8b-2052c9fbf37e")
 		)
@@ -13600,6 +14458,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 337.82 119.38 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "d2d24964-4627-493a-96be-155c5afdbb22")
 		)
@@ -13670,6 +14539,17 @@
 			)
 		)
 		(property "Description" "Single Pole Single Throw (SPST) switch"
+			(at 101.6 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" "C49352235"
 			(at 101.6 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -13784,6 +14664,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 177.8 78.74 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "41406a10-3009-4436-ac58-af675a816148")
 		)
@@ -13854,6 +14745,17 @@
 			)
 		)
 		(property "Description" "Single Pole Single Throw (SPST) switch"
+			(at 147.32 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" "C49352235"
 			(at 147.32 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -13944,6 +14846,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 238.76 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "4a96e1f5-8ecd-4ba7-a5f0-a416d7b5342e")
 		)
@@ -14024,6 +14937,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" "C49352235"
+			(at 101.6 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "dccd293c-b273-45aa-9cbd-e622602e4f7d")
 		)
@@ -14094,6 +15018,17 @@
 			)
 		)
 		(property "Description" "Single Pole Single Throw (SPST) switch"
+			(at 307.34 92.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" "C49352235"
 			(at 307.34 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -14208,6 +15143,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 154.94 119.38 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "8222b3e5-0f6b-4e7a-bf56-474e22277990")
 		)
@@ -14278,6 +15224,17 @@
 			)
 		)
 		(property "Description" "Single Pole Single Throw (SPST) switch"
+			(at 124.46 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" "C49352235"
 			(at 124.46 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -14360,6 +15317,17 @@
 			)
 		)
 		(property "Description" "Mounting Hole with connection"
+			(at 71.12 242.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
 			(at 71.12 242.57 0)
 			(hide yes)
 			(show_name no)
@@ -14462,6 +15430,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 269.24 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
+			(at 269.24 38.1 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14575,6 +15554,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 109.22 78.74 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "62e0d9c3-a9e1-48ae-9b4f-40dcc513fae6")
 		)
@@ -14679,6 +15669,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 269.24 119.38 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "67495cb6-23aa-4668-a772-3c2f91f1dc54")
 		)
@@ -14759,6 +15760,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" "C49352235"
+			(at 330.2 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "469371cf-40f7-47b7-a630-90e6c80e6ceb")
 		)
@@ -14829,6 +15841,17 @@
 			)
 		)
 		(property "Description" "Single Pole Single Throw (SPST) switch"
+			(at 215.9 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
 			(at 215.9 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -14943,6 +15966,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 223.52 38.1 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "f9a2b897-144f-4ad3-9748-362e3daf0dcc")
 		)
@@ -15038,6 +16072,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 360.68 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
+			(at 360.68 119.38 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15151,6 +16196,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 314.96 38.1 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "b62eb8ce-90b0-48c9-b477-683f5cf5f0c1")
 		)
@@ -15246,6 +16302,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 200.66 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
+			(at 200.66 38.1 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15359,6 +16426,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 337.82 38.1 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "58a3a032-db08-425f-bac0-316a6edfcb13")
 		)
@@ -15454,6 +16532,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 337.82 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
+			(at 337.82 78.74 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15567,6 +16656,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 40.64 78.74 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "f3b302e5-e1e7-48a5-9581-b27649838da0")
 		)
@@ -15647,6 +16747,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 261.62 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "d6e74c93-c158-496e-8b0e-fc56f19cdff4")
 		)
@@ -15717,6 +16828,17 @@
 			)
 		)
 		(property "Description" "Single Pole Single Throw (SPST) switch"
+			(at 55.88 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" "C49352235"
 			(at 55.88 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -15831,6 +16953,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 337.82 58.42 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "d6a0ad58-779e-4a87-b2cd-956521c31e05")
 		)
@@ -15903,6 +17036,17 @@
 			)
 		)
 		(property "Description" "Mounting Hole with connection"
+			(at 71.12 269.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
 			(at 71.12 269.24 0)
 			(hide yes)
 			(show_name no)
@@ -16014,6 +17158,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 269.24 58.42 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "ace7ca11-7784-4be4-950a-5e093dfdb174")
 		)
@@ -16094,6 +17249,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" "C49352235"
+			(at 330.2 92.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "93adce9b-ad57-47db-9773-0265b36f592b")
 		)
@@ -16164,6 +17330,17 @@
 			)
 		)
 		(property "Description" "Single Pole Single Throw (SPST) switch"
+			(at 307.34 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" "C49352235"
 			(at 307.34 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -16278,6 +17455,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 86.36 38.1 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "85c98093-c259-4540-803a-35b7fa8c9c49")
 		)
@@ -16373,6 +17561,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 154.94 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
+			(at 154.94 58.42 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16486,6 +17685,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 223.52 119.38 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "a03548df-344c-45f4-a9ca-f7c479b0d251")
 		)
@@ -16556,6 +17766,17 @@
 			)
 		)
 		(property "Description" "Single Pole Single Throw (SPST) switch"
+			(at 193.04 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" "C49352235"
 			(at 193.04 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -16670,6 +17891,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 109.22 99.06 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "4c9921cc-9e26-40ef-82a2-954cfe6a998d")
 		)
@@ -16742,6 +17974,17 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
+			(at 22.86 224.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
 			(at 22.86 224.79 0)
 			(hide yes)
 			(show_name no)
@@ -16850,6 +18093,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 246.38 99.06 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "c35c5b2c-2f20-41dc-9860-380f617f9595")
 		)
@@ -16932,6 +18186,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 71.12 251.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "856e1929-c46e-46bf-8fe0-f49884aa6e0e")
 		)
@@ -16999,6 +18264,17 @@
 			)
 		)
 		(property "Description" "Single Pole Single Throw (SPST) switch"
+			(at 261.62 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" "C49352235"
 			(at 261.62 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -17089,6 +18365,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 353.06 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "901dfe5b-123b-4dfd-8879-664e6e644ff9")
 		)
@@ -17169,6 +18456,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" "C49352235"
+			(at 238.76 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "d55950b4-d264-4150-8413-ffe7b32e2f0a")
 		)
@@ -17239,6 +18537,17 @@
 			)
 		)
 		(property "Description" "Single Pole Single Throw (SPST) switch"
+			(at 193.04 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" "C49352235"
 			(at 193.04 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -17353,6 +18662,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 177.8 119.38 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "fa1b8a0e-4901-4913-89f5-0c3fd5aec356")
 		)
@@ -17423,6 +18743,17 @@
 			)
 		)
 		(property "Description" "Single Pole Single Throw (SPST) switch"
+			(at 55.88 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" "C49352235"
 			(at 55.88 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -17537,6 +18868,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 200.66 78.74 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "67e65f0c-8ffb-4ecd-8800-62dea9f121dc")
 		)
@@ -17607,6 +18949,17 @@
 			)
 		)
 		(property "Description" "Single Pole Single Throw (SPST) switch"
+			(at 330.2 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" "C49352235"
 			(at 330.2 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -17721,6 +19074,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 132.08 99.06 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "2185bad3-32aa-410c-9077-cbce9c297d93")
 		)
@@ -17791,6 +19155,17 @@
 			)
 		)
 		(property "Description" "Single Pole Single Throw (SPST) switch"
+			(at 78.74 92.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" "C49352235"
 			(at 78.74 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -17905,6 +19280,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 269.24 99.06 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "eed548fd-3d53-4634-b293-313933a14435")
 		)
@@ -17975,6 +19361,17 @@
 			)
 		)
 		(property "Description" "Single Pole Single Throw (SPST) switch"
+			(at 215.9 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" "C49352235"
 			(at 215.9 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -18057,6 +19454,17 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
+			(at 22.86 247.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
 			(at 22.86 247.65 0)
 			(hide yes)
 			(show_name no)
@@ -18165,6 +19573,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 40.64 58.42 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "fea870cf-e8e4-41b1-90b6-c206795d64db")
 		)
@@ -18237,6 +19656,17 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
+			(at 22.86 240.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
 			(at 22.86 240.03 0)
 			(hide yes)
 			(show_name no)
@@ -18323,6 +19753,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 71.12 226.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "90230459-8c90-4f7f-9f65-172152a5dc6e")
 		)
@@ -18390,6 +19831,17 @@
 			)
 		)
 		(property "Description" "Single Pole Single Throw (SPST) switch"
+			(at 124.46 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" "C49352235"
 			(at 124.46 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -18480,6 +19932,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 284.48 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "4b08f9d3-e2c4-4e92-b1cb-9f490d17c364")
 		)
@@ -18550,6 +20013,17 @@
 			)
 		)
 		(property "Description" "Single Pole Single Throw (SPST) switch"
+			(at 238.76 92.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" "C49352235"
 			(at 238.76 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -18664,6 +20138,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 360.68 99.06 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "31faf61f-48eb-44f7-b907-b840aef42b6f")
 		)
@@ -18759,6 +20244,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 132.08 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
+			(at 132.08 78.74 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18872,6 +20368,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 86.36 78.74 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "3e11d7f7-049a-4a2c-8d80-113b2c0c9a5e")
 		)
@@ -18976,6 +20483,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 86.36 119.38 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "107a1faf-2f12-441d-964a-a405829e61cf")
 		)
@@ -19058,6 +20576,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 71.12 260.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "504020fd-7de8-4b14-b95f-c56e84b1a203")
 		)
@@ -19125,6 +20654,17 @@
 			)
 		)
 		(property "Description" "Single Pole Single Throw (SPST) switch"
+			(at 33.02 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" "C49352235"
 			(at 33.02 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -19239,6 +20779,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 40.64 119.38 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "c8bb5336-0d32-408c-bb41-69bc74d90ba3")
 		)
@@ -19321,6 +20872,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 71.12 234.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "d3a277ba-4077-4d58-952f-98f15541332b")
 		)
@@ -19390,6 +20952,17 @@
 			)
 		)
 		(property "Description" "Mounting Hole with connection"
+			(at 71.12 278.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
 			(at 71.12 278.13 0)
 			(hide yes)
 			(show_name no)
@@ -19501,6 +21074,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 63.5 38.1 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "46088b56-db58-4699-a217-7016bf2f47c4")
 		)
@@ -19573,6 +21157,17 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
+			(at 22.86 232.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
 			(at 22.86 232.41 0)
 			(hide yes)
 			(show_name no)
@@ -19657,6 +21252,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" "C49352235"
+			(at 33.02 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "0a42d44f-eee7-44fb-a406-1423a839c2a8")
 		)
@@ -19727,6 +21333,17 @@
 			)
 		)
 		(property "Description" "Single Pole Single Throw (SPST) switch"
+			(at 238.76 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
 			(at 238.76 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -19841,6 +21458,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 177.8 58.42 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "86091ad5-e5e2-4859-8a39-09525c1d2a3c")
 		)
@@ -19936,6 +21564,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 360.68 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
+			(at 360.68 78.74 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20049,6 +21688,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 154.94 78.74 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "34db9aa6-5298-4001-89cb-b8e05f5ce57f")
 		)
@@ -20129,6 +21779,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 238.76 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "62c2615d-5576-4f29-b79c-b8034466a9f3")
 		)
@@ -20199,6 +21860,17 @@
 			)
 		)
 		(property "Description" "Single Pole Single Throw (SPST) switch"
+			(at 170.18 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" "C49352235"
 			(at 170.18 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -20313,6 +21985,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 223.52 99.06 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "63bb4ba6-f70e-4128-9eee-7e8161fd5133")
 		)
@@ -20408,6 +22091,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 246.38 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
+			(at 246.38 38.1 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20521,6 +22215,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 109.22 38.1 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "43b1670b-0d0d-4b38-93ff-7d71195696fe")
 		)
@@ -20591,6 +22296,17 @@
 			)
 		)
 		(property "Description" "Single Pole Single Throw (SPST) switch"
+			(at 193.04 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" "C49352235"
 			(at 193.04 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -20705,6 +22421,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 200.66 99.06 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "86f6cb3d-2f72-4c96-9e8e-9c415604756e")
 		)
@@ -20775,6 +22502,17 @@
 			)
 		)
 		(property "Description" "Single Pole Single Throw (SPST) switch"
+			(at 78.74 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" "C49352235"
 			(at 78.74 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -20865,6 +22603,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" "C49352235"
+			(at 307.34 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "c4f80ec8-bfca-4cfe-a097-d2d2a9437c4d")
 		)
@@ -20935,6 +22684,17 @@
 			)
 		)
 		(property "Description" "Single Pole Single Throw (SPST) switch"
+			(at 170.18 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" "C49352235"
 			(at 170.18 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -21049,6 +22809,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 314.96 78.74 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "209e4f13-1189-49f3-a869-fa45501c6b89")
 		)
@@ -21153,6 +22924,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 292.1 58.42 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "e9f70c0d-aa62-43fe-b645-bd51d1e9d2e0")
 		)
@@ -21248,6 +23030,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 177.8 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
+			(at 177.8 99.06 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)

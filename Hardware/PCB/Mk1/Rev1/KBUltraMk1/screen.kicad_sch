@@ -484,6 +484,17 @@
 				)
 			)
 		)
+		(property "JLC Part#" ""
+			(at 121.92 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "9"
 			(uuid "f2d22faa-648e-4f95-b8b1-3345fd37182c")
 		)
