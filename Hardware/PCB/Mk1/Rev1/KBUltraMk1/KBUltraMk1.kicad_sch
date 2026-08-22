@@ -5,6 +5,10 @@
 	(uuid "b5c66110-c4bc-44b7-b74f-0bc521af7455")
 	(paper "A4")
 	(lib_symbols)
+	(no_connect
+		(at 226.06 88.9)
+		(uuid "ba9b3deb-0f69-4491-8a82-1fda7a35c9a3")
+	)
 	(wire
 		(pts
 			(xy 228.6 86.36) (xy 86.36 86.36)
@@ -34,6 +38,16 @@
 			(type default)
 		)
 		(uuid "3bd68362-b957-41ee-925c-84c8666570d5")
+	)
+	(wire
+		(pts
+			(xy 226.06 88.9) (xy 228.6 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4337c3b5-2f45-4592-939f-91c57167607d")
 	)
 	(bus
 		(pts

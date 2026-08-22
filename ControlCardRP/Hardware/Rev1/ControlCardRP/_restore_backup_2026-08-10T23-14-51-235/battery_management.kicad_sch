@@ -1260,7 +1260,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Switch:SW_SPDT"
+		(symbol "Switch:SW_SPST"
 			(pin_names
 				(offset 0)
 				(hide yes)
@@ -1271,7 +1271,7 @@
 			(in_pos_files yes)
 			(duplicate_pin_numbers_are_jumpers no)
 			(property "Reference" "SW"
-				(at 0 5.08 0)
+				(at 0 3.175 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(effects
@@ -1280,8 +1280,8 @@
 					)
 				)
 			)
-			(property "Value" "SW_SPDT"
-				(at 0 -5.08 0)
+			(property "Value" "SW_SPST"
+				(at 0 -2.54 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(effects
@@ -1302,17 +1302,6 @@
 				)
 			)
 			(property "Datasheet" ""
-				(at 0 -7.62 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Description" "Switch, single pole double throw"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1323,7 +1312,7 @@
 					)
 				)
 			)
-			(property "ki_keywords" "switch single-pole double-throw spdt ON-ON"
+			(property "Description" "Single Pole Single Throw (SPST) switch"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1334,10 +1323,21 @@
 					)
 				)
 			)
-			(symbol "SW_SPDT_0_1"
+			(property "ki_keywords" "switch lever"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "SW_SPST_0_0"
 				(circle
 					(center -2.032 0)
-					(radius 0.4572)
+					(radius 0.508)
 					(stroke
 						(width 0)
 						(type default)
@@ -1348,7 +1348,7 @@
 				)
 				(polyline
 					(pts
-						(xy -1.651 0.254) (xy 1.651 2.286)
+						(xy -1.524 0.254) (xy 1.524 1.778)
 					)
 					(stroke
 						(width 0)
@@ -1359,19 +1359,8 @@
 					)
 				)
 				(circle
-					(center 2.032 2.54)
-					(radius 0.4572)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 2.032 -2.54)
-					(radius 0.4572)
+					(center 2.032 0)
+					(radius 0.508)
 					(stroke
 						(width 0)
 						(type default)
@@ -1381,20 +1370,9 @@
 					)
 				)
 			)
-			(symbol "SW_SPDT_1_1"
-				(rectangle
-					(start -3.175 3.81)
-					(end 3.175 -3.81)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
+			(symbol "SW_SPST_1_1"
 				(pin passive line
-					(at 5.08 2.54 180)
+					(at -5.08 0 0)
 					(length 2.54)
 					(name "A"
 						(effects
@@ -1412,7 +1390,7 @@
 					)
 				)
 				(pin passive line
-					(at -5.08 0 0)
+					(at 5.08 0 180)
 					(length 2.54)
 					(name "B"
 						(effects
@@ -1422,24 +1400,6 @@
 						)
 					)
 					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 5.08 -2.54 180)
-					(length 2.54)
-					(name "C"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1973,16 +1933,6 @@
 	)
 	(wire
 		(pts
-			(xy 54.61 78.74) (xy 54.61 76.2)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "17a79f52-b809-411e-a50e-ec1cdcd24dab")
-	)
-	(wire
-		(pts
 			(xy 194.31 92.71) (xy 194.31 77.47)
 		)
 		(stroke
@@ -2173,7 +2123,7 @@
 	)
 	(wire
 		(pts
-			(xy 52.07 71.12) (xy 54.61 71.12)
+			(xy 52.07 73.66) (xy 54.61 73.66)
 		)
 		(stroke
 			(width 0)
@@ -2723,16 +2673,6 @@
 	)
 	(wire
 		(pts
-			(xy 54.61 76.2) (xy 52.07 76.2)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "eeb6e6f3-212a-47a5-8f18-c735f6caeebe")
-	)
-	(wire
-		(pts
 			(xy 153.67 72.39) (xy 151.13 72.39)
 		)
 		(stroke
@@ -2782,7 +2722,7 @@
 		(uuid "14d5bfcc-0b45-43fc-9856-66ba89970ccc")
 	)
 	(label "OUT"
-		(at 54.61 71.12 0)
+		(at 54.61 73.66 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6022,7 +5962,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Switch:SW_SPDT")
+		(lib_id "Switch:SW_SPST")
 		(at 46.99 73.66 0)
 		(unit 1)
 		(body_style 1)
@@ -6034,7 +5974,7 @@
 		(fields_autoplaced yes)
 		(uuid "5c6078df-d5dc-4bf5-8db7-3db36554135c")
 		(property "Reference" "SW1"
-			(at 46.99 64.77 0)
+			(at 46.99 67.31 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6043,8 +5983,8 @@
 				)
 			)
 		)
-		(property "Value" "SW_SPDT"
-			(at 46.99 67.31 0)
+		(property "Value" "SW_SPST"
+			(at 46.99 69.85 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6065,7 +6005,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 46.99 81.28 0)
+			(at 46.99 73.66 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6075,7 +6015,7 @@
 				)
 			)
 		)
-		(property "Description" "Switch, single pole double throw"
+		(property "Description" "Single Pole Single Throw (SPST) switch"
 			(at 46.99 73.66 0)
 			(hide yes)
 			(show_name no)
@@ -6168,9 +6108,6 @@
 		)
 		(pin "1"
 			(uuid "bbebdc5f-5a24-4e47-9ff8-a7594c737bf3")
-		)
-		(pin "3"
-			(uuid "4db7e3e0-0110-4807-8655-b9e6e6000e98")
 		)
 		(instances
 			(project "ControlCardRP"
@@ -6498,7 +6435,8 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x02_Socket")
-		(at 186.69 95.25 180)
+		(at 186.69 92.71 0)
+		(mirror y)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6508,7 +6446,7 @@
 		(dnp no)
 		(uuid "69550629-e2f3-45ff-8784-81bf816ff118")
 		(property "Reference" "J4"
-			(at 184.15 87.376 0)
+			(at 184.658 88.9 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6518,7 +6456,7 @@
 			)
 		)
 		(property "Value" "JST_PK BATTERY"
-			(at 184.912 90.17 0)
+			(at 184.912 97.79 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6528,7 +6466,7 @@
 			)
 		)
 		(property "Footprint" "Connector_JST:JST_PH_S2B-PH-K_1x02_P2.00mm_Horizontal"
-			(at 186.69 95.25 0)
+			(at 186.69 92.71 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6539,7 +6477,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 186.69 95.25 0)
+			(at 186.69 92.71 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6550,7 +6488,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated"
-			(at 186.69 95.25 0)
+			(at 186.69 92.71 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6561,7 +6499,7 @@
 			)
 		)
 		(property "LCSC Part #" ""
-			(at 186.69 95.25 0)
+			(at 186.69 92.71 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6572,7 +6510,7 @@
 			)
 		)
 		(property "KLC_S3.3" ""
-			(at 186.69 95.25 0)
+			(at 186.69 92.71 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6583,7 +6521,7 @@
 			)
 		)
 		(property "KLC_S4.1" ""
-			(at 186.69 95.25 0)
+			(at 186.69 92.71 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6594,7 +6532,7 @@
 			)
 		)
 		(property "KLC_S4.2_DVDD" ""
-			(at 186.69 95.25 0)
+			(at 186.69 92.71 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6605,7 +6543,7 @@
 			)
 		)
 		(property "KLC_S4.2_VCC" ""
-			(at 186.69 95.25 0)
+			(at 186.69 92.71 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6616,7 +6554,7 @@
 			)
 		)
 		(property "KLC_S4.2_VREG_LX" ""
-			(at 186.69 95.25 0)
+			(at 186.69 92.71 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6627,7 +6565,7 @@
 			)
 		)
 		(property "KLC_S4.4" ""
-			(at 186.69 95.25 0)
+			(at 186.69 92.71 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7193,84 +7131,6 @@
 			(project "ControlCardRP"
 				(path "/a4806da1-c544-4ae5-b204-32c833e6ad2b/632eec67-69c0-4c64-a789-34cbb910d8dd"
 					(reference "#PWR022")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 54.61 78.74 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "a5dc2c6e-8421-4651-b9b5-e09a86681e24")
-		(property "Reference" "#PWR056"
-			(at 54.61 85.09 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 54.61 83.82 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 54.61 78.74 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 54.61 78.74 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 54.61 78.74 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "33091067-5bbc-4aca-8193-fcf6c2a5111a")
-		)
-		(instances
-			(project "ControlCardRP"
-				(path "/a4806da1-c544-4ae5-b204-32c833e6ad2b/632eec67-69c0-4c64-a789-34cbb910d8dd"
-					(reference "#PWR056")
 					(unit 1)
 				)
 			)

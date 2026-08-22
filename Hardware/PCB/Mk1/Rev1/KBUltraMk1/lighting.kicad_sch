@@ -857,12 +857,6 @@
 		(uuid "0666251e-1dce-48b5-86f2-186dc1dbe7be")
 	)
 	(junction
-		(at 140.97 256.54)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "0714d58b-4ea5-4f35-944e-66fc212ec675")
-	)
-	(junction
 		(at 55.88 129.54)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -963,12 +957,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "170080da-3a45-4812-95e7-e603b12ff75b")
-	)
-	(junction
-		(at 55.88 256.54)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "1788a46a-b85e-4c29-b98a-0ff7412fea95")
 	)
 	(junction
 		(at 140.97 198.12)
@@ -1247,12 +1235,6 @@
 		(uuid "43ea7555-a76c-482b-8032-aab8c30d6128")
 	)
 	(junction
-		(at 83.82 259.08)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "46fa1737-1218-4f36-8691-164190c75a16")
-	)
-	(junction
 		(at 113.03 129.54)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1301,18 +1283,6 @@
 		(uuid "4da9f65e-b101-4fd6-93be-24d8a7ddc26e")
 	)
 	(junction
-		(at 140.97 279.4)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "514da812-9aab-491a-bd4f-da8aec75a5aa")
-	)
-	(junction
-		(at 198.12 256.54)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "55a113fc-19b0-4825-976d-bd373141e6bc")
-	)
-	(junction
 		(at 227.33 129.54)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1335,12 +1305,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "58e45bd3-89e3-4ae6-b72f-f4b276028333")
-	)
-	(junction
-		(at 170.18 279.4)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "591796a8-5acd-43d5-82ab-c5ac7f04ad72")
 	)
 	(junction
 		(at 256.54 48.26)
@@ -1443,12 +1407,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6bec8df0-6335-49d2-9941-23676babdfdd")
-	)
-	(junction
-		(at 198.12 279.4)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "6c9c7b3a-703f-4205-8b09-b6427e85d3bd")
 	)
 	(junction
 		(at 284.48 200.66)
@@ -1559,12 +1517,6 @@
 		(uuid "7b46aea0-0f36-4257-a945-5f8d21bee74d")
 	)
 	(junction
-		(at 227.33 259.08)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "7e34d344-c808-460f-a9e1-e68a088ae55a")
-	)
-	(junction
 		(at 313.69 170.18)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1655,12 +1607,6 @@
 		(uuid "89c401e2-7647-4c8c-b3bd-8598b65b6989")
 	)
 	(junction
-		(at 83.82 279.4)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "8ee587e1-ce67-4f74-b87a-747ff7a010e2")
-	)
-	(junction
 		(at 55.88 220.98)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1695,18 +1641,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "99021278-2d9f-4e1a-87d0-af9839ae674f")
-	)
-	(junction
-		(at 198.12 259.08)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "997d2e63-eef5-4df3-8cd0-87cea8c9c520")
-	)
-	(junction
-		(at 170.18 259.08)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "9993f048-e771-40bb-8893-dd01e0d53ec2")
 	)
 	(junction
 		(at 256.54 15.24)
@@ -1889,18 +1823,6 @@
 		(uuid "bb27e662-b8d8-4505-ad58-3b81087381b6")
 	)
 	(junction
-		(at 83.82 256.54)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "bde7567e-3cf8-4cf3-b24d-22d1455bcfdb")
-	)
-	(junction
-		(at 111.76 279.4)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "bee89cad-901a-4c59-bc12-e0d4632f8e18")
-	)
-	(junction
 		(at 227.33 48.26)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1955,12 +1877,6 @@
 		(uuid "cd42fa49-3f99-4c43-b641-aa6fe259e02c")
 	)
 	(junction
-		(at 170.18 276.86)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "cfa333fa-ed81-4c22-bcba-62440a6957ee")
-	)
-	(junction
 		(at 199.39 167.64)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1995,12 +1911,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d3c9e0ed-8a26-4e4d-a3e6-117666ecc50e")
-	)
-	(junction
-		(at 111.76 256.54)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d43da1cc-c950-4510-a421-09d981586a8b")
 	)
 	(junction
 		(at 284.48 190.5)
@@ -2075,12 +1985,6 @@
 		(uuid "ded63a82-88cb-445e-b197-6cc98ce48ecf")
 	)
 	(junction
-		(at 170.18 256.54)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e0a3a49b-78fe-403d-85b4-1f647a5f171f")
-	)
-	(junction
 		(at 170.18 78.74)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2141,12 +2045,6 @@
 		(uuid "eeec7228-15cc-426f-938a-644d315f5dad")
 	)
 	(junction
-		(at 55.88 279.4)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ef587d3d-6fa9-45b4-a751-3c322d1813db")
-	)
-	(junction
 		(at 113.03 160.02)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2163,12 +2061,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f5c384e6-13dc-4697-a93d-347251bd11c1")
-	)
-	(junction
-		(at 140.97 259.08)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "f6038743-9736-4c7b-a125-a930a6dd88e6")
 	)
 	(junction
 		(at 83.82 38.1)
@@ -2193,12 +2085,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f9db0fea-17ca-4ffa-98a9-3a6e49657eea")
-	)
-	(junction
-		(at 111.76 259.08)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "fa2cbcec-5d38-4782-96cb-d28e17907343")
 	)
 	(junction
 		(at 113.03 139.7)
@@ -2267,16 +2153,6 @@
 			(type default)
 		)
 		(uuid "0082e04e-ed2d-45cb-9b4e-44ee6b052638")
-	)
-	(wire
-		(pts
-			(xy 91.44 269.24) (xy 104.14 269.24)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0083f6ba-ce03-4dda-97ff-64368bb92fa9")
 	)
 	(wire
 		(pts
@@ -2910,16 +2786,6 @@
 	)
 	(wire
 		(pts
-			(xy 198.12 259.08) (xy 198.12 261.62)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "118ea4dc-eca8-4127-aa65-b9d27961c992")
-	)
-	(wire
-		(pts
 			(xy 128.27 17.78) (xy 125.73 17.78)
 		)
 		(stroke
@@ -2937,16 +2803,6 @@
 			(type default)
 		)
 		(uuid "14497651-aca6-4084-b78b-b95e330a8aa2")
-	)
-	(wire
-		(pts
-			(xy 140.97 256.54) (xy 140.97 259.08)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "146cbaf6-e133-4524-9380-d3f2da426a14")
 	)
 	(wire
 		(pts
@@ -3140,16 +2996,6 @@
 	)
 	(wire
 		(pts
-			(xy 83.82 276.86) (xy 83.82 279.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1cad5f17-8299-462d-9988-89d4e7a12b61")
-	)
-	(wire
-		(pts
 			(xy 299.72 170.18) (xy 297.18 170.18)
 		)
 		(stroke
@@ -3330,16 +3176,6 @@
 	)
 	(wire
 		(pts
-			(xy 140.97 256.54) (xy 198.12 256.54)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2309a4fe-b5d5-4d48-99f2-1e89cb5d7200")
-	)
-	(wire
-		(pts
 			(xy 170.18 45.72) (xy 199.39 45.72)
 		)
 		(stroke
@@ -3347,16 +3183,6 @@
 			(type default)
 		)
 		(uuid "23861940-7f52-4529-ae80-a2e39f17d849")
-	)
-	(wire
-		(pts
-			(xy 170.18 276.86) (xy 168.91 276.86)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "23927701-b8c8-4c42-83a8-eba27698c6d8")
 	)
 	(wire
 		(pts
@@ -3377,16 +3203,6 @@
 			(type default)
 		)
 		(uuid "23d461cf-c515-45c0-a306-c48b8be03009")
-	)
-	(wire
-		(pts
-			(xy 116.84 259.08) (xy 111.76 259.08)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "23dbc7c0-4552-4daf-add4-358968ddd10d")
 	)
 	(wire
 		(pts
@@ -3740,16 +3556,6 @@
 	)
 	(wire
 		(pts
-			(xy 185.42 261.62) (xy 185.42 259.08)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2e4dc9cb-cbd9-4383-bc3c-c50aaf2bbe13")
-	)
-	(wire
-		(pts
 			(xy 113.03 35.56) (xy 113.03 38.1)
 		)
 		(stroke
@@ -3900,16 +3706,6 @@
 	)
 	(wire
 		(pts
-			(xy 198.12 279.4) (xy 227.33 279.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "35243b8e-5820-4154-ae73-98c6a9592741")
-	)
-	(wire
-		(pts
 			(xy 170.18 160.02) (xy 199.39 160.02)
 		)
 		(stroke
@@ -3937,16 +3733,6 @@
 			(type default)
 		)
 		(uuid "357422ea-d81d-4b95-b90a-c5b3afbbc2b7")
-	)
-	(wire
-		(pts
-			(xy 83.82 259.08) (xy 83.82 261.62)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "36362b82-ae14-4935-a595-f9ee21ec1a44")
 	)
 	(wire
 		(pts
@@ -4000,26 +3786,6 @@
 	)
 	(wire
 		(pts
-			(xy 127 259.08) (xy 124.46 259.08)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "37d9908e-7eec-4202-bd85-bde026c1c174")
-	)
-	(wire
-		(pts
-			(xy 55.88 256.54) (xy 83.82 256.54)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "37de6e92-f440-4327-8274-affac5723d8a")
-	)
-	(wire
-		(pts
 			(xy 199.39 170.18) (xy 199.39 172.72)
 		)
 		(stroke
@@ -4067,16 +3833,6 @@
 			(type default)
 		)
 		(uuid "3a248789-bce7-4ea5-a6f4-d12bab286249")
-	)
-	(wire
-		(pts
-			(xy 198.12 256.54) (xy 198.12 259.08)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3b065322-26cd-4724-bbb1-10bdc6b1a505")
 	)
 	(wire
 		(pts
@@ -4450,16 +4206,6 @@
 	)
 	(wire
 		(pts
-			(xy 83.82 279.4) (xy 111.76 279.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "47dd77d4-806b-4ee9-bab5-7b0f7089bbea")
-	)
-	(wire
-		(pts
 			(xy 227.33 111.76) (xy 227.33 109.22)
 		)
 		(stroke
@@ -4547,16 +4293,6 @@
 			(type default)
 		)
 		(uuid "4af92c49-5add-42bf-a89d-221ce0d7f6c2")
-	)
-	(wire
-		(pts
-			(xy 170.18 259.08) (xy 175.26 259.08)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4b446058-83c3-42dc-a9e2-92fa84af7a78")
 	)
 	(wire
 		(pts
@@ -4930,16 +4666,6 @@
 	)
 	(wire
 		(pts
-			(xy 170.18 279.4) (xy 198.12 279.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "57f5e109-ae62-4323-81e1-0b140c4496a9")
-	)
-	(wire
-		(pts
 			(xy 227.33 15.24) (xy 256.54 15.24)
 		)
 		(stroke
@@ -5027,26 +4753,6 @@
 			(type default)
 		)
 		(uuid "5a7fa2ba-c74e-48ff-b15d-9202c22c6275")
-	)
-	(wire
-		(pts
-			(xy 111.76 256.54) (xy 140.97 256.54)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5abc3265-4629-4f23-a6a3-e3364d834ece")
-	)
-	(wire
-		(pts
-			(xy 242.57 261.62) (xy 242.57 259.08)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5ace9d66-a477-4e2c-a449-218ff87fb923")
 	)
 	(wire
 		(pts
@@ -5180,16 +4886,6 @@
 	)
 	(wire
 		(pts
-			(xy 127 261.62) (xy 127 259.08)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6076fce4-f8b5-48d7-a7d1-c5b8c76aa1f9")
-	)
-	(wire
-		(pts
 			(xy 256.54 17.78) (xy 256.54 20.32)
 		)
 		(stroke
@@ -5300,16 +4996,6 @@
 	)
 	(wire
 		(pts
-			(xy 111.76 279.4) (xy 111.76 276.86)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "66cf64ea-dcb8-48b0-9362-0c627b125f70")
-	)
-	(wire
-		(pts
 			(xy 170.18 99.06) (xy 170.18 96.52)
 		)
 		(stroke
@@ -5400,16 +5086,6 @@
 	)
 	(wire
 		(pts
-			(xy 170.18 279.4) (xy 170.18 276.86)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6bdd0c2f-6c93-4f82-afe1-6620db95577d")
-	)
-	(wire
-		(pts
 			(xy 321.31 119.38) (xy 340.36 119.38)
 		)
 		(stroke
@@ -5437,16 +5113,6 @@
 			(type default)
 		)
 		(uuid "6cac54c7-5855-40ef-a201-3e3cc944eccd")
-	)
-	(wire
-		(pts
-			(xy 140.97 279.4) (xy 140.97 276.86)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6ce4dac8-ee3a-49f3-9ec1-ac883e088556")
 	)
 	(wire
 		(pts
@@ -5600,26 +5266,6 @@
 	)
 	(wire
 		(pts
-			(xy 203.2 259.08) (xy 198.12 259.08)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "72146229-207e-4f85-8e1d-282f09d756e8")
-	)
-	(wire
-		(pts
-			(xy 83.82 256.54) (xy 111.76 256.54)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "721d019a-4453-483b-9af8-51555ea2a926")
-	)
-	(wire
-		(pts
 			(xy 242.57 142.24) (xy 242.57 139.7)
 		)
 		(stroke
@@ -5637,16 +5283,6 @@
 			(type default)
 		)
 		(uuid "72682179-6539-44ad-a33d-3cf12fc73fd1")
-	)
-	(wire
-		(pts
-			(xy 148.59 269.24) (xy 162.56 269.24)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "726f4772-7394-42ff-892b-4b3d6452d36c")
 	)
 	(wire
 		(pts
@@ -5747,16 +5383,6 @@
 			(type default)
 		)
 		(uuid "76b432fb-7140-417f-b7d4-60e5358755e1")
-	)
-	(wire
-		(pts
-			(xy 156.21 259.08) (xy 153.67 259.08)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "76f1c333-4966-4114-8327-94d023d627b0")
 	)
 	(wire
 		(pts
@@ -5900,16 +5526,6 @@
 	)
 	(wire
 		(pts
-			(xy 55.88 279.4) (xy 83.82 279.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7d880e10-92e7-47fd-8c34-fdf5d6326c0d")
-	)
-	(wire
-		(pts
 			(xy 328.93 48.26) (xy 326.39 48.26)
 		)
 		(stroke
@@ -6030,16 +5646,6 @@
 	)
 	(wire
 		(pts
-			(xy 83.82 259.08) (xy 83.82 256.54)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "808149ae-67fb-4965-b33f-781e488aa86f")
-	)
-	(wire
-		(pts
 			(xy 27.94 149.86) (xy 48.26 149.86)
 		)
 		(stroke
@@ -6110,16 +5716,6 @@
 	)
 	(wire
 		(pts
-			(xy 242.57 259.08) (xy 240.03 259.08)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "83c2c5c8-2274-4092-aa01-8d1e76f419ef")
-	)
-	(wire
-		(pts
 			(xy 83.82 198.12) (xy 113.03 198.12)
 		)
 		(stroke
@@ -6157,16 +5753,6 @@
 			(type default)
 		)
 		(uuid "844f38a1-52e2-475b-a9f2-36e49de48ea6")
-	)
-	(wire
-		(pts
-			(xy 227.33 259.08) (xy 227.33 261.62)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "84bad68a-aad6-4c72-ad1d-f7d0147bdbe6")
 	)
 	(wire
 		(pts
@@ -6320,16 +5906,6 @@
 	)
 	(wire
 		(pts
-			(xy 140.97 259.08) (xy 140.97 261.62)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "88b58f47-d9f3-46cf-a370-8e73dfed08bc")
-	)
-	(wire
-		(pts
 			(xy 55.88 68.58) (xy 83.82 68.58)
 		)
 		(stroke
@@ -6400,16 +5976,6 @@
 	)
 	(wire
 		(pts
-			(xy 111.76 279.4) (xy 140.97 279.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8b08d896-83ac-4c14-9b52-b4ffa77cd8d2")
-	)
-	(wire
-		(pts
 			(xy 175.26 48.26) (xy 170.18 48.26)
 		)
 		(stroke
@@ -6447,16 +6013,6 @@
 			(type default)
 		)
 		(uuid "8bdd2ce0-4c88-4cc6-a377-c87c4b2917d5")
-	)
-	(wire
-		(pts
-			(xy 111.76 256.54) (xy 111.76 259.08)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8befa6cf-42a4-4b0c-bbb4-553d4a9109f6")
 	)
 	(wire
 		(pts
@@ -6520,16 +6076,6 @@
 	)
 	(wire
 		(pts
-			(xy 170.18 259.08) (xy 170.18 261.62)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8de51f4c-b632-4c6a-95fc-3a30d9a32d5a")
-	)
-	(wire
-		(pts
 			(xy 284.48 78.74) (xy 284.48 81.28)
 		)
 		(stroke
@@ -6587,16 +6133,6 @@
 			(type default)
 		)
 		(uuid "908d2f19-ee6c-405c-a123-533b7226c096")
-	)
-	(wire
-		(pts
-			(xy 177.8 269.24) (xy 190.5 269.24)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "90a4e212-df4b-4b48-91ed-aa948dafac99")
 	)
 	(wire
 		(pts
@@ -6787,16 +6323,6 @@
 			(type default)
 		)
 		(uuid "967e0e7b-77f2-42e1-af3b-5de2a122585d")
-	)
-	(wire
-		(pts
-			(xy 170.18 256.54) (xy 170.18 259.08)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "96cca1c1-7fb2-4351-805f-1daeb82d1347")
 	)
 	(wire
 		(pts
@@ -7010,7 +6536,7 @@
 	)
 	(wire
 		(pts
-			(xy 259.08 269.24) (xy 269.24 269.24)
+			(xy 100.33 269.24) (xy 110.49 269.24)
 		)
 		(stroke
 			(width 0)
@@ -7067,16 +6593,6 @@
 			(type default)
 		)
 		(uuid "a21ff4fc-bb1f-4965-8cb5-94153626b38b")
-	)
-	(wire
-		(pts
-			(xy 198.12 276.86) (xy 198.12 279.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a25cea6f-c64c-41d4-8cbc-9806cfd5e13a")
 	)
 	(wire
 		(pts
@@ -7320,16 +6836,6 @@
 	)
 	(wire
 		(pts
-			(xy 146.05 259.08) (xy 140.97 259.08)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "aa66488b-011b-4508-b71c-1e117e423df8")
-	)
-	(wire
-		(pts
 			(xy 227.33 220.98) (xy 256.54 220.98)
 		)
 		(stroke
@@ -7377,16 +6883,6 @@
 			(type default)
 		)
 		(uuid "ad222975-ba84-499f-85a5-520558122ab3")
-	)
-	(wire
-		(pts
-			(xy 198.12 256.54) (xy 227.33 256.54)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ad2fde78-5f03-4019-979b-70c72a28d2b5")
 	)
 	(wire
 		(pts
@@ -7517,16 +7013,6 @@
 			(type default)
 		)
 		(uuid "b1a7327c-63c3-4f85-ac80-3fa8dd0d627d")
-	)
-	(wire
-		(pts
-			(xy 111.76 259.08) (xy 111.76 261.62)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b445b2e6-03fd-4cfa-aef0-ff9139ad4b06")
 	)
 	(wire
 		(pts
@@ -7780,16 +7266,6 @@
 	)
 	(wire
 		(pts
-			(xy 227.33 256.54) (xy 227.33 259.08)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bb65dca6-8cb9-4d12-a3bc-8f5a22ef8c3e")
-	)
-	(wire
-		(pts
 			(xy 318.77 109.22) (xy 313.69 109.22)
 		)
 		(stroke
@@ -7897,16 +7373,6 @@
 			(type default)
 		)
 		(uuid "be6e7fd6-20f3-40cd-a871-8620c41268f7")
-	)
-	(wire
-		(pts
-			(xy 213.36 261.62) (xy 213.36 259.08)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "be91831c-e221-4fe1-b541-7aebde1f63ba")
 	)
 	(wire
 		(pts
@@ -8550,16 +8016,6 @@
 	)
 	(wire
 		(pts
-			(xy 140.97 279.4) (xy 170.18 279.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d22be81f-ddce-438c-afea-8c816d16dec5")
-	)
-	(wire
-		(pts
 			(xy 340.36 58.42) (xy 340.36 72.39)
 		)
 		(stroke
@@ -8700,16 +8156,6 @@
 	)
 	(wire
 		(pts
-			(xy 83.82 259.08) (xy 88.9 259.08)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d6024312-1397-42ca-bb9b-14e1f2aaacc6")
-	)
-	(wire
-		(pts
 			(xy 113.03 78.74) (xy 118.11 78.74)
 		)
 		(stroke
@@ -8800,7 +8246,7 @@
 	)
 	(wire
 		(pts
-			(xy 63.5 269.24) (xy 76.2 269.24)
+			(xy 63.5 269.24) (xy 92.71 269.24)
 		)
 		(stroke
 			(width 0)
@@ -8950,16 +8396,6 @@
 	)
 	(wire
 		(pts
-			(xy 205.74 269.24) (xy 219.71 269.24)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "dd337773-5a83-42f2-8103-7bc923e9b685")
-	)
-	(wire
-		(pts
 			(xy 284.48 167.64) (xy 284.48 170.18)
 		)
 		(stroke
@@ -8997,16 +8433,6 @@
 			(type default)
 		)
 		(uuid "dea4d595-f52e-4ee2-b609-a72f6d0406b0")
-	)
-	(wire
-		(pts
-			(xy 227.33 276.86) (xy 227.33 279.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "dec7628e-a022-4810-a2aa-09e04f7f2fe9")
 	)
 	(wire
 		(pts
@@ -9100,16 +8526,6 @@
 	)
 	(wire
 		(pts
-			(xy 156.21 261.62) (xy 156.21 259.08)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e31c191c-3682-47c7-81f5-b2199ed769ce")
-	)
-	(wire
-		(pts
 			(xy 232.41 200.66) (xy 227.33 200.66)
 		)
 		(stroke
@@ -9127,16 +8543,6 @@
 			(type default)
 		)
 		(uuid "e3c23b24-35eb-4b79-abc7-1613c08a837b")
-	)
-	(wire
-		(pts
-			(xy 232.41 259.08) (xy 227.33 259.08)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e3f396b6-35d5-4879-9acd-4f24dd910f54")
 	)
 	(wire
 		(pts
@@ -9187,16 +8593,6 @@
 			(type default)
 		)
 		(uuid "e5af6fca-8fa3-4506-b647-0ffbf85c30b3")
-	)
-	(wire
-		(pts
-			(xy 119.38 269.24) (xy 133.35 269.24)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e5c03a68-a9f8-4c00-887b-031fec001e59")
 	)
 	(wire
 		(pts
@@ -9690,16 +9086,6 @@
 	)
 	(wire
 		(pts
-			(xy 185.42 259.08) (xy 182.88 259.08)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f52f9f3c-09f1-48e1-b799-f9a983a03a8f")
-	)
-	(wire
-		(pts
 			(xy 214.63 172.72) (xy 214.63 170.18)
 		)
 		(stroke
@@ -9777,16 +9163,6 @@
 			(type default)
 		)
 		(uuid "f5e35762-0b24-498d-9f65-fbedb725c915")
-	)
-	(wire
-		(pts
-			(xy 99.06 261.62) (xy 99.06 259.08)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f5f3c5b5-517c-4bce-9d43-09f9fb615389")
 	)
 	(wire
 		(pts
@@ -9900,16 +9276,6 @@
 	)
 	(wire
 		(pts
-			(xy 234.95 269.24) (xy 251.46 269.24)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f8ed711a-b132-401a-9d03-547963ada583")
-	)
-	(wire
-		(pts
 			(xy 40.64 15.24) (xy 55.88 15.24)
 		)
 		(stroke
@@ -9950,16 +9316,6 @@
 	)
 	(wire
 		(pts
-			(xy 213.36 259.08) (xy 210.82 259.08)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fad365fb-c5dc-4062-9e60-4eede8a36c81")
-	)
-	(wire
-		(pts
 			(xy 227.33 15.24) (xy 227.33 17.78)
 		)
 		(stroke
@@ -9997,16 +9353,6 @@
 			(type default)
 		)
 		(uuid "fbfc3d44-b0d2-4dd8-a599-5fcaab2661e1")
-	)
-	(wire
-		(pts
-			(xy 99.06 259.08) (xy 96.52 259.08)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fc3f5843-bde6-4970-95d0-1a25ed8a1d8b")
 	)
 	(wire
 		(pts
@@ -10100,7 +9446,7 @@
 	)
 	(hierarchical_label "LED_DOUT"
 		(shape input)
-		(at 269.24 269.24 0)
+		(at 110.49 269.24 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10295,104 +9641,6 @@
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
 					(reference "C243")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "LED:SK6812MINI-E")
-		(at 227.33 269.24 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "077fd877-f060-46cf-b557-54d811539d5a")
-		(property "Reference" "LED288"
-			(at 241.3 270.764 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SK6812MINI-E"
-			(at 241.3 273.304 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
-			(at 228.6 276.86 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C5149201.pdf"
-			(at 229.87 278.765 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Description" "RGB LED with integrated controller"
-			(at 227.33 269.24 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLC Part#" ""
-			(at 227.33 269.24 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "fec0e928-2936-43f8-8aab-387e6a0ea8b9")
-		)
-		(pin "3"
-			(uuid "aeac96d0-c714-4ff8-941a-a99c44bb31ff")
-		)
-		(pin "1"
-			(uuid "91c770a5-3538-47da-990d-af4460d4b69d")
-		)
-		(pin "4"
-			(uuid "0633ce98-58a0-4b32-86d8-5ebfe6882380")
-		)
-		(instances
-			(project "KBUltraMk1"
-				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "LED288")
 					(unit 1)
 				)
 			)
@@ -11019,7 +10267,7 @@
 	)
 	(symbol
 		(lib_id "LED:SK6812MINI-E")
-		(at 55.88 241.3 0)
+		(at 83.82 241.3 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -11029,7 +10277,7 @@
 		(dnp no)
 		(uuid "0aeffb55-ec8e-475d-84fa-ba72c7b352a4")
 		(property "Reference" "LED271"
-			(at 70.612 242.57 0)
+			(at 98.552 242.57 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11039,7 +10287,7 @@
 			)
 		)
 		(property "Value" "SK6812MINI-E"
-			(at 70.612 245.11 0)
+			(at 98.552 245.11 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11049,7 +10297,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
-			(at 57.15 248.92 0)
+			(at 85.09 248.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11061,7 +10309,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.lcsc.com/datasheet/C5149201.pdf"
-			(at 58.42 250.825 0)
+			(at 86.36 250.825 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11073,7 +10321,7 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
-			(at 55.88 241.3 0)
+			(at 83.82 241.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11084,7 +10332,7 @@
 			)
 		)
 		(property "JLC Part#" ""
-			(at 55.88 241.3 0)
+			(at 83.82 241.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12058,84 +11306,6 @@
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
 					(reference "C273")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 156.21 261.62 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "11e034f6-3630-4f17-9016-f793c0a8b2bb")
-		(property "Reference" "#PWR0302"
-			(at 156.21 267.97 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 156.21 266.7 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 156.21 261.62 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 156.21 261.62 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 156.21 261.62 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "15c834c9-cb24-4efe-a6f3-4ded4c9ce420")
-		)
-		(instances
-			(project "KBUltraMk1"
-				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0302")
 					(unit 1)
 				)
 			)
@@ -17290,96 +16460,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C")
-		(at 149.86 259.08 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "4930cb8a-f19c-4588-830c-061817acbcc7")
-		(property "Reference" "C285"
-			(at 149.86 262.636 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "100n"
-			(at 149.86 265.176 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 153.67 258.1148 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 149.86 259.08 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 149.86 259.08 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLC Part#" ""
-			(at 149.86 259.08 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "75273ddd-5863-4667-89a3-f9bbf0ac6b70")
-		)
-		(pin "1"
-			(uuid "5cb05283-9134-4803-9c78-eceae6801e52")
-		)
-		(instances
-			(project "KBUltraMk1"
-				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "C285")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "LED:SK6812MINI-E")
 		(at 313.69 119.38 0)
 		(unit 1)
@@ -17738,84 +16818,6 @@
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
 					(reference "#PWR0276")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 242.57 261.62 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "4c8e0aee-ca00-4822-a378-4fff519c9ea4")
-		(property "Reference" "#PWR0305"
-			(at 242.57 267.97 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 242.57 266.7 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 242.57 261.62 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 242.57 261.62 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 242.57 261.62 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "520ce110-4191-48f3-a0ef-0dd85c285707")
-		)
-		(instances
-			(project "KBUltraMk1"
-				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0305")
 					(unit 1)
 				)
 			)
@@ -18471,86 +17473,8 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 99.06 261.62 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "589af0be-1b18-4b86-8951-9450c677825f")
-		(property "Reference" "#PWR0300"
-			(at 99.06 267.97 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 99.06 266.7 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 99.06 261.62 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 99.06 261.62 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 99.06 261.62 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "4d24cab7-ac25-4beb-b50f-dc8aceb2e1e9")
-		)
-		(instances
-			(project "KBUltraMk1"
-				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0300")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "LED:SK6812MINI-E")
-		(at 198.12 241.3 0)
+		(at 55.88 241.3 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -18560,7 +17484,7 @@
 		(dnp no)
 		(uuid "5aae9c3a-0c68-4aee-a923-167a624b1653")
 		(property "Reference" "LED279"
-			(at 212.852 242.57 0)
+			(at 70.612 242.57 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18571,7 +17495,7 @@
 			)
 		)
 		(property "Value" "SK6812MINI-E"
-			(at 212.852 245.11 0)
+			(at 70.612 245.11 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -18581,7 +17505,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
-			(at 199.39 248.92 0)
+			(at 57.15 248.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18593,7 +17517,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.lcsc.com/datasheet/C5149201.pdf"
-			(at 200.66 250.825 0)
+			(at 58.42 250.825 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18605,7 +17529,7 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
-			(at 198.12 241.3 0)
+			(at 55.88 241.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18616,7 +17540,7 @@
 			)
 		)
 		(property "JLC Part#" ""
-			(at 198.12 241.3 0)
+			(at 55.88 241.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18926,84 +17850,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 213.36 261.62 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "5f616681-119a-49fb-8e5b-fc8a91d81dab")
-		(property "Reference" "#PWR0304"
-			(at 213.36 267.97 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 213.36 266.7 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 213.36 261.62 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 213.36 261.62 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 213.36 261.62 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "f3605b75-0ca2-4d64-8fdb-770bdc710323")
-		)
-		(instances
-			(project "KBUltraMk1"
-				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0304")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:+5V")
 		(at 50.8 76.2 90)
 		(unit 1)
@@ -19233,104 +18079,6 @@
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
 					(reference "#PWR0278")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "LED:SK6812MINI-E")
-		(at 140.97 269.24 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "62924d16-d279-4df1-bf23-80a3a6e008ea")
-		(property "Reference" "LED285"
-			(at 155.702 270.51 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SK6812MINI-E"
-			(at 155.702 273.05 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
-			(at 142.24 276.86 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C5149201.pdf"
-			(at 143.51 278.765 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Description" "RGB LED with integrated controller"
-			(at 140.97 269.24 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLC Part#" ""
-			(at 140.97 269.24 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "ed37ee52-cc3f-4d73-bd7d-11693f1aa429")
-		)
-		(pin "3"
-			(uuid "971beb47-1bcc-44a1-8594-e4b07e5694a5")
-		)
-		(pin "1"
-			(uuid "c2f93489-eeca-44b9-a77c-a7103ee5579b")
-		)
-		(pin "4"
-			(uuid "cbd65eb3-f891-44bb-8598-02bdac8efd67")
-		)
-		(instances
-			(project "KBUltraMk1"
-				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "LED285")
 					(unit 1)
 				)
 			)
@@ -19780,7 +18528,7 @@
 	)
 	(symbol
 		(lib_id "LED:SK6812MINI-E")
-		(at 113.03 241.3 0)
+		(at 170.18 241.3 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -19790,7 +18538,7 @@
 		(dnp no)
 		(uuid "6890713f-0807-4004-951c-707c4fa3a879")
 		(property "Reference" "LED273"
-			(at 127 242.824 0)
+			(at 184.15 242.824 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -19800,7 +18548,7 @@
 			)
 		)
 		(property "Value" "SK6812MINI-E"
-			(at 127 245.364 0)
+			(at 184.15 245.364 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -19810,7 +18558,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
-			(at 114.3 248.92 0)
+			(at 171.45 248.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19822,7 +18570,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.lcsc.com/datasheet/C5149201.pdf"
-			(at 115.57 250.825 0)
+			(at 172.72 250.825 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19834,7 +18582,7 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
-			(at 113.03 241.3 0)
+			(at 170.18 241.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19845,7 +18593,7 @@
 			)
 		)
 		(property "JLC Part#" ""
-			(at 113.03 241.3 0)
+			(at 170.18 241.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19955,96 +18703,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C")
-		(at 236.22 259.08 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "71500522-806f-4460-a364-132d7c41b9e6")
-		(property "Reference" "C288"
-			(at 236.22 262.636 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "100n"
-			(at 236.22 265.176 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 240.03 258.1148 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 236.22 259.08 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 236.22 259.08 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLC Part#" ""
-			(at 236.22 259.08 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "f058efa2-88bd-4cbe-a9ba-f1cce6f2157b")
-		)
-		(pin "1"
-			(uuid "e217f434-f31e-46cf-9310-9f2b71ca0aad")
-		)
-		(instances
-			(project "KBUltraMk1"
-				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "C288")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 214.63 50.8 0)
 		(unit 1)
@@ -20124,7 +18782,7 @@
 	)
 	(symbol
 		(lib_id "LED:SK6812MINI-E")
-		(at 55.88 269.24 0)
+		(at 113.03 241.3 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -20134,7 +18792,7 @@
 		(dnp no)
 		(uuid "73f119f5-c928-49e1-95b1-4761692adcfe")
 		(property "Reference" "LED281"
-			(at 69.85 270.764 0)
+			(at 127 242.824 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -20144,7 +18802,7 @@
 			)
 		)
 		(property "Value" "SK6812MINI-E"
-			(at 69.85 273.304 0)
+			(at 127 245.364 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -20154,7 +18812,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
-			(at 57.15 276.86 0)
+			(at 114.3 248.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20166,7 +18824,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.lcsc.com/datasheet/C5149201.pdf"
-			(at 58.42 278.765 0)
+			(at 115.57 250.825 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20178,7 +18836,7 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
-			(at 55.88 269.24 0)
+			(at 113.03 241.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20189,7 +18847,7 @@
 			)
 		)
 		(property "JLC Part#" ""
-			(at 55.88 269.24 0)
+			(at 113.03 241.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20371,96 +19029,6 @@
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
 					(reference "#PWR0216")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 179.07 259.08 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "77ab117b-a244-46c9-902f-1e7c55c2e31c")
-		(property "Reference" "C286"
-			(at 179.07 262.636 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "100n"
-			(at 179.07 265.176 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 182.88 258.1148 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 179.07 259.08 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 179.07 259.08 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLC Part#" ""
-			(at 179.07 259.08 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "a1f7f788-cf76-46bb-ac8b-c447ce8ef674")
-		)
-		(pin "1"
-			(uuid "a169cfd1-24b8-4de7-8a04-bf76d3b88ca0")
-		)
-		(instances
-			(project "KBUltraMk1"
-				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "C286")
 					(unit 1)
 				)
 			)
@@ -23332,7 +21900,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 255.27 269.24 270)
+		(at 96.52 269.24 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -23342,7 +21910,7 @@
 		(dnp no)
 		(uuid "92bf546e-82cd-4202-82c5-81c84e1876e2")
 		(property "Reference" "R202"
-			(at 252.476 263.906 90)
+			(at 93.726 263.906 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -23353,7 +21921,7 @@
 			)
 		)
 		(property "Value" "500R"
-			(at 252.476 266.446 90)
+			(at 93.726 266.446 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -23364,7 +21932,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 255.27 267.462 90)
+			(at 96.52 267.462 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23375,7 +21943,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 255.27 269.24 0)
+			(at 96.52 269.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23386,7 +21954,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 255.27 269.24 0)
+			(at 96.52 269.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23397,7 +21965,7 @@
 			)
 		)
 		(property "JLC Part#" ""
-			(at 255.27 269.24 90)
+			(at 96.52 269.24 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23424,7 +21992,7 @@
 	)
 	(symbol
 		(lib_id "LED:SK6812MINI-E")
-		(at 170.18 241.3 0)
+		(at 55.88 269.24 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -23434,7 +22002,7 @@
 		(dnp no)
 		(uuid "92c46d26-a7fa-400f-9440-fe66c9b140b7")
 		(property "Reference" "LED275"
-			(at 184.15 242.824 0)
+			(at 69.85 270.764 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -23444,7 +22012,7 @@
 			)
 		)
 		(property "Value" "SK6812MINI-E"
-			(at 184.15 245.364 0)
+			(at 69.85 273.304 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -23454,7 +22022,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
-			(at 171.45 248.92 0)
+			(at 57.15 276.86 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23466,7 +22034,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.lcsc.com/datasheet/C5149201.pdf"
-			(at 172.72 250.825 0)
+			(at 58.42 278.765 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23478,7 +22046,7 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
-			(at 170.18 241.3 0)
+			(at 55.88 269.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23489,7 +22057,7 @@
 			)
 		)
 		(property "JLC Part#" ""
-			(at 170.18 241.3 0)
+			(at 55.88 269.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23870,96 +22438,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C")
-		(at 92.71 259.08 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "94d60e49-0d8e-4cd0-98c9-aae2f905e2fd")
-		(property "Reference" "C283"
-			(at 92.71 262.636 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "100n"
-			(at 92.71 265.176 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 96.52 258.1148 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 92.71 259.08 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 92.71 259.08 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLC Part#" ""
-			(at 92.71 259.08 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "e0c49ee1-ae8f-4ca9-b6db-55da0bcc07d7")
-		)
-		(pin "1"
-			(uuid "fff280f0-7e2a-4d49-9ec6-37c0880cfa9c")
-		)
-		(instances
-			(project "KBUltraMk1"
-				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "C283")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 242.57 111.76 0)
 		(unit 1)
@@ -24117,7 +22595,7 @@
 	)
 	(symbol
 		(lib_id "LED:SK6812MINI-E")
-		(at 140.97 241.3 0)
+		(at 198.12 241.3 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -24127,7 +22605,7 @@
 		(dnp no)
 		(uuid "99ef47f0-6238-4133-b9bf-96b73dac64d5")
 		(property "Reference" "LED274"
-			(at 155.702 242.57 0)
+			(at 212.852 242.57 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -24137,7 +22615,7 @@
 			)
 		)
 		(property "Value" "SK6812MINI-E"
-			(at 155.702 245.11 0)
+			(at 212.852 245.11 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -24147,7 +22625,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
-			(at 142.24 248.92 0)
+			(at 199.39 248.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24159,7 +22637,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.lcsc.com/datasheet/C5149201.pdf"
-			(at 143.51 250.825 0)
+			(at 200.66 250.825 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24171,7 +22649,7 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
-			(at 140.97 241.3 0)
+			(at 198.12 241.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24182,7 +22660,7 @@
 			)
 		)
 		(property "JLC Part#" ""
-			(at 140.97 241.3 0)
+			(at 198.12 241.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25466,104 +23944,6 @@
 		)
 	)
 	(symbol
-		(lib_id "LED:SK6812MINI-E")
-		(at 111.76 269.24 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "a7b0ab90-b9eb-433e-bc5d-a553f3b6d65d")
-		(property "Reference" "LED284"
-			(at 126.492 270.51 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SK6812MINI-E"
-			(at 126.492 273.05 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
-			(at 113.03 276.86 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C5149201.pdf"
-			(at 114.3 278.765 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Description" "RGB LED with integrated controller"
-			(at 111.76 269.24 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLC Part#" ""
-			(at 111.76 269.24 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "6d674a7a-77b3-4289-a5b0-bc3f57e513ae")
-		)
-		(pin "3"
-			(uuid "15b1b6ba-6f6d-4ef5-8425-ed762a6774df")
-		)
-		(pin "1"
-			(uuid "02725fe1-743b-45ed-9a08-30852124f40b")
-		)
-		(pin "4"
-			(uuid "60982d2e-722a-44a1-8c2e-23303c2d8b3c")
-		)
-		(instances
-			(project "KBUltraMk1"
-				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "LED284")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 99.06 172.72 0)
 		(unit 1)
@@ -26163,7 +24543,7 @@
 	)
 	(symbol
 		(lib_id "LED:SK6812MINI-E")
-		(at 83.82 241.3 0)
+		(at 140.97 241.3 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -26173,7 +24553,7 @@
 		(dnp no)
 		(uuid "b04b25fd-f3f2-4b6c-be1f-7dede7fc5fb0")
 		(property "Reference" "LED272"
-			(at 98.552 242.57 0)
+			(at 155.702 242.57 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -26183,7 +24563,7 @@
 			)
 		)
 		(property "Value" "SK6812MINI-E"
-			(at 98.552 245.11 0)
+			(at 155.702 245.11 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -26193,7 +24573,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
-			(at 85.09 248.92 0)
+			(at 142.24 248.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26205,7 +24585,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.lcsc.com/datasheet/C5149201.pdf"
-			(at 86.36 250.825 0)
+			(at 143.51 250.825 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26217,7 +24597,7 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
-			(at 83.82 241.3 0)
+			(at 140.97 241.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26228,7 +24608,7 @@
 			)
 		)
 		(property "JLC Part#" ""
-			(at 83.82 241.3 0)
+			(at 140.97 241.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27571,84 +25951,6 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 127 261.62 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "bd818726-00ed-4822-9ce0-d3ed2b24a638")
-		(property "Reference" "#PWR0301"
-			(at 127 267.97 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 127 266.7 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 127 261.62 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 127 261.62 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 127 261.62 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "133010af-67dc-496a-bcdd-27310e6c5f05")
-		)
-		(instances
-			(project "KBUltraMk1"
-				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0301")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
 		(at 156.21 50.8 0)
 		(unit 1)
 		(body_style 1)
@@ -28142,104 +26444,6 @@
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
 					(reference "#PWR0264")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "LED:SK6812MINI-E")
-		(at 170.18 269.24 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "ca221656-3f43-4730-b30b-f1f2bec696c4")
-		(property "Reference" "LED286"
-			(at 184.15 270.764 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SK6812MINI-E"
-			(at 184.15 273.304 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
-			(at 171.45 276.86 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C5149201.pdf"
-			(at 172.72 278.765 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Description" "RGB LED with integrated controller"
-			(at 170.18 269.24 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLC Part#" ""
-			(at 170.18 269.24 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "9deb662f-42cf-463a-acd6-be435fe93a4a")
-		)
-		(pin "3"
-			(uuid "061d791d-19c8-4118-85f5-d83efdef5417")
-		)
-		(pin "1"
-			(uuid "049cef12-9bfd-4d4e-8c84-98400e131556")
-		)
-		(pin "4"
-			(uuid "7232f207-d5ca-44eb-9fd3-28d8d94568e2")
-		)
-		(instances
-			(project "KBUltraMk1"
-				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "LED286")
 					(unit 1)
 				)
 			)
@@ -29751,104 +27955,6 @@
 	)
 	(symbol
 		(lib_id "LED:SK6812MINI-E")
-		(at 198.12 269.24 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "db317108-9112-45aa-aecb-c657f8b52c0e")
-		(property "Reference" "LED287"
-			(at 212.852 270.51 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SK6812MINI-E"
-			(at 212.852 273.05 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
-			(at 199.39 276.86 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C5149201.pdf"
-			(at 200.66 278.765 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Description" "RGB LED with integrated controller"
-			(at 198.12 269.24 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLC Part#" ""
-			(at 198.12 269.24 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "2d7a5563-1ccc-4313-ab55-7e549d166920")
-		)
-		(pin "3"
-			(uuid "51a8b16c-f369-48d6-97a1-713995b737ba")
-		)
-		(pin "1"
-			(uuid "d27b8a65-7f6f-41c7-8fff-0d7b462b5094")
-		)
-		(pin "4"
-			(uuid "d791d4ea-d1c6-42a6-a140-9b485cd3ddcc")
-		)
-		(instances
-			(project "KBUltraMk1"
-				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "LED287")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "LED:SK6812MINI-E")
 		(at 170.18 27.94 0)
 		(unit 1)
 		(body_style 1)
@@ -30134,84 +28240,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 185.42 261.62 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "df3d0246-109c-4174-8e97-772c0e479a63")
-		(property "Reference" "#PWR0303"
-			(at 185.42 267.97 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 185.42 266.7 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 185.42 261.62 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 185.42 261.62 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 185.42 261.62 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "1bee8e69-2248-44af-9a49-f08e3b564a64")
-		)
-		(instances
-			(project "KBUltraMk1"
-				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "#PWR0303")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "LED:SK6812MINI-E")
 		(at 83.82 180.34 0)
 		(unit 1)
@@ -30394,96 +28422,6 @@
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
 					(reference "C260")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 207.01 259.08 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "e11dcbef-c1b4-41c8-88ef-b84151156e8b")
-		(property "Reference" "C287"
-			(at 207.01 262.636 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "100n"
-			(at 207.01 265.176 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 210.82 258.1148 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 207.01 259.08 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 207.01 259.08 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLC Part#" ""
-			(at 207.01 259.08 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "23c4d7b7-7e66-41ba-955b-fec905a9e7ed")
-		)
-		(pin "1"
-			(uuid "7d27b87f-47c2-4153-9be6-1a8ffdda3340")
-		)
-		(instances
-			(project "KBUltraMk1"
-				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "C287")
 					(unit 1)
 				)
 			)
@@ -31188,104 +29126,6 @@
 	)
 	(symbol
 		(lib_id "LED:SK6812MINI-E")
-		(at 83.82 269.24 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "e805913e-31ea-440c-9893-62187e387cb4")
-		(property "Reference" "LED283"
-			(at 97.79 270.764 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SK6812MINI-E"
-			(at 97.79 273.304 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
-			(at 85.09 276.86 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C5149201.pdf"
-			(at 86.36 278.765 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Description" "RGB LED with integrated controller"
-			(at 83.82 269.24 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLC Part#" ""
-			(at 83.82 269.24 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "7af1df24-70e4-46f0-915c-5a63035334a9")
-		)
-		(pin "3"
-			(uuid "4686a36e-66a7-4d9f-80a3-0f34896989fe")
-		)
-		(pin "1"
-			(uuid "7124e233-5a27-4ab0-9503-d83977e7fdc4")
-		)
-		(pin "4"
-			(uuid "2bb7c934-3d86-4f58-b8bf-a6ca6e111245")
-		)
-		(instances
-			(project "KBUltraMk1"
-				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "LED283")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "LED:SK6812MINI-E")
 		(at 227.33 88.9 0)
 		(unit 1)
 		(body_style 1)
@@ -31902,96 +29742,6 @@
 			(project "KBUltraMk1"
 				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
 					(reference "C247")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 120.65 259.08 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "eec50695-a88d-41e6-b233-c78b14dcba38")
-		(property "Reference" "C284"
-			(at 120.65 262.636 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "100n"
-			(at 120.65 265.176 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 124.46 258.1148 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 120.65 259.08 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 120.65 259.08 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLC Part#" ""
-			(at 120.65 259.08 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "fdf8478d-f9f4-4d35-ad0b-ad245e2d9922")
-		)
-		(pin "1"
-			(uuid "8ad665e0-3c9e-4c65-bc21-88fc33c31ec4")
-		)
-		(instances
-			(project "KBUltraMk1"
-				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/3929dec5-d955-4ff8-bed6-10346a8e437b"
-					(reference "C284")
 					(unit 1)
 				)
 			)

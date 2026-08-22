@@ -60,7 +60,7 @@
           "hatch_smoothing_level": 0,
           "hatch_smoothing_value": 0.1,
           "hatch_thickness": 1.0,
-          "min_clearance": 0.15,
+          "min_clearance": 0.2,
           "min_island_area": 10.0,
           "min_thickness": 0.25,
           "pad_connection": 1,
@@ -76,9 +76,9 @@
           "width": 0.0
         },
         {
-          "gap": 0.25,
+          "gap": 0.15,
           "via_gap": 0.0,
-          "width": 0.12
+          "width": 0.15
         }
       ],
       "drc_exclusions": [],
@@ -130,7 +130,7 @@
         "silk_overlap": "warning",
         "skew_out_of_range": "error",
         "solder_mask_bridge": "error",
-        "starved_thermal": "warning",
+        "starved_thermal": "error",
         "text_height": "warning",
         "text_on_edge_cuts": "error",
         "text_thickness": "warning",
@@ -138,7 +138,7 @@
         "too_many_vias": "error",
         "track_angle": "error",
         "track_dangling": "warning",
-        "track_not_centered_on_via": "error",
+        "track_not_centered_on_via": "ignore",
         "track_on_post_machined_layer": "error",
         "track_segment_length": "error",
         "track_width": "error",
@@ -163,10 +163,10 @@
         "min_silk_clearance": 0.0,
         "min_text_height": 0.8,
         "min_text_thickness": 0.08,
-        "min_through_hole_diameter": 0.2,
+        "min_through_hole_diameter": 0.3,
         "min_track_width": 0.09,
         "min_via_annular_width": 0.1,
-        "min_via_diameter": 0.4,
+        "min_via_diameter": 0.5,
         "solder_mask_to_copper_clearance": 0.005,
         "use_height_for_length_calcs": true
       },
@@ -175,7 +175,7 @@
           "td_onpthpad": true,
           "td_onroundshapesonly": false,
           "td_onsmdpad": true,
-          "td_ontrackend": true,
+          "td_ontrackend": false,
           "td_onvia": true
         }
       ],
@@ -494,7 +494,7 @@
       "four_way_junction": "ignore",
       "ground_pin_not_ground": "warning",
       "hier_label_mismatch": "error",
-      "isolated_pin_label": "error",
+      "isolated_pin_label": "warning",
       "label_dangling": "error",
       "label_multiple_wires": "warning",
       "lib_symbol_issues": "warning",
@@ -510,13 +510,13 @@
       "pin_not_connected": "error",
       "pin_not_driven": "error",
       "pin_to_pin": "warning",
-      "power_pin_not_driven": "warning",
+      "power_pin_not_driven": "error",
       "same_local_global_label": "warning",
       "similar_label_and_power": "warning",
       "similar_labels": "warning",
       "similar_power": "warning",
       "simulation_model_issue": "ignore",
-      "single_global_label": "error",
+      "single_global_label": "ignore",
       "stacked_pin_name": "warning",
       "unannotated": "error",
       "unconnected_wire_endpoint": "warning",
@@ -562,12 +562,12 @@
       {
         "clearance": 0.15,
         "diff_pair_gap": 0.15,
-        "diff_pair_width": 0.35,
+        "diff_pair_width": 0.15,
         "name": "USB",
         "pcb_color": "rgb(194, 0, 194)",
         "priority": 0,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.35,
+        "track_width": 0.15,
         "tuning_profile": "",
         "via_diameter": 0.45,
         "via_drill": 0.25
@@ -742,7 +742,7 @@
           "show": false
         }
       ],
-      "filter_string": "",
+      "filter_string": "R",
       "group_symbols": true,
       "include_excluded_from_bom": true,
       "name": "",
@@ -821,10 +821,6 @@
     [
       "93a9b61b-faa1-4555-9f29-8b4ed9bfb2c1",
       "ESP32-C6 Wireless Co-Processor"
-    ],
-    [
-      "1569a62d-a1a0-464a-8dcd-6a4c810cd1dd",
-      "Power AUX"
     ]
   ],
   "text_variables": {},

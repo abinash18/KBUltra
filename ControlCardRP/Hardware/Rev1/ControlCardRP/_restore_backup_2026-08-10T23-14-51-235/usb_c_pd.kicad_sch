@@ -3500,16 +3500,6 @@
 		)
 		(uuid "0377c06e-677b-45ff-9d18-dc66de3e2c0d")
 	)
-	(label "FLIP"
-		(at 143.51 91.44 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "5dd42103-591a-4347-88e4-fee3c0e2d0b8")
-	)
 	(label "CC2"
 		(at 52.07 76.2 0)
 		(effects

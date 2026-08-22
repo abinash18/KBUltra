@@ -4625,7 +4625,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "footprints:ESP32-C6-MINI-1"
+		(property "Footprint" "RF_Module:ESP32-C6-MINI-1"
 			(at 148.59 114.3 0)
 			(hide yes)
 			(show_name no)
