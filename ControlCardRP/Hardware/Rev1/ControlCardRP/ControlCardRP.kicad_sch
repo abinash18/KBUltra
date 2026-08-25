@@ -2688,16 +2688,6 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 111.76) (xy 78.74 111.76)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3551827e-a87d-4291-b74a-d050ceafb473")
-	)
-	(wire
-		(pts
 			(xy 111.76 30.48) (xy 118.11 30.48)
 		)
 		(stroke
@@ -3158,6 +3148,16 @@
 	)
 	(wire
 		(pts
+			(xy 80.01 102.87) (xy 80.01 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "95f93180-9a4a-4076-8a0d-5b4fd0d5eb7b")
+	)
+	(wire
+		(pts
 			(xy 50.8 160.02) (xy 77.47 160.02)
 		)
 		(stroke
@@ -3386,6 +3386,16 @@
 		)
 		(uuid "c0b7f189-8f94-4b06-a761-35a31b01774d")
 	)
+	(wire
+		(pts
+			(xy 80.01 111.76) (xy 76.2 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c1b80c4b-f93d-4f77-beec-e5ea4351ef39")
+	)
 	(bus
 		(pts
 			(xy 248.92 36.83) (xy 248.92 39.37)
@@ -3565,16 +3575,6 @@
 			(type default)
 		)
 		(uuid "f18f3e68-5dbd-4f47-919e-feb2fdaeb1c8")
-	)
-	(wire
-		(pts
-			(xy 78.74 111.76) (xy 78.74 114.3)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f2123f3f-7458-4e8f-9baf-86318c9e1da4")
 	)
 	(wire
 		(pts
@@ -4528,6 +4528,16 @@
 			(justify left bottom)
 		)
 		(uuid "fc612cff-59da-40fd-a464-ed3cef776216")
+	)
+	(label "BATT_OUT"
+		(at 80.01 102.87 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "fdd48c5d-a8e0-4ceb-8863-28c3dbc82a3e")
 	)
 	(label "GPIO13"
 		(at 218.44 54.61 0)
@@ -5602,84 +5612,6 @@
 			(project "ControlCardRP"
 				(path "/a4806da1-c544-4ae5-b204-32c833e6ad2b"
 					(reference "J10")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 78.74 114.3 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "a64a4b45-44ca-4cab-bd2f-d4277a0123c9")
-		(property "Reference" "#PWR057"
-			(at 78.74 120.65 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 78.74 119.38 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 78.74 114.3 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 78.74 114.3 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 78.74 114.3 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "01b18b92-4621-4c63-9460-7f4028b403b0")
-		)
-		(instances
-			(project "ControlCardRP"
-				(path "/a4806da1-c544-4ae5-b204-32c833e6ad2b"
-					(reference "#PWR057")
 					(unit 1)
 				)
 			)
