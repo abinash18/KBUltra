@@ -497,23 +497,23 @@
 			)
 		)
 		(pin "S2"
-			(uuid "adae1e72-e809-443c-a13f-1c8829f8867f")
+			(uuid "6e5f3e83-a677-47cf-9163-73a0651eb83e")
 		)
 		(pin "C"
-			(uuid "fc119125-c4e2-4cea-b9bb-c52a63b65652")
+			(uuid "4a1c79f0-3f8f-4ad9-9bbc-fd6124a13a0c")
 		)
 		(pin "B"
-			(uuid "cc6e14a2-247e-4479-8d56-d6c4311fbffe")
+			(uuid "7c5fba83-6c92-4ce1-b763-fc2942f1537b")
 		)
 		(pin "A"
-			(uuid "7a39fe71-5674-448c-a11d-8677fbbcd35f")
+			(uuid "ba5ea42a-d5dd-47fa-92dd-ca61aad0a1e8")
 		)
 		(pin "S1"
-			(uuid "bde205c5-2980-46e8-9bc4-f455551ca8c0")
+			(uuid "2ff4414a-2564-4623-9bc2-f23c32c81d38")
 		)
 		(instances
 			(project "KBUltraMk1"
-				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/37a2e385-e742-4cdf-beae-5de0108665d5/90a1a563-c2d3-4256-984f-1f92d92f3ce2"
+				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/87e1c962-acbb-4728-92f9-e6d48cb2bd53"
 					(reference "SW101")
 					(unit 1)
 				)

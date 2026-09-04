@@ -3432,16 +3432,6 @@
 		)
 		(uuid "a3c3e53f-f3e5-4c4b-b14e-3802bd5725f7")
 	)
-	(label "GPIO[0..47]"
-		(at 176.53 44.45 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "a9be485b-2d7c-4832-807d-e688f2b8b8e1")
-	)
 	(label "GPIO41"
 		(at 138.43 53.34 0)
 		(effects
@@ -3612,16 +3602,6 @@
 		)
 		(uuid "ee7e4af6-8f09-47f3-b6f9-18607437d422")
 	)
-	(label "GPIO[0..47]"
-		(at 127 44.45 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "f12a161f-03fa-4ce4-951e-23cde7b73834")
-	)
 	(label "GPIO31"
 		(at 158.75 76.2 0)
 		(effects
@@ -3652,6 +3632,28 @@
 			(justify left)
 		)
 		(uuid "0ba1a3c4-7d0b-4e64-ab12-6c89cc5cad87")
+	)
+	(hierarchical_label "GPIO[0..47]"
+		(shape input)
+		(at 127 44.45 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "56436645-03aa-4d0f-9528-d60eaa7bf895")
+	)
+	(hierarchical_label "GPIO[0..47]"
+		(shape input)
+		(at 176.53 44.45 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "cbc94843-5dc4-4e42-9b3a-5eb14448f01d")
 	)
 	(hierarchical_label "COL[0..14]"
 		(shape input)

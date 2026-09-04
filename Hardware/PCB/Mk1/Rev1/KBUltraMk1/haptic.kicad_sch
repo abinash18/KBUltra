@@ -476,6 +476,366 @@
 			(embedded_fonts no)
 		)
 	)
+	(wire
+		(pts
+			(xy 64.77 128.27) (xy 67.31 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "00c68f42-3e6c-4c13-8645-bfef46407664")
+	)
+	(wire
+		(pts
+			(xy 64.77 45.72) (xy 67.31 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "48b28563-7492-498e-883a-b0b4a2418884")
+	)
+	(wire
+		(pts
+			(xy 64.77 77.47) (xy 67.31 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4a4ab497-7ad3-49f9-8b78-8a1c502f604c")
+	)
+	(wire
+		(pts
+			(xy 64.77 107.95) (xy 67.31 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5b7bec19-9af0-4679-a791-0a4b9f369e53")
+	)
+	(wire
+		(pts
+			(xy 64.77 43.18) (xy 67.31 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "647f5bf9-e358-4d5f-ae11-e20a5da0ad49")
+	)
+	(wire
+		(pts
+			(xy 64.77 130.81) (xy 67.31 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6dcbfd6a-8d86-4ea3-9cbe-90417e797d4e")
+	)
+	(wire
+		(pts
+			(xy 64.77 135.89) (xy 67.31 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "72e9a0fe-4016-4619-8694-a6be3caea9b6")
+	)
+	(wire
+		(pts
+			(xy 64.77 138.43) (xy 67.31 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "74be3ae7-c162-4a16-aba0-de4f21df514e")
+	)
+	(wire
+		(pts
+			(xy 64.77 105.41) (xy 67.31 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7515f0a3-041d-44d9-b9d3-aab605c2a355")
+	)
+	(wire
+		(pts
+			(xy 64.77 100.33) (xy 67.31 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "79180432-4699-41fc-9604-192ee554f656")
+	)
+	(wire
+		(pts
+			(xy 64.77 74.93) (xy 67.31 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7f319cd6-3580-4838-8f1b-65f0679743e4")
+	)
+	(wire
+		(pts
+			(xy 64.77 67.31) (xy 67.31 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "97445d74-2056-4a5c-9806-2d50ebbeef02")
+	)
+	(wire
+		(pts
+			(xy 64.77 69.85) (xy 67.31 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b4b11fc5-1209-4026-9792-dbb918d4dba1")
+	)
+	(wire
+		(pts
+			(xy 64.77 35.56) (xy 67.31 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b6f0fbda-cd5f-421f-9d99-2d17bf065cc4")
+	)
+	(wire
+		(pts
+			(xy 64.77 97.79) (xy 67.31 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d456272c-f721-4924-8a05-c5207eea6837")
+	)
+	(wire
+		(pts
+			(xy 64.77 38.1) (xy 67.31 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f0f9275c-0523-403f-b6ea-4503c28b317d")
+	)
+	(label "IN/TRIG"
+		(at 64.77 135.89 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "03877e04-323e-4c0b-bd6f-afb391722542")
+	)
+	(label "SCL"
+		(at 64.77 130.81 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "0c97eb26-af94-4585-829f-49f207cbdbc1")
+	)
+	(label "SCL"
+		(at 64.77 38.1 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "0e71d1a3-91ee-43e0-a110-93f75988c5d9")
+	)
+	(label "SDA"
+		(at 64.77 35.56 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "1cd866c9-6c39-43c6-9bc4-376ff71e79b0")
+	)
+	(label "SDA"
+		(at 64.77 128.27 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "1ea15794-82c2-4ef1-826a-b16a679a0607")
+	)
+	(label "SDA"
+		(at 64.77 67.31 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "3296b957-41c6-4431-b4c0-4123ce28acd3")
+	)
+	(label "EN"
+		(at 64.77 138.43 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "33cad455-6ae1-478a-bf91-5e8a8cc1ac9f")
+	)
+	(label "IN/TRIG"
+		(at 64.77 43.18 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "35177387-7723-4cfc-971f-b9ca683fedae")
+	)
+	(label "VDD/NC"
+		(at 77.47 62.23 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "3f088bf2-1410-4d06-9b73-6ef5ab760ff9")
+	)
+	(label "SCL"
+		(at 64.77 69.85 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "40b8ec01-f400-49df-8dee-4667e6a5283f")
+	)
+	(label "IN/TRIG"
+		(at 64.77 105.41 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "42b6e481-cd98-4605-9cf1-5ce6e479b4b3")
+	)
+	(label "SDA"
+		(at 64.77 97.79 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "6f94bc50-c9b7-459b-90ac-7ff3c2971ae7")
+	)
+	(label "VDD/NC"
+		(at 77.47 92.71 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "804c88e3-a6e6-4162-9e8b-bb8300f8b014")
+	)
+	(label "VDD/NC"
+		(at 77.47 30.48 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "bf2c9e14-e82a-441a-accb-e2d03e2a114e")
+	)
+	(label "IN/TRIG"
+		(at 64.77 74.93 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "bfbdf71c-1987-45b5-bd74-314b56f48b22")
+	)
+	(label "SCL"
+		(at 64.77 100.33 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "c2331136-eab6-46e5-a653-cf93a8bc87a2")
+	)
+	(label "EN"
+		(at 64.77 77.47 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "cd1af7a7-4ab2-464b-9b44-1dfe079dd3a4")
+	)
+	(label "EN"
+		(at 64.77 107.95 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "cf5de1d7-d57a-42f3-b58a-233d9c89ed37")
+	)
+	(label "VDD/NC"
+		(at 77.47 123.19 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "e9b9d862-70d6-44de-aacf-a3a967fb47a8")
+	)
+	(label "EN"
+		(at 64.77 45.72 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "fd811d05-3b21-41ce-8135-21767f7c7e79")
+	)
 	(symbol
 		(lib_id "Motor:Motor_DC_ALT")
 		(at 142.24 99.06 0)
@@ -555,14 +915,14 @@
 			)
 		)
 		(pin "2"
-			(uuid "e316054e-86d5-4bba-b256-3da3fe67f1c8")
+			(uuid "0a842297-f632-4bcc-888e-9e6783887569")
 		)
 		(pin "1"
-			(uuid "3ee5ec64-e7fb-4501-b096-36064a8db93c")
+			(uuid "4dc018dc-3aa9-4578-8e8f-bc09d56d0302")
 		)
 		(instances
 			(project "KBUltraMk1"
-				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/37a2e385-e742-4cdf-beae-5de0108665d5/0b58d487-16a6-4e3c-a758-5a6adf3604b5"
+				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/9007150d-a658-40c4-bbc7-078db02ebff4"
 					(reference "M103")
 					(unit 1)
 				)
@@ -571,7 +931,7 @@
 	)
 	(symbol
 		(lib_id "Driver:DRV2605LDGS")
-		(at 86.36 91.44 0)
+		(at 80.01 133.35 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -580,9 +940,9 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "a4a01b3b-a908-4aa9-8b29-f37c4e7ce5ad")
-		(property "Reference" "U101"
-			(at 88.5033 101.6 0)
+		(uuid "4f0c0466-728e-4f79-a114-2946a0dac2f5")
+		(property "Reference" "U106"
+			(at 82.1533 143.51 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -593,7 +953,7 @@
 			)
 		)
 		(property "Value" "DRV2605LDGS"
-			(at 88.5033 104.14 0)
+			(at 82.1533 146.05 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -604,7 +964,7 @@
 			)
 		)
 		(property "Footprint" "Package_SO:TSSOP-10_3x3mm_P0.5mm"
-			(at 86.36 91.44 0)
+			(at 80.01 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -616,7 +976,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/drv2605l.pdf"
-			(at 86.36 91.44 0)
+			(at 80.01 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -627,7 +987,7 @@
 			)
 		)
 		(property "Description" "Haptic driver for LRAs and ERMs with effect library, 2-5.2V, TSSOP-10 (Texas DGS0010A / VSSOP)"
-			(at 86.36 91.44 0)
+			(at 80.01 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -638,7 +998,7 @@
 			)
 		)
 		(property "JLC Part#" ""
-			(at 86.36 91.44 0)
+			(at 80.01 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -649,38 +1009,274 @@
 			)
 		)
 		(pin "9"
-			(uuid "388b670a-5295-4bfb-9b3f-1b646d952b32")
+			(uuid "c5af80d1-aafd-4939-8df1-b75ff5b23443")
 		)
 		(pin "4"
-			(uuid "9955793d-74a8-4af4-9b41-11fe6c98dcbc")
+			(uuid "dd05d259-ea5f-4cc4-968a-080c91b3ca27")
 		)
 		(pin "2"
-			(uuid "1a45b67e-2245-4a62-a5d8-cf31d56e3170")
+			(uuid "091bdd21-1144-4115-b0e1-adf9bb57af44")
 		)
 		(pin "3"
-			(uuid "2a33ff84-85a1-42a6-96c0-ead25190b11b")
+			(uuid "f92f6ff6-9ca1-4d0b-85ba-8b53b6324400")
 		)
 		(pin "5"
-			(uuid "2e0363dd-f1f3-40f1-80eb-5dafaac8e1a5")
+			(uuid "1368216e-a2e9-4fdf-94f7-2364b7492397")
 		)
 		(pin "6"
-			(uuid "1d592bec-2615-4d74-81e1-ea0616fc4f9d")
+			(uuid "16abbf69-dabf-484a-a0bc-110ec78510cb")
 		)
 		(pin "8"
-			(uuid "10133ec6-05a0-400c-b34f-46c3999ec818")
+			(uuid "d70dfb26-f43c-4c77-aa70-23e80599fe9c")
 		)
 		(pin "1"
-			(uuid "36501cd4-4de5-4144-b461-bcf6dc5074b8")
+			(uuid "02f0286b-ef05-4a85-a7c4-3765f2c17954")
 		)
 		(pin "7"
-			(uuid "05a8f2e7-3102-4f8a-9d80-cffabd4d9caf")
+			(uuid "86b3f535-5272-4b31-9e27-170869780861")
 		)
 		(pin "10"
-			(uuid "d6c95d77-5038-4a6e-9043-35010770a85e")
+			(uuid "4598ace0-0ef3-4a9a-b5da-168cff10bfc1")
 		)
 		(instances
 			(project "KBUltraMk1"
-				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/37a2e385-e742-4cdf-beae-5de0108665d5/0b58d487-16a6-4e3c-a758-5a6adf3604b5"
+				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/9007150d-a658-40c4-bbc7-078db02ebff4"
+					(reference "U106")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Driver:DRV2605LDGS")
+		(at 80.01 102.87 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "74baedae-e8f5-4039-8d45-bac28cac5d27")
+		(property "Reference" "U105"
+			(at 82.1533 113.03 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "DRV2605LDGS"
+			(at 82.1533 115.57 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Package_SO:TSSOP-10_3x3mm_P0.5mm"
+			(at 80.01 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+			)
+		)
+		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/drv2605l.pdf"
+			(at 80.01 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Haptic driver for LRAs and ERMs with effect library, 2-5.2V, TSSOP-10 (Texas DGS0010A / VSSOP)"
+			(at 80.01 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
+			(at 80.01 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "9"
+			(uuid "a1d9c7fa-b67c-4b18-aa8a-99e3f7016d02")
+		)
+		(pin "4"
+			(uuid "dd8a089a-3f97-42c7-b9fe-3394340682f2")
+		)
+		(pin "2"
+			(uuid "7bb73a35-a851-4521-99ae-fed032be364f")
+		)
+		(pin "3"
+			(uuid "9da69a42-2566-4b1f-a4cb-daa9a2bfc21a")
+		)
+		(pin "5"
+			(uuid "680f2a31-bf63-4228-99ef-952a75422c72")
+		)
+		(pin "6"
+			(uuid "e6d11acc-5015-48d1-9acb-87b094a2008e")
+		)
+		(pin "8"
+			(uuid "a3482831-a08f-4421-a513-64fc2b69e6fd")
+		)
+		(pin "1"
+			(uuid "5b934c4a-6377-4b68-bcad-a0c3e1112053")
+		)
+		(pin "7"
+			(uuid "bd25b29c-3e1e-4c1e-9d80-3c37dc082d82")
+		)
+		(pin "10"
+			(uuid "9f593b06-6751-4b85-be41-c73f80f1c627")
+		)
+		(instances
+			(project "KBUltraMk1"
+				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/9007150d-a658-40c4-bbc7-078db02ebff4"
+					(reference "U105")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Driver:DRV2605LDGS")
+		(at 80.01 40.64 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a4a01b3b-a908-4aa9-8b29-f37c4e7ce5ad")
+		(property "Reference" "U101"
+			(at 82.1533 50.8 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "DRV2605LDGS"
+			(at 82.1533 53.34 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Package_SO:TSSOP-10_3x3mm_P0.5mm"
+			(at 80.01 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+			)
+		)
+		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/drv2605l.pdf"
+			(at 80.01 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Haptic driver for LRAs and ERMs with effect library, 2-5.2V, TSSOP-10 (Texas DGS0010A / VSSOP)"
+			(at 80.01 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
+			(at 80.01 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "9"
+			(uuid "585fa1cc-0118-4eb0-a116-dc5441212884")
+		)
+		(pin "4"
+			(uuid "a7c3db59-ca1c-45db-8c5d-e80160d34704")
+		)
+		(pin "2"
+			(uuid "b2c755eb-37e1-4271-b242-2ba1b5d40012")
+		)
+		(pin "3"
+			(uuid "20a3a56c-1eeb-45fe-ba9b-a054e4ad97ad")
+		)
+		(pin "5"
+			(uuid "b42ac781-a883-4cbb-b926-15ce2fd89965")
+		)
+		(pin "6"
+			(uuid "1f4b4a85-5c04-4545-8a99-848524b7dbc3")
+		)
+		(pin "8"
+			(uuid "b0d5eeb8-76d5-436a-841d-224132cb085d")
+		)
+		(pin "1"
+			(uuid "9e1232c8-a3b1-4461-a717-0ca8a73ae709")
+		)
+		(pin "7"
+			(uuid "0c85fc5d-db94-4a34-8d77-cfdf6bbe5011")
+		)
+		(pin "10"
+			(uuid "390e07be-b290-4d7a-8cab-7fb82e6ae688")
+		)
+		(instances
+			(project "KBUltraMk1"
+				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/9007150d-a658-40c4-bbc7-078db02ebff4"
 					(reference "U101")
 					(unit 1)
 				)
@@ -766,14 +1362,14 @@
 			)
 		)
 		(pin "2"
-			(uuid "e71cb083-04be-451b-92fb-fa5e6765d033")
+			(uuid "ca606ad6-5c05-4b2c-a257-bb59e9d0f1e6")
 		)
 		(pin "1"
-			(uuid "5b779ca7-0fb8-4335-9fac-bf6e6c9a43f7")
+			(uuid "8dd10b80-5a56-4d1d-9f6c-07b543645e48")
 		)
 		(instances
 			(project "KBUltraMk1"
-				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/37a2e385-e742-4cdf-beae-5de0108665d5/0b58d487-16a6-4e3c-a758-5a6adf3604b5"
+				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/9007150d-a658-40c4-bbc7-078db02ebff4"
 					(reference "M104")
 					(unit 1)
 				)
@@ -859,15 +1455,133 @@
 			)
 		)
 		(pin "2"
-			(uuid "baa5c713-cc11-4433-84ac-1d8dded89640")
+			(uuid "05b37190-1ded-48e0-b5ef-ba680732ae84")
 		)
 		(pin "1"
-			(uuid "74affa23-3326-4e73-acc5-9487736fb4de")
+			(uuid "798c34f4-993e-47f9-b1c0-da04a6b1283d")
 		)
 		(instances
 			(project "KBUltraMk1"
-				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/37a2e385-e742-4cdf-beae-5de0108665d5/0b58d487-16a6-4e3c-a758-5a6adf3604b5"
+				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/9007150d-a658-40c4-bbc7-078db02ebff4"
 					(reference "M102")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Driver:DRV2605LDGS")
+		(at 80.01 72.39 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e4da9410-cc73-4f74-9645-f44e8ed5a79d")
+		(property "Reference" "U104"
+			(at 82.1533 82.55 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "DRV2605LDGS"
+			(at 82.1533 85.09 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Package_SO:TSSOP-10_3x3mm_P0.5mm"
+			(at 80.01 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+			)
+		)
+		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/drv2605l.pdf"
+			(at 80.01 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Haptic driver for LRAs and ERMs with effect library, 2-5.2V, TSSOP-10 (Texas DGS0010A / VSSOP)"
+			(at 80.01 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part#" ""
+			(at 80.01 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "9"
+			(uuid "3c8de4ed-9236-41ed-aa59-1cd414a02c1f")
+		)
+		(pin "4"
+			(uuid "116a148b-aee6-4cc1-981f-3a614545172f")
+		)
+		(pin "2"
+			(uuid "18839262-d081-43d9-9757-38a18b77e26e")
+		)
+		(pin "3"
+			(uuid "cdaa3173-4c9f-461f-a5de-95059600c5c7")
+		)
+		(pin "5"
+			(uuid "deeecd05-8f16-42ff-beb3-3ed7d0d65eed")
+		)
+		(pin "6"
+			(uuid "0cfe85cc-a517-4f28-955a-d3ec72513e49")
+		)
+		(pin "8"
+			(uuid "a54fd733-f528-41ca-bf57-1476b67bf142")
+		)
+		(pin "1"
+			(uuid "43a5aaf2-bc0d-4e8e-9a1a-aee117b359b7")
+		)
+		(pin "7"
+			(uuid "d2aa065d-458a-4e77-99fd-4d9c5d80e1f1")
+		)
+		(pin "10"
+			(uuid "0bc9ca5f-324b-4be7-949f-ea81b2ef0b02")
+		)
+		(instances
+			(project "KBUltraMk1"
+				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/9007150d-a658-40c4-bbc7-078db02ebff4"
+					(reference "U104")
 					(unit 1)
 				)
 			)
@@ -952,14 +1666,14 @@
 			)
 		)
 		(pin "2"
-			(uuid "fde43175-f49b-453e-a98f-be62b2f37d6f")
+			(uuid "c1ff03d6-f833-498d-b1ea-56155c6e7620")
 		)
 		(pin "1"
-			(uuid "5426353a-004e-4db4-acad-26b722245e2f")
+			(uuid "3a8d5a2a-4a0b-497a-99ea-531e907b0db1")
 		)
 		(instances
 			(project "KBUltraMk1"
-				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/37a2e385-e742-4cdf-beae-5de0108665d5/0b58d487-16a6-4e3c-a758-5a6adf3604b5"
+				(path "/b5c66110-c4bc-44b7-b74f-0bc521af7455/9007150d-a658-40c4-bbc7-078db02ebff4"
 					(reference "M101")
 					(unit 1)
 				)

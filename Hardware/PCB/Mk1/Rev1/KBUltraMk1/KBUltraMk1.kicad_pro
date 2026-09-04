@@ -74,6 +74,11 @@
           "gap": 0.0,
           "via_gap": 0.0,
           "width": 0.0
+        },
+        {
+          "gap": 0.0,
+          "via_gap": 0.0,
+          "width": 0.0
         }
       ],
       "drc_exclusions": [],
@@ -707,7 +712,7 @@
         "uuid": "b5c66110-c4bc-44b7-b74f-0bc521af7455"
       }
     ],
-    "used_designators": "M101-104,U101-103,SW101,LED276-277",
+    "used_designators": "M101-104,U101-106,SW101,LED276-277",
     "variants": []
   },
   "sheets": [
@@ -728,24 +733,20 @@
       "Controller"
     ],
     [
-      "37a2e385-e742-4cdf-beae-5de0108665d5",
-      "Extras"
-    ],
-    [
-      "4088ed00-9493-4f4c-90bf-8af09cea9729",
+      "008535fd-c840-4e17-8c5d-6cee6937ee5d",
       "Accelerometer"
     ],
     [
-      "0b58d487-16a6-4e3c-a758-5a6adf3604b5",
+      "87e1c962-acbb-4728-92f9-e6d48cb2bd53",
+      "Encoder"
+    ],
+    [
+      "9007150d-a658-40c4-bbc7-078db02ebff4",
       "Haptic"
     ],
     [
-      "fbff92d3-74ba-4fa3-9981-79b8655e9aac",
+      "0e241779-3ded-4956-81bf-c5cc4accca78",
       "Screen"
-    ],
-    [
-      "90a1a563-c2d3-4256-984f-1f92d92f3ce2",
-      "Encoder"
     ]
   ],
   "text_variables": {},
