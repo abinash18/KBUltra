@@ -1067,12 +1067,6 @@
 		(uuid "2c8de498-be5b-4983-932b-e9d567029ed5")
 	)
 	(junction
-		(at 199.39 157.48)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "2e805f48-f903-4f38-bce3-d7519e98b801")
-	)
-	(junction
 		(at 199.39 109.22)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1265,12 +1259,6 @@
 		(uuid "4b7cd08f-f459-49ba-9c13-71d5f8ef7488")
 	)
 	(junction
-		(at 199.39 96.52)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "4d78d06e-93f6-4e21-ad52-db6399356933")
-	)
-	(junction
 		(at 55.88 228.6)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1401,12 +1389,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6b31e718-1906-447d-b3e5-a314932ef6d3")
-	)
-	(junction
-		(at 199.39 218.44)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "6bec8df0-6335-49d2-9941-23676babdfdd")
 	)
 	(junction
 		(at 284.48 200.66)
@@ -1551,12 +1533,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "819a0328-5868-4a8a-81e8-564c05fa739f")
-	)
-	(junction
-		(at 199.39 35.56)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "8264e889-f844-418b-a47d-db9f431b6b49")
 	)
 	(junction
 		(at 256.54 106.68)
@@ -1725,12 +1701,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a554e2a6-ae31-4d22-87b3-44a6eba571e8")
-	)
-	(junction
-		(at 182.88 78.74)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a629b672-c66b-4e74-8e07-cfa7ded80cbe")
 	)
 	(junction
 		(at 284.48 137.16)
@@ -2623,16 +2593,6 @@
 			(type default)
 		)
 		(uuid "0b758582-9e02-4aa9-a383-d264ec9aebcf")
-	)
-	(wire
-		(pts
-			(xy 199.39 218.44) (xy 198.12 218.44)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0b9c7a2f-d1fa-4b43-a4fe-6b1d545bde39")
 	)
 	(wire
 		(pts
@@ -4226,16 +4186,6 @@
 	)
 	(wire
 		(pts
-			(xy 182.88 78.74) (xy 182.88 86.36)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "494c378a-f433-408b-886b-c53f9b5250a5")
-	)
-	(wire
-		(pts
 			(xy 113.03 99.06) (xy 140.97 99.06)
 		)
 		(stroke
@@ -4653,16 +4603,6 @@
 			(type default)
 		)
 		(uuid "571939a1-2432-474b-b07d-ec5b1e0664c9")
-	)
-	(wire
-		(pts
-			(xy 199.39 157.48) (xy 200.66 157.48)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "572db493-9a69-46e6-a359-e3b69a369df3")
 	)
 	(wire
 		(pts
@@ -8026,16 +7966,6 @@
 	)
 	(wire
 		(pts
-			(xy 199.39 96.52) (xy 198.12 96.52)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d2ecdddf-7a53-4d3d-a2cc-a2314b0952dd")
-	)
-	(wire
-		(pts
 			(xy 313.69 78.74) (xy 313.69 81.28)
 		)
 		(stroke
@@ -8443,16 +8373,6 @@
 			(type default)
 		)
 		(uuid "decbf172-fce1-4905-81ed-9b747ec06c51")
-	)
-	(wire
-		(pts
-			(xy 199.39 35.56) (xy 200.66 35.56)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "df75974f-20a1-451e-a7df-ecf85ebb2d07")
 	)
 	(wire
 		(pts
@@ -9530,7 +9450,7 @@
 				)
 			)
 		)
-		(property "JLC Part#" ""
+		(property "JLC Part#" "C14663"
 			(at 208.28 48.26 90)
 			(hide yes)
 			(show_name no)
@@ -9620,7 +9540,7 @@
 				)
 			)
 		)
-		(property "JLC Part#" ""
+		(property "JLC Part#" "C14663"
 			(at 121.92 139.7 90)
 			(hide yes)
 			(show_name no)
@@ -9788,7 +9708,7 @@
 				)
 			)
 		)
-		(property "JLC Part#" ""
+		(property "JLC Part#" "C14663"
 			(at 293.37 48.26 90)
 			(hide yes)
 			(show_name no)
@@ -10505,7 +10425,7 @@
 				)
 			)
 		)
-		(property "JLC Part#" ""
+		(property "JLC Part#" "C14663"
 			(at 121.92 17.78 90)
 			(hide yes)
 			(show_name no)
@@ -10595,7 +10515,7 @@
 				)
 			)
 		)
-		(property "JLC Part#" ""
+		(property "JLC Part#" "C14663"
 			(at 92.71 139.7 90)
 			(hide yes)
 			(show_name no)
@@ -10685,7 +10605,7 @@
 				)
 			)
 		)
-		(property "JLC Part#" ""
+		(property "JLC Part#" "C14663"
 			(at 265.43 48.26 90)
 			(hide yes)
 			(show_name no)
@@ -11285,7 +11205,7 @@
 				)
 			)
 		)
-		(property "JLC Part#" ""
+		(property "JLC Part#" "C14663"
 			(at 121.92 231.14 90)
 			(hide yes)
 			(show_name no)
@@ -11453,7 +11373,7 @@
 				)
 			)
 		)
-		(property "JLC Part#" ""
+		(property "JLC Part#" "C14663"
 			(at 208.28 78.74 90)
 			(hide yes)
 			(show_name no)
@@ -11543,7 +11463,7 @@
 				)
 			)
 		)
-		(property "JLC Part#" ""
+		(property "JLC Part#" "C14663"
 			(at 265.43 139.7 90)
 			(hide yes)
 			(show_name no)
@@ -12103,7 +12023,7 @@
 				)
 			)
 		)
-		(property "JLC Part#" ""
+		(property "JLC Part#" "C14663"
 			(at 322.58 139.7 90)
 			(hide yes)
 			(show_name no)
@@ -12389,7 +12309,7 @@
 				)
 			)
 		)
-		(property "JLC Part#" ""
+		(property "JLC Part#" "C14663"
 			(at 92.71 48.26 90)
 			(hide yes)
 			(show_name no)
@@ -12655,7 +12575,7 @@
 				)
 			)
 		)
-		(property "JLC Part#" ""
+		(property "JLC Part#" "C14663"
 			(at 179.07 200.66 90)
 			(hide yes)
 			(show_name no)
@@ -12745,7 +12665,7 @@
 				)
 			)
 		)
-		(property "JLC Part#" ""
+		(property "JLC Part#" "C14663"
 			(at 64.77 231.14 90)
 			(hide yes)
 			(show_name no)
@@ -12914,7 +12834,7 @@
 				)
 			)
 		)
-		(property "JLC Part#" ""
+		(property "JLC Part#" "C14663"
 			(at 121.92 200.66 90)
 			(hide yes)
 			(show_name no)
@@ -13258,7 +13178,7 @@
 				)
 			)
 		)
-		(property "JLC Part#" ""
+		(property "JLC Part#" "C14663"
 			(at 293.37 170.18 90)
 			(hide yes)
 			(show_name no)
@@ -13701,7 +13621,7 @@
 				)
 			)
 		)
-		(property "JLC Part#" ""
+		(property "JLC Part#" "C14663"
 			(at 149.86 17.78 90)
 			(hide yes)
 			(show_name no)
@@ -13869,7 +13789,7 @@
 				)
 			)
 		)
-		(property "JLC Part#" ""
+		(property "JLC Part#" "C14663"
 			(at 92.71 78.74 90)
 			(hide yes)
 			(show_name no)
@@ -14390,7 +14310,7 @@
 				)
 			)
 		)
-		(property "JLC Part#" ""
+		(property "JLC Part#" "C14663"
 			(at 207.01 231.14 90)
 			(hide yes)
 			(show_name no)
@@ -15282,7 +15202,7 @@
 				)
 			)
 		)
-		(property "JLC Part#" ""
+		(property "JLC Part#" "C14663"
 			(at 149.86 109.22 90)
 			(hide yes)
 			(show_name no)
@@ -15626,7 +15546,7 @@
 				)
 			)
 		)
-		(property "JLC Part#" ""
+		(property "JLC Part#" "C14663"
 			(at 64.77 170.18 90)
 			(hide yes)
 			(show_name no)
@@ -16088,7 +16008,7 @@
 				)
 			)
 		)
-		(property "JLC Part#" ""
+		(property "JLC Part#" "C14663"
 			(at 121.92 78.74 90)
 			(hide yes)
 			(show_name no)
@@ -16433,7 +16353,7 @@
 				)
 			)
 		)
-		(property "JLC Part#" ""
+		(property "JLC Part#" "C14663"
 			(at 92.71 17.78 90)
 			(hide yes)
 			(show_name no)
@@ -16719,7 +16639,7 @@
 				)
 			)
 		)
-		(property "JLC Part#" ""
+		(property "JLC Part#" "C14663"
 			(at 236.22 170.18 90)
 			(hide yes)
 			(show_name no)
@@ -17043,7 +16963,7 @@
 				)
 			)
 		)
-		(property "JLC Part#" ""
+		(property "JLC Part#" "C14663"
 			(at 208.28 109.22 90)
 			(hide yes)
 			(show_name no)
@@ -17133,7 +17053,7 @@
 				)
 			)
 		)
-		(property "JLC Part#" ""
+		(property "JLC Part#" "C14663"
 			(at 293.37 78.74 90)
 			(hide yes)
 			(show_name no)
@@ -17733,7 +17653,7 @@
 				)
 			)
 		)
-		(property "JLC Part#" ""
+		(property "JLC Part#" "C14663"
 			(at 236.22 109.22 90)
 			(hide yes)
 			(show_name no)
@@ -17823,7 +17743,7 @@
 				)
 			)
 		)
-		(property "JLC Part#" ""
+		(property "JLC Part#" "C14663"
 			(at 236.22 78.74 90)
 			(hide yes)
 			(show_name no)
@@ -18246,7 +18166,7 @@
 				)
 			)
 		)
-		(property "JLC Part#" ""
+		(property "JLC Part#" "C14663"
 			(at 64.77 139.7 90)
 			(hide yes)
 			(show_name no)
@@ -19196,7 +19116,7 @@
 				)
 			)
 		)
-		(property "JLC Part#" ""
+		(property "JLC Part#" "C14663"
 			(at 322.58 17.78 90)
 			(hide yes)
 			(show_name no)
@@ -19286,7 +19206,7 @@
 				)
 			)
 		)
-		(property "JLC Part#" ""
+		(property "JLC Part#" "C14663"
 			(at 92.71 170.18 90)
 			(hide yes)
 			(show_name no)
@@ -19454,7 +19374,7 @@
 				)
 			)
 		)
-		(property "JLC Part#" ""
+		(property "JLC Part#" "C14663"
 			(at 236.22 17.78 90)
 			(hide yes)
 			(show_name no)
@@ -19544,7 +19464,7 @@
 				)
 			)
 		)
-		(property "JLC Part#" ""
+		(property "JLC Part#" "C14663"
 			(at 265.43 170.18 90)
 			(hide yes)
 			(show_name no)
@@ -19888,7 +19808,7 @@
 				)
 			)
 		)
-		(property "JLC Part#" ""
+		(property "JLC Part#" "C14663"
 			(at 208.28 139.7 90)
 			(hide yes)
 			(show_name no)
@@ -20076,7 +19996,7 @@
 				)
 			)
 		)
-		(property "JLC Part#" ""
+		(property "JLC Part#" "C14663"
 			(at 149.86 78.74 90)
 			(hide yes)
 			(show_name no)
@@ -20264,7 +20184,7 @@
 				)
 			)
 		)
-		(property "JLC Part#" ""
+		(property "JLC Part#" "C14663"
 			(at 64.77 48.26 90)
 			(hide yes)
 			(show_name no)
@@ -20608,7 +20528,7 @@
 				)
 			)
 		)
-		(property "JLC Part#" ""
+		(property "JLC Part#" "C14663"
 			(at 265.43 17.78 90)
 			(hide yes)
 			(show_name no)
@@ -20796,7 +20716,7 @@
 				)
 			)
 		)
-		(property "JLC Part#" ""
+		(property "JLC Part#" "C14663"
 			(at 179.07 231.14 90)
 			(hide yes)
 			(show_name no)
@@ -20984,7 +20904,7 @@
 				)
 			)
 		)
-		(property "JLC Part#" ""
+		(property "JLC Part#" "C14663"
 			(at 92.71 231.14 90)
 			(hide yes)
 			(show_name no)
@@ -21250,7 +21170,7 @@
 				)
 			)
 		)
-		(property "JLC Part#" ""
+		(property "JLC Part#" "C14663"
 			(at 265.43 78.74 90)
 			(hide yes)
 			(show_name no)
@@ -21614,7 +21534,7 @@
 				)
 			)
 		)
-		(property "JLC Part#" ""
+		(property "JLC Part#" "C14663"
 			(at 64.77 109.22 90)
 			(hide yes)
 			(show_name no)
@@ -21782,7 +21702,7 @@
 				)
 			)
 		)
-		(property "JLC Part#" ""
+		(property "JLC Part#" "C14663"
 			(at 208.28 170.18 90)
 			(hide yes)
 			(show_name no)
@@ -21872,7 +21792,7 @@
 				)
 			)
 		)
-		(property "JLC Part#" ""
+		(property "JLC Part#" "C14663"
 			(at 179.07 170.18 90)
 			(hide yes)
 			(show_name no)
@@ -21964,7 +21884,7 @@
 				)
 			)
 		)
-		(property "JLC Part#" ""
+		(property "JLC Part#" "C23193"
 			(at 96.52 269.24 90)
 			(hide yes)
 			(show_name no)
@@ -22231,7 +22151,7 @@
 				)
 			)
 		)
-		(property "JLC Part#" ""
+		(property "JLC Part#" "C14663"
 			(at 92.71 109.22 90)
 			(hide yes)
 			(show_name no)
@@ -22321,7 +22241,7 @@
 				)
 			)
 		)
-		(property "JLC Part#" ""
+		(property "JLC Part#" "C14663"
 			(at 64.77 259.08 90)
 			(hide yes)
 			(show_name no)
@@ -22411,7 +22331,7 @@
 				)
 			)
 		)
-		(property "JLC Part#" ""
+		(property "JLC Part#" "C14663"
 			(at 64.77 17.78 90)
 			(hide yes)
 			(show_name no)
@@ -22755,7 +22675,7 @@
 				)
 			)
 		)
-		(property "JLC Part#" ""
+		(property "JLC Part#" "C14663"
 			(at 179.07 17.78 90)
 			(hide yes)
 			(show_name no)
@@ -22845,7 +22765,7 @@
 				)
 			)
 		)
-		(property "JLC Part#" ""
+		(property "JLC Part#" "C14663"
 			(at 149.86 170.18 90)
 			(hide yes)
 			(show_name no)
@@ -23013,7 +22933,7 @@
 				)
 			)
 		)
-		(property "JLC Part#" ""
+		(property "JLC Part#" "C14663"
 			(at 121.92 48.26 90)
 			(hide yes)
 			(show_name no)
@@ -23377,7 +23297,7 @@
 				)
 			)
 		)
-		(property "JLC Part#" ""
+		(property "JLC Part#" "C14663"
 			(at 92.71 200.66 90)
 			(hide yes)
 			(show_name no)
@@ -23565,7 +23485,7 @@
 				)
 			)
 		)
-		(property "JLC Part#" ""
+		(property "JLC Part#" "C14663"
 			(at 149.86 200.66 90)
 			(hide yes)
 			(show_name no)
@@ -24163,7 +24083,7 @@
 				)
 			)
 		)
-		(property "JLC Part#" ""
+		(property "JLC Part#" "C14663"
 			(at 236.22 200.66 90)
 			(hide yes)
 			(show_name no)
@@ -24801,7 +24721,7 @@
 				)
 			)
 		)
-		(property "JLC Part#" ""
+		(property "JLC Part#" "C14663"
 			(at 121.92 109.22 90)
 			(hide yes)
 			(show_name no)
@@ -24969,7 +24889,7 @@
 				)
 			)
 		)
-		(property "JLC Part#" ""
+		(property "JLC Part#" "C14663"
 			(at 293.37 17.78 90)
 			(hide yes)
 			(show_name no)
@@ -25059,7 +24979,7 @@
 				)
 			)
 		)
-		(property "JLC Part#" ""
+		(property "JLC Part#" "C14663"
 			(at 293.37 109.22 90)
 			(hide yes)
 			(show_name no)
@@ -25482,7 +25402,7 @@
 				)
 			)
 		)
-		(property "JLC Part#" ""
+		(property "JLC Part#" "C14663"
 			(at 236.22 48.26 90)
 			(hide yes)
 			(show_name no)
@@ -25825,7 +25745,7 @@
 				)
 			)
 		)
-		(property "JLC Part#" ""
+		(property "JLC Part#" "C14663"
 			(at 64.77 200.66 90)
 			(hide yes)
 			(show_name no)
@@ -26345,7 +26265,7 @@
 				)
 			)
 		)
-		(property "JLC Part#" ""
+		(property "JLC Part#" "C14663"
 			(at 208.28 17.78 90)
 			(hide yes)
 			(show_name no)
@@ -26690,7 +26610,7 @@
 				)
 			)
 		)
-		(property "JLC Part#" ""
+		(property "JLC Part#" "C14663"
 			(at 179.07 78.74 90)
 			(hide yes)
 			(show_name no)
@@ -26957,7 +26877,7 @@
 				)
 			)
 		)
-		(property "JLC Part#" ""
+		(property "JLC Part#" "C14663"
 			(at 293.37 139.7 90)
 			(hide yes)
 			(show_name no)
@@ -27047,7 +26967,7 @@
 				)
 			)
 		)
-		(property "JLC Part#" ""
+		(property "JLC Part#" "C14663"
 			(at 293.37 200.66 90)
 			(hide yes)
 			(show_name no)
@@ -27137,7 +27057,7 @@
 				)
 			)
 		)
-		(property "JLC Part#" ""
+		(property "JLC Part#" "C14663"
 			(at 179.07 139.7 90)
 			(hide yes)
 			(show_name no)
@@ -27227,7 +27147,7 @@
 				)
 			)
 		)
-		(property "JLC Part#" ""
+		(property "JLC Part#" "C14663"
 			(at 322.58 109.22 90)
 			(hide yes)
 			(show_name no)
@@ -27395,7 +27315,7 @@
 				)
 			)
 		)
-		(property "JLC Part#" ""
+		(property "JLC Part#" "C14663"
 			(at 121.92 170.18 90)
 			(hide yes)
 			(show_name no)
@@ -27759,7 +27679,7 @@
 				)
 			)
 		)
-		(property "JLC Part#" ""
+		(property "JLC Part#" "C14663"
 			(at 208.28 200.66 90)
 			(hide yes)
 			(show_name no)
@@ -27927,7 +27847,7 @@
 				)
 			)
 		)
-		(property "JLC Part#" ""
+		(property "JLC Part#" "C14663"
 			(at 265.43 200.66 90)
 			(hide yes)
 			(show_name no)
@@ -28115,7 +28035,7 @@
 				)
 			)
 		)
-		(property "JLC Part#" ""
+		(property "JLC Part#" "C14663"
 			(at 179.07 48.26 90)
 			(hide yes)
 			(show_name no)
@@ -28401,7 +28321,7 @@
 				)
 			)
 		)
-		(property "JLC Part#" ""
+		(property "JLC Part#" "C14663"
 			(at 322.58 170.18 90)
 			(hide yes)
 			(show_name no)
@@ -29098,7 +29018,7 @@
 				)
 			)
 		)
-		(property "JLC Part#" ""
+		(property "JLC Part#" "C14663"
 			(at 265.43 109.22 90)
 			(hide yes)
 			(show_name no)
@@ -29287,7 +29207,7 @@
 				)
 			)
 		)
-		(property "JLC Part#" ""
+		(property "JLC Part#" "C23193"
 			(at 39.37 27.94 90)
 			(hide yes)
 			(show_name no)
@@ -29377,7 +29297,7 @@
 				)
 			)
 		)
-		(property "JLC Part#" ""
+		(property "JLC Part#" "C14663"
 			(at 179.07 109.22 90)
 			(hide yes)
 			(show_name no)
@@ -29721,7 +29641,7 @@
 				)
 			)
 		)
-		(property "JLC Part#" ""
+		(property "JLC Part#" "C14663"
 			(at 236.22 139.7 90)
 			(hide yes)
 			(show_name no)
@@ -29890,7 +29810,7 @@
 				)
 			)
 		)
-		(property "JLC Part#" ""
+		(property "JLC Part#" "C14663"
 			(at 322.58 200.66 90)
 			(hide yes)
 			(show_name no)
@@ -30254,7 +30174,7 @@
 				)
 			)
 		)
-		(property "JLC Part#" ""
+		(property "JLC Part#" "C14663"
 			(at 322.58 48.26 90)
 			(hide yes)
 			(show_name no)
@@ -30344,7 +30264,7 @@
 				)
 			)
 		)
-		(property "JLC Part#" ""
+		(property "JLC Part#" "C14663"
 			(at 322.58 78.74 90)
 			(hide yes)
 			(show_name no)
@@ -30610,7 +30530,7 @@
 				)
 			)
 		)
-		(property "JLC Part#" ""
+		(property "JLC Part#" "C14663"
 			(at 149.86 48.26 90)
 			(hide yes)
 			(show_name no)
@@ -30934,7 +30854,7 @@
 				)
 			)
 		)
-		(property "JLC Part#" ""
+		(property "JLC Part#" "C14663"
 			(at 149.86 139.7 90)
 			(hide yes)
 			(show_name no)
@@ -31103,7 +31023,7 @@
 				)
 			)
 		)
-		(property "JLC Part#" ""
+		(property "JLC Part#" "C14663"
 			(at 149.86 231.14 90)
 			(hide yes)
 			(show_name no)
@@ -31525,7 +31445,7 @@
 				)
 			)
 		)
-		(property "JLC Part#" ""
+		(property "JLC Part#" "C14663"
 			(at 64.77 78.74 90)
 			(hide yes)
 			(show_name no)

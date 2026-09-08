@@ -138,7 +138,7 @@
         "too_many_vias": "error",
         "track_angle": "error",
         "track_dangling": "error",
-        "track_not_centered_on_via": "ignore",
+        "track_not_centered_on_via": "error",
         "track_on_post_machined_layer": "error",
         "track_segment_length": "error",
         "track_width": "error",
@@ -163,10 +163,10 @@
         "min_silk_clearance": 0.0,
         "min_text_height": 0.8,
         "min_text_thickness": 0.08,
-        "min_through_hole_diameter": 0.3,
+        "min_through_hole_diameter": 0.2,
         "min_track_width": 0.2,
-        "min_via_annular_width": 0.1,
-        "min_via_diameter": 0.5,
+        "min_via_annular_width": 0.05,
+        "min_via_diameter": 0.4,
         "solder_mask_to_copper_clearance": 0.005,
         "use_height_for_length_calcs": true
       },
@@ -216,6 +216,7 @@
       ],
       "track_widths": [
         0.0,
+        0.1,
         0.2,
         0.25,
         0.5,
@@ -700,6 +701,14 @@
     "meta": {
       "version": 1
     },
+    "ngspice": {
+      "fix_include_paths": true,
+      "meta": {
+        "version": 0
+      },
+      "model_mode": 4,
+      "workbook_filename": ""
+    },
     "page_layout_descr_file": "",
     "plot_directory": "",
     "reuse_designators": true,
@@ -712,7 +721,7 @@
         "uuid": "b5c66110-c4bc-44b7-b74f-0bc521af7455"
       }
     ],
-    "used_designators": "M101-104,U101-106,SW101,LED276-277",
+    "used_designators": "M101-104,U101-106,SW101,C101-112,LED276-277,D101-103,#PWR101-124,R101-110,TP101-104,JP101",
     "variants": []
   },
   "sheets": [

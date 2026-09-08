@@ -5207,7 +5207,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C25905"
 			(at 147.32 59.69 0)
 			(hide yes)
 			(show_name no)
